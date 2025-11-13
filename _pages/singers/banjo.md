@@ -3,7 +3,7 @@ title: "Banjo"
 permalink: /singers/banjo/
 ---
 
-This is a voicebank that I made with a friend.
+This is a voicebank that I made with a friend. It is lower quality than some of my other ones, but I think it sounds good. It has a very calm tone.
 
 # Voicebank Info:
 
