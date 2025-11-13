@@ -23,8 +23,7 @@ title: Kouga-P's Site
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site where I will share my voicebanks and UST/project files!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+url: "https://HeadHunter4621.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  HeadHunter4621
 
 # Build settings
@@ -55,19 +54,35 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 defaults:
-  # _posts
-  - scope:
+  - scope:     # _posts
       path: ""
       type: posts
     values:
       layout: single
       read_time: false
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
+      classes: wide
+      author_profile: true
+  - scope:    # _pages
+      path: ""
+      type: pages
+    values:
+      layout: single
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      classes: wide
+      author_profile: true
 
 author:
-  name     : "Kouga"
-  avatar   : "/assets/images/profile-photo.png"
-  bio      : "definitely an utau producer, mhm"
-  location : "your mom's house"
+  name: "Kouga-P"
+  avatar: "/assets/profile-photo.png"
+  bio: "An UTAU producer who makes lots of voicebanks" # Note: Markdown is allowed
+  links:
+    - label: "YouTube"
+      url: "https://www.youtube.com/@KougaP"
+
+include: ["_pages"]

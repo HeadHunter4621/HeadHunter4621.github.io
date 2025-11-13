@@ -1,7 +1,7 @@
 main:
-#  - title: "Singers"
-#    url: /releases/singers/
-#  - title: "USTs"
-#    url: /releases/ust/
-#  - title: "Blog"
-#    url: /blog/
+  - title: "Singers"
+    url: /singers/
+  - title: "USTs"
+    url: /usts/
+  - title: "About"
+    url: /about/
