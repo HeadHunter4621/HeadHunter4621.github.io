@@ -23,7 +23,7 @@ title: Kouga-P's Site
 description: >- # this means to ignore newlines until "baseurl:"
   This is my site where I will share my voicebanks and UST/project files!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://HeadHunter4621.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://HeadHunter4621.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  HeadHunter4621
 
 # Build settings
