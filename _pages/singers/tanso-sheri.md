@@ -3,14 +3,17 @@ title: "Tanso Sheri"
 permalink: /singers/tanso-sheri
 ---
 
-This is a voicebank that I made with my mom! She has an american accent and it really shows in the voicebank...
+This is a voicebank that I made with my mom! She has an american accent which really shows in the voicebank...
 
 It was so fun to record. Eventually I will do a CVVC voicebank and also a CVVC with my dad and do some kind of duet, which should be really fun!
 
-Demo song:
+# Voicebank Info:
+
+## JA CV
+Demo Song: Ochame Kinou
 {% include video id="XawdOG4-C8A" provider="youtube" %}
 
-## Info:
+### Info:
 * Name:
     * Romaji/English (First, Last): Sheri (aka Shelly) Tanso
     * Kana: たんそ しぇりい
@@ -18,3 +21,8 @@ Demo song:
 * Voice Info:
     * Reclist: [Salem Wasteland JA Standard CV](https://wastelandutau.neocities.org/jp/cv#stan)
     * Recorded Pitch: Around A3 (Optimum Pitch Range: XX~XX)
+
+## JA CVVC **(WIP)**
+
+## EN CVVC **(WIP)**
+
