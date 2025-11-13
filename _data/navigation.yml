@@ -1,6 +1,4 @@
 main:
-  - title: "Updates"
-    url: /
   - title: "Singers"
     url: /singers/
   - title: "USTs"

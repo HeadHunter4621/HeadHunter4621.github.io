@@ -5,10 +5,14 @@ permalink: /singers/enne-jeho/
 
 I made this voicebank with a friend! It will be released very soon!! more info will be here eventualy.
 
-Demo Song:
+# Voicebank Info:
+
+## JA CVVC
+
+Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}
 
-## Info:
+### Info:
 * Name:
     * Romaji/English (First, Last): Jeho En'ne
     * Kana: えんね じぇほ
@@ -28,7 +32,7 @@ Demo Song:
 ## Usage:
 * If/when you post a song/cover, please message Kouga! I want to see what you create!
     * Please credit "KougaP" and/or "En'Ne Jeho" (or other variations of the names) in the description when you post things
-* Commercial use: Get permision from Kouga
+* Commercial use: Get permission from Kouga
 * NSFW/Adult content: Not allowed (If unsure if it's too adult, contact Kouga)
 * Training AI singing models (like DiffSinger/RVC): not allowed
 * No obscene, defamatory, libelous, hateful, discriminatory, slanderous, and/or unlawful content.

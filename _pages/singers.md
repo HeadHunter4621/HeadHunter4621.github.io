@@ -6,9 +6,9 @@ permalink: /singers/
 This is the directory where I'll host all of my UTAU voicebanks and DiffSinger models and other stuff!
 
 ## Public:
-- [Suigin Koora (JA, EN)](/singers/suigin-koora)
-- [En'ne Jeho (JA)](/singers/enne-jeho)
-- [Oil (JA, EN, DiffSinger)](/singers/oil)
+- [Suigin Koora](/singers/suigin-koora)
+- [En'ne Jeho](/singers/enne-jeho)
+- [Oil](/singers/oil)
 
 ## Private:
 - [Banjo](/singers/banjo)
@@ -19,7 +19,7 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Haruka](/singers/haruka)
 - [Kylie](/singers/kylie)
 - [Link](/singers/link)
-- [Magnesium Mari](singers/magnesium-mari.md)
+- [Magnesium Mari](/singers/magnesium-mari)
 - [Max](/singers/max)
 - [Tetsu Noa](/singers/tetsu-noa)
 - [Scrunge](/singers/scrunge)
