@@ -1,0 +1,14 @@
+---
+title: "Kylie"
+permalink: /singers/kylie/
+---
+
+This is another voicebank that I made with one of my friends.
+
+# Voicebank Info **(WIP)**:
+
+## JA CVVC **(WIP)**
+
+## ES CVVC **(WIP)**
+
+## EN C+V **(WIP)**
