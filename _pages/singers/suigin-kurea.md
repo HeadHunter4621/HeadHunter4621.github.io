@@ -31,3 +31,5 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) **(WIP)** (with [Suigin Koora](/singers/suigin-
 Demo Song: Overload
 
 ## FR CVVC **(WIP)**
+
+## EN GrayGlish **(WIP)**

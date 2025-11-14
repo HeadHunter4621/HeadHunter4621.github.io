@@ -7,14 +7,14 @@ This is my flagship voicebank, Suigin Koora! It uses my voice and I think it has
 
 I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all of hte types of reclist I do before recording with friends, that way I can make any edits if needed.
 
-# Character Info **(WIP)**:
+# Character Info:
 
 - Name:
     - Romaji/English (First, Last): Koora Suigin
     - Kana: すいぎん こおら
     - Kanji: 水銀コーラ
 
-# Voicebank Info **(WIP)**:
+# Voicebank Info:
 
 ## JA CVVC 
 
@@ -34,6 +34,8 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) **(WIP)**
         - Usage example: [で][e s][s -] [か][a -]
 
 ## EN GrayGlish CVVC **(WIP)**
+
+Demo Song: Getcha (Giga)
 
 ## EN S-CVVC 
 
