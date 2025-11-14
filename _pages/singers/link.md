@@ -11,4 +11,4 @@ This is a voicebank that I plan to record soon
 
 ## JA CVVC **(WIP)**
 
-## EN C+V **(WIP)**
+## EN CVVC **(WIP)**
