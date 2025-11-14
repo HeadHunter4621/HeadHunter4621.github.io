@@ -22,7 +22,7 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Link](/singers/link)
 - [Magnesium Mari (マグネシウム マリ)](/singers/magnesium-mari)
 - [Max](/singers/max)
-- [Scrunge](/singers/scrunge)
+- [Scrunge (スクランジ)](/singers/scrunge)
 - [Shep (シェップ)](/singers/shep)
 - [Tanso Sheri (炭素 シェリ)](/singers/tanso-sheri)
 - [Tetsu Noa (鉄 ノア)](/singers/tetsu-noa)

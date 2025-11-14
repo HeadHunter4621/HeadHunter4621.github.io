@@ -8,9 +8,9 @@ This is a voicebank that I made with one of my other friends. She isn't especial
 # Character Info **(WIP)**:
 
 - Name:
-    - Romaji/English (First, Last): Jeho En'ne
-    - Kana: えんね じぇほ
-    - Kanji: 鉛音ジェホ
+    - Romaji/English (First, Last): Scrunge
+    - Kana: すくらんじ
+    - Kanji: スクランジ
 
 # Voicebank Info **(WIP)**:
 
