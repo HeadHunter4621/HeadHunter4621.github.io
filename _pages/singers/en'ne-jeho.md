@@ -12,14 +12,14 @@ I made this voicebank with a friend! It will be released very soon!! more info w
   - Kana: えんね じぇほ 
   - Kanji: 鉛音ジェホ
 
-# Voicebank Info **(WIP)**:
+# Voicebank Info:
 
 ## JA CVVC
 
 Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}
 
-### Info **(WIP)**:
+### Info:
 
 - Reclist: [Salem Wasteland JA CVVC 8-Mora (Expanded)](https://wastelandutau.neocities.org/jp/cvvc#8) (Modified by Kouga)	
 - Recorded Pitch: G3 @ 120 BPM (Optimum Pitch Range: G2~G5)

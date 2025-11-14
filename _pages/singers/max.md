@@ -3,7 +3,7 @@ title: "Max"
 permalink: /singers/max/
 ---
 
-This is a voicebank I made with another of my friends. She has a soft and quiet tone.
+This is a voicebank I will make with another of my friends eventually.
 
 # Character Info **(WIP)**:
 
