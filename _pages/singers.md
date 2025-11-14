@@ -7,7 +7,7 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 
 ## Public:
 - [Emma](/singers/emma)
-- [En'ne Jeho (鉛音 ジェホ)](/singers/enne-jeho)
+- [En'ne Jeho (鉛音 ジェホ)](/singers/en'ne-jeho)
 - [Oil](/singers/oil)
 - [Suigin Koora (水銀 コーラ)](/singers/suigin-koora)
 
