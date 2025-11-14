@@ -1,5 +1,5 @@
 ---
-title: "Lisatopian CVVC and VCV Reclists"
+title: "Lisatopian CVVC and VCV Reclists, GrayGlish"
 ---
 
 I'm working on a reclist/oto/voicebank for [Lisatopian](https://www.youtube.com/watch?v=Lcsluv17qNU), a conlang by [L4MPLIGHT](https://www.youtube.com/@L4MPLIGHT)
@@ -12,3 +12,5 @@ I think I will release it once it's done, but it will take a while lol
 This is the song I plan to cover once I make my voicebank:
 {% include video id="Lcsluv17qNU" provider="youtube" %}
 I'm very excited! L4MPLIGHT seems somewhat interested in it too, and I think that when I finish this I will give them the resources to create their own voicebank as well!
+
+Also tonight I am going to record a GrayGlish VB for Kouga, pray for me
