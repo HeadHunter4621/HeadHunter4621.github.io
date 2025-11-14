@@ -10,6 +10,7 @@ I made this voicebank with my friend, Marley. It was so fun! She has a uniquely 
 # Voicebank Info **(WIP)**
 
 ## JA CVVC
+
 Demo Song: Amedama (Popeyo) **(WIP)**
 
 ## JA VCV **(WIP)**
