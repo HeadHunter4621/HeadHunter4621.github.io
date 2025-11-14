@@ -1,6 +1,6 @@
 ---
-title: "Claire"
-permalink: /singers/claire/
+title: "Suigin Kurea (Claire) [水銀 クレア]"
+permalink: /singers/suigin-kurea/
 ---
 
 This is a voicebank that I made with my sister. She doesn't know any Japanese, so some of the pronunciations are wrong. Hopefully, we will eventually make a Japanese VCV as well as possibly a French CVVC voicebank since she speaks that language.

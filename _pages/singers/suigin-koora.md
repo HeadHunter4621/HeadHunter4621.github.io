@@ -1,5 +1,5 @@
 ---
-title: "Siugin Koora"
+title: "Siugin Koora [水銀 コーラ]"
 permalink: /singers/suigin-koora/
 ---
 
@@ -33,7 +33,9 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) **(WIP)**
     - Standalone consonant phonemes (C -):
         - Usage example: [で][e s][s -] [か][a -]
 
-## EN CVVC 
+## EN GrayGlish CVVC **(WIP)**
+
+## EN S-CVVC 
 
 ### Info:
 
