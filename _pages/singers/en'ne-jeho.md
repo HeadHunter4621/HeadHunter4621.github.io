@@ -1,5 +1,5 @@
 ---
-title: "En'ne Jeho"
+title: "En'ne Jeho [鉛音ジェホ]"
 permalink: /singers/enne-jeho/
 ---
 

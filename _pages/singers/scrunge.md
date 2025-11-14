@@ -1,5 +1,5 @@
 ---
-title: "Scrunge"
+title: "Scrunge　[スクランじ]"
 permalink: /singers/scrunge/
 ---
 

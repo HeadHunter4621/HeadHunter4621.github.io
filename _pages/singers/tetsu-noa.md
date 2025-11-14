@@ -1,5 +1,5 @@
 ---
-title: "Tetsu Noa"
+title: "Tetsu Noa [鉄 ノア]"
 permalink: /singers/tetsu-noa/
 ---
 

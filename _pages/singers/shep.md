@@ -1,5 +1,5 @@
 ---
-title: "Shep"
+title: "Shep [シェップ]"
 permalink: /singers/shep/
 ---
 
