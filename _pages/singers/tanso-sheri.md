@@ -16,10 +16,12 @@ It was so fun to record. Eventually I will do a CVVC voicebank and also a CVVC w
 # Voicebank Info **(WIP)**:
 
 ## JA CV
+
 Demo Song: Ochame Kinou
 {% include video id="XawdOG4-C8A" provider="youtube" %}
 
 ### Info **(WIP)**:
+
 - Reclist: [Salem Wasteland JA Standard CV](https://wastelandutau.neocities.org/jp/cv#stan)
 - Recorded Pitch: Around A3 (Optimum Pitch Range: XX~XX)
 
