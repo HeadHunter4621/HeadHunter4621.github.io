@@ -10,4 +10,5 @@ This is a voicebank I made with my friend, Noah. It was really fun to record. He
 # Voicebank Info **(WIP)**:
 
 ## JA CVVC
+
 Demo Song: Hadal Abyss Zone (Inabakumori) **(WIP)**

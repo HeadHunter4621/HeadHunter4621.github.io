@@ -9,10 +9,10 @@ This is a voicebank that I plan to record with my great grandmother!
 
 # Voicebank Info **(WIP)**:
 
-## EN C+V
+## EN C+V **(WIP)**
 
 Demo Song: Daisy Bell **(WIP)**
 
-## JA CV
+## JA CV **(WIP)**
 
 Demo Song: Hoshi no Kakera **(WIP)**
