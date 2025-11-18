@@ -1,5 +1,5 @@
 ---
-title: "Banjo"
+title: "Banjo [バンジョー]"
 permalink: /singers/banjo/
 ---
 
