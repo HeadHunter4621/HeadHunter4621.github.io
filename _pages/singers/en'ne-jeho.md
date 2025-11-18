@@ -14,7 +14,7 @@ I made this voicebank with a friend! It will be released very soon!! more info w
 
 # Voicebank Info:
 
-## JA CVVC
+## JA CVVC [[Download]](https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_link)
 
 Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}
