@@ -1,6 +1,6 @@
 ---
 title: "En'ne Jeho [鉛音ジェホ]"
-permalink: /singers/enne-jeho/
+permalink: /singers/en'ne-jeho/
 ---
 
 I made this voicebank with a friend! It will be released very soon!! more info will be here eventualy.
