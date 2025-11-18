@@ -80,9 +80,10 @@ defaults:
 author:
   name: "Kouga-P"
   avatar: "/assets/profile-photo.png"
-  bio: "An UTAU producer who makes lots of voicebanks" # Note: Markdown is allowed
+  bio: "I'm an UTAU producer who makes lots of voicebanks! You can find me on Discord as @hh4621 and on Matrix as @hh4621:matrix.org" # Note: Markdown is allowed
   links:
     - label: "YouTube"
       url: "https://www.youtube.com/@KougaP"
+
 
 include: ["_pages"]
