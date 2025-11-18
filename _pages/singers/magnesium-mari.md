@@ -1,5 +1,5 @@
 ---
-title: "Magnesium Mari"
+title: "Magnesium Mari [マグネシウム マリ]"
 permalink: /singers/magnesium-mari/
 ---
 
