@@ -7,7 +7,7 @@ This is a voicebank that I plan to record with my friend. It will be Japanese CV
 
 # Character Info:
 * Name:
-  * Romaji/English (First, Last): Mizuki Mae
+  * Romaji/English (First, Last): Mae Mizuki
   * Kana: みずき まえ 
   * Kanji: 美月マエ
 
