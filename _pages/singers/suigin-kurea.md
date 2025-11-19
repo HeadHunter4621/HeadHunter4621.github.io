@@ -11,7 +11,9 @@ This is a voicebank that I made with my sister. She doesn't know any Japanese, s
 
 ## JA CVVC
 
-Demo Song: I~Ya I~Ya I~Ya (Neru) **(WIP)** (with [Suigin Koora](/singers/suigin-koora))
+Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Koora](/singers/suigin-koora))
+{% include video id="Q54Mj7CfqRU" provider="youtube" %}
+
 
 ### Info:
 
