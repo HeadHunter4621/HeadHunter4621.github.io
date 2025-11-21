@@ -18,7 +18,8 @@ I have made (and will continue to make) so many voicebanks with my voice, since 
 
 ## JA CVVC 
 
-Demo Song: I~Ya I~Ya I~Ya (Neru) **(WIP)**
+Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Kurea](/singers/suigin-kurea))
+{% include video id="Q54Mj7CfqRU" provider="youtube" %}
 
 ### Info:
 

@@ -1,11 +1,11 @@
 ---
 title: "En'ne Jeho [鉛音ジェホ]"
-permalink: /singers/enne-jeho/
+permalink: /singers/en'ne-jeho/
 ---
 
 I made this voicebank with a friend! It will be released very soon!! more info will be here eventualy.
 
-# Character Info **(WIP)**:
+# Character Info:
 
 - Name:
   - Romaji/English (First, Last): Jeho En'ne 
@@ -14,7 +14,7 @@ I made this voicebank with a friend! It will be released very soon!! more info w
 
 # Voicebank Info:
 
-## JA CVVC
+## JA CVVC [[Download]](https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_link)
 
 Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}
@@ -25,10 +25,9 @@ Demo Song: Dogs Walking (Kaguo)
 - Recorded Pitch: G3 @ 120 BPM (Optimum Pitch Range: G2~G5)
 - Extra Features:
   - Breaths structured like CV's and VC's ([a IN], [OUT a], etc) (IN and OUT) (Only for vowels)
-  - Standalone breaths: [IN1]-[IN6], [OUT1]-[OUT6]
-  - Stops: VCV-formatted v'V for stop, v"V for fry (ex: [a'い], [u"え])
+  - Standalone breaths: [IN1]-[IN9], [OUT1]-[OUT9]
+  - Stops: VCV-formatted v'V for stop (ex: [a'い])
   - American-English R ([wら]-[wろ]) and L ([ラ]-[ロ]) (with CV and VCs ([a l], [a r]))
-  - Rolled R ([rら]-[rろ]) (with CV and VCs ([a rr]))
   - Standalone consonant phonemes (C -):
     - Usage example: [で][e s][s -] [か][a -]
 
