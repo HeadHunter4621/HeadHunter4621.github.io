@@ -14,6 +14,7 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 ## Private:
 - [Banjo (バンジョー)](/singers/banjo)
 - [Ely](/singers/ely)
+- [Girlthing (ガールシング)](/singers/girlthing)
 - [Grandma Hukki](/singers/grandma-hukki)
 - [Haruka](/singers/haruka)
 - [Kylie](/singers/kylie)
@@ -21,7 +22,6 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Magnesium Mari (マグネシウム マリ)](/singers/magnesium-mari)
 - [Max](/singers/max)
 - [Scrunge (スクランジ)](/singers/scrunge)
-- [Shep (シェップ)](/singers/shep)
 - [Suigin Chris (水銀 クリス)](/singers/suigin-kurisu)
 - [Suigin Claire (水銀 クレア)](/singers/suigin-kurea)
 - [Suigin Sheri (水銀 シェリ)](/singers/suigin-sheri)

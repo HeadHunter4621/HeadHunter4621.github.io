@@ -1,6 +1,6 @@
 ---
-title: "Shep [シェップ]"
-permalink: /singers/shep/
+title: "Girlthing [ガールシング]"
+permalink: /singers/girlthing/
 ---
 
 This is a voicebank that I made with a friend. He wanted to record a voicebank before taking testosterone to preserve his voice, which I think is very cool!
@@ -12,9 +12,9 @@ He has a very light tone which works very will for slower songs.
 # Character Info **(WIP)**:
 
 - Name:
-    - Romaji/English (First, Last): Shep
-    - Kana: しぇっぷ
-    - Kanji: シェップ
+    - Romaji/English (First, Last): Girlthing
+    - Kana: があるしんぐ
+    - Kanji: ガールシング
 
 # Voicebank Info **(WIP)**:
 
