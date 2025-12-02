@@ -5,6 +5,8 @@ permalink: /singers/mizuki-mae/
 
 This is a voicebank that I plan to record with my friend. It will be Japanese CVVC with Filipino phonemes added.
 
+[JA CVVC Download](/placeholder/){: .btn .btn--primary}
+
 # Character Info:
 * Name:
   * Romaji/English (First, Last): Mae Mizuki
