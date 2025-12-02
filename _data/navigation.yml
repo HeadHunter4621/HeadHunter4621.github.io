@@ -1,7 +1,9 @@
 main:
+  - title: "水銀コーラ (Suigin Koora)"
+    url: /singers/suigin-koora/
   - title: "Singers"
     url: /singers/
   - title: "USTs"
-    url: /usts/
+    url: https://vocaloader.app/users/580
   - title: "About"
     url: /about/

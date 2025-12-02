@@ -4,8 +4,9 @@ permalink: /singers/en'ne-jeho/
 ---
 
 ![image-right](/assets/images/singer-icons/Jeho-Icon.png){: .align-right}
-I made this voicebank with a friend! It is now available for download (the button is next to `JA CVVC`)
+I made this voicebank with a friend! It is now available for download. It has a smooth tone that is great for mor gentle songs, but it also works well with faster songs if tuned correctly.
 
+[JA CVVC Download](#https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn .btn--primary}
 
 # Character Info:
 
@@ -16,7 +17,7 @@ I made this voicebank with a friend! It is now available for download (the butto
 
 # Voicebank Info:
 
-## JA CVVC [[Download]](https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_link)
+## JA CVVC
 
 Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}

@@ -3,7 +3,11 @@ title: "Suigin Kurea (Claire) [水銀 クレア]"
 permalink: /singers/suigin-kurea/
 ---
 
-This is a voicebank that I made with my sister. She doesn't know any Japanese, so some of the pronunciations are wrong. Hopefully, we will eventually make a Japanese VCV as well as possibly a French CVVC voicebank since she speaks that language.
+This is a voicebank that I made with my sister. She doesn't know any Japanese, so some of the pronunciations are somewhat american sounding.
+
+After recording the JA CVVC voicebank, I decided that it was low quality, so we recorded a JA VCV voicebank. Eventually, I plan to make a FR CVVC voicebank as well since she speaks that language
+
+[JA VCV Download](/placeholder/){: .btn .btn--primary} [FR CVVC Download](/placeholder/){: .btn .btn--primary}  [JA CVVC Download](/placeholder/){: .btn .btn--primary}
 
 # Character Info **(WIP)**:
 

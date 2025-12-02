@@ -5,7 +5,13 @@ permalink: /singers/suigin-koora/
 
 This is my flagship voicebank, Suigin Koora! It uses my voice and I think it has a very good tone and strength. It will be released eventually!
 
-I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all of hte types of reclist I do before recording with friends, that way I can make any edits if needed.
+I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all of the types of reclist I use before recording with friends, that way I can make any edits if needed.
+
+Japanese: [JA CVVC Download](/placeholder/){: .btn .btn--primary} [JA VCV Download](/placeholder/){: .btn .btn--primary}
+
+English: [EN GreyGlish 2.0 Download](/placeholder/){: .btn .btn--primary} [EN S-CVVC Download](/placeholder/){: .btn .btn--primary}  [EN C+V Download](/placeholder/){: .btn .btn--primary}
+
+Other: [DiffSinger Download](/placeholder/){: .btn .btn--primary} [TP CVVC Download](/placeholder/){: .btn .btn--primary}  [FR CVVC Download](/placeholder/){: .btn .btn--primary}  [ES CVVC Download](/placeholder/){: .btn .btn--primary}
 
 # Character Info:
 
@@ -43,6 +49,19 @@ Demo Song: Getcha (Giga)
 ### Info:
 
 - Trained and Distributed by [NeoDIVA](https://www.neodiva.xyz/home)
+- Languages
+    - English (Native)
+    - Japanese (Secondary)
+    - Thai
+    - Korean
+    - Italian
+    - Spanish
+    - Chinese
+    - Portuguese (Brazilian)
+    - Georgian
+    - Romanian
+    - Polish
+    - French
 - Songs Used in Data:
     - WIP
     - *Trained alongside all other NeoDIVA data (see website for details)*
@@ -62,6 +81,12 @@ Demo Song: Getcha (Giga)
 - Recorded Pitch: B3 @ 120 BPM (Optimum Pitch Range: F2~F5)
 - Extra Features:
   - Vocal fry (Formatted like VC (EX: a fr))
+
+## TP CVVC
+
+### Info:
+
+- Reclist: [Salem Wasteland TP Standard CVVC](https://wastelandutau.neocities.org/ex/tokipona#cvvc)
 
 ## EN C+V
 
