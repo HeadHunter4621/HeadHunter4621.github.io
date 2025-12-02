@@ -3,7 +3,9 @@ title: "En'ne Jeho [鉛音ジェホ]"
 permalink: /singers/en'ne-jeho/
 ---
 
-I made this voicebank with a friend! It is now available do download (the button is next to `JA CVVC`)
+![image-right](/assets/images/singer-icons/Jeho-Icon.png){: .align-right}
+I made this voicebank with a friend! It is now available for download (the button is next to `JA CVVC`)
+
 
 # Character Info:
 

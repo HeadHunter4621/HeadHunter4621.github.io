@@ -38,6 +38,15 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Kurea](/singers/suigin-kurea))
 
 Demo Song: Getcha (Giga)
 
+## DiffSinger (NeoDIVA)
+
+### Info:
+
+- Trained and Distributed by [NeoDIVA](https://www.neodiva.xyz/home)
+- Songs Used in Data:
+    - WIP
+    - *Trained alongside all other NeoDIVA data (see website for details)*
+
 ## EN S-CVVC 
 
 ### Info:
