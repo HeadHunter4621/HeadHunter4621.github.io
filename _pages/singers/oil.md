@@ -8,7 +8,9 @@ This is a voicebank that I will record soon with my friend, Oliver. A while ago,
 
 We have now re-recorded the CVVC voicebank (using a 2-mora reclist since it was easier for the voice provider) and recorded 8 songs for NeoDIVA DiffSinger. They have been labeled and the audio has been submitted. I will makea post on [the homepage](/) when it is released! 
 
-[DiffSinger Download](/placeholder/){: .btn .btn--primary} [JA CVVC Download](/placeholder/){: .btn .btn--primary}
+## Downloads
+
+[DiffSinger](/placeholder/){: .btn .btn--primary} [JA CVVC](/placeholder/){: .btn .btn--primary}
 
 # Character Info **(WIP)**:
 

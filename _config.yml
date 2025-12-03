@@ -85,6 +85,9 @@ author:
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@KougaP"
+    - label: "Email"
+      icon: "fa-solid fa-envelope-open"
+      url: "mailto:kouga-p@proton.me"
 
 footer:
   links:

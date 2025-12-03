@@ -6,7 +6,9 @@ permalink: /singers/en'ne-jeho/
 ![image-right](/assets/images/singer-icons/Jeho-Icon.png){: .align-right}
 I made this voicebank with a friend! It is now available for download. It has a smooth tone that is great for mor gentle songs, but it also works well with faster songs if tuned correctly.
 
-[JA CVVC Download](#https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn .btn--primary}
+## Downloads
+
+[JA CVVC](#https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn .btn--primary}
 
 # Character Info:
 
