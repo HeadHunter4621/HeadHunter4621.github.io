@@ -1,6 +1,7 @@
 ---
 title: "Suigin Kurea (Claire) [水銀 クレア]"
 permalink: /singers/suigin-kurea/
+
 ---
 
 This is a voicebank that I made with my sister. She doesn't know any Japanese, so some of the pronunciations are somewhat american sounding.
