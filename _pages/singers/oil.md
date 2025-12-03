@@ -10,7 +10,7 @@ We have now re-recorded the CVVC voicebank (using a 2-mora reclist since it was 
 
 ## Downloads
 
-[DiffSinger](/placeholder/){: .btn .btn--primary} [JA CVVC](/placeholder/){: .btn .btn--primary}
+[DiffSinger](/placeholder/){: .btn .btn--inverse} [JA CVVC 2.0](/placeholder/){: .btn .btn--inverse} [JA CVVC 1.0](/placeholder/){: .btn .btn--inverse}
 
 # Character Info **(WIP)**:
 

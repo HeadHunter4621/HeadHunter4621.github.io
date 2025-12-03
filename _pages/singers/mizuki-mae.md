@@ -7,7 +7,7 @@ This is a voicebank that I plan to record with my friend. It will be Japanese CV
 
 ## Downloads
 
-[JA CVVC](/placeholder/){: .btn .btn--primary}
+[JA CVVC 1.0](/placeholder/){: .btn .btn--inverse}
 
 # Character Info:
 * Name:

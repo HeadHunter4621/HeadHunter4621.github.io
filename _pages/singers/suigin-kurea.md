@@ -10,7 +10,7 @@ After recording the JA CVVC voicebank, I decided that it was low quality, so we 
 
 ## Downloads
 
-[JA VCV](/placeholder/){: .btn .btn--primary} [FR CVVC](/placeholder/){: .btn .btn--primary}  [JA CVVC](/placeholder/){: .btn .btn--primary}
+[JA VCV](/placeholder/){: .btn .btn--inverse} [FR CVVC](/placeholder/){: .btn .btn--inverse}  [JA CVVC](/placeholder/){: .btn .btn--inverse}
 
 # Character Info **(WIP)**:
 
