@@ -85,5 +85,13 @@ author:
     - label: "YouTube"
       url: "https://www.youtube.com/@KougaP"
 
+footer:
+  links:
+    - label: "YouTube"
+      icon: "<fa-brands fa-youtube"
+      url: "https://www.youtube.com/@KougaP"
+    - label: "Issues? Send an email!"
+      icon: "fa-solid fa-envelope-open"
+      url: "mailto:kouga-p@proton.me"
 
 include: ["_pages"]
