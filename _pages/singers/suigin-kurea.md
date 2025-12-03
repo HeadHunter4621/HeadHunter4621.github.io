@@ -8,7 +8,9 @@ This is a voicebank that I made with my sister. She doesn't know any Japanese, s
 
 After recording the JA CVVC voicebank, I decided that it was low quality, so we recorded a JA VCV voicebank. Eventually, I plan to make a FR CVVC voicebank as well since she speaks that language
 
-[JA VCV Download](/placeholder/){: .btn .btn--primary} [FR CVVC Download](/placeholder/){: .btn .btn--primary}  [JA CVVC Download](/placeholder/){: .btn .btn--primary}
+## Downloads
+
+[JA VCV](/placeholder/){: .btn .btn--primary} [FR CVVC](/placeholder/){: .btn .btn--primary}  [JA CVVC](/placeholder/){: .btn .btn--primary}
 
 # Character Info **(WIP)**:
 

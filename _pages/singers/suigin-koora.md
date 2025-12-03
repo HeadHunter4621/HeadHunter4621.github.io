@@ -7,11 +7,13 @@ This is my flagship voicebank, Suigin Koora! It uses my voice and I think it has
 
 I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all of the types of reclist I use before recording with friends, that way I can make any edits if needed.
 
-Japanese: [JA CVVC Download](/placeholder/){: .btn .btn--primary} [JA VCV Download](/placeholder/){: .btn .btn--primary}
+## Downloads
 
-English: [EN GreyGlish 2.0 Download](/placeholder/){: .btn .btn--primary} [EN S-CVVC Download](/placeholder/){: .btn .btn--primary}  [EN C+V Download](/placeholder/){: .btn .btn--primary}
+Japanese: [JA CVVC](/placeholder/){: .btn .btn--primary} [JA VCV](/placeholder/){: .btn .btn--primary}
 
-Other: [DiffSinger Download](/placeholder/){: .btn .btn--primary} [TP CVVC Download](/placeholder/){: .btn .btn--primary}  [FR CVVC Download](/placeholder/){: .btn .btn--primary}  [ES CVVC Download](/placeholder/){: .btn .btn--primary}
+English: [EN GreyGlish 2.0](/placeholder/){: .btn .btn--primary} [EN S-CVVC](/placeholder/){: .btn .btn--primary}  [EN C+V](/placeholder/){: .btn .btn--primary}
+
+Other: [DiffSinger](/placeholder/){: .btn .btn--primary} [TP CVVC](/placeholder/){: .btn .btn--primary}  [FR CVVC](/placeholder/){: .btn .btn--primary}  [ES CVVC](/placeholder/){: .btn .btn--primary}
 
 # Character Info:
 
