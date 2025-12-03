@@ -9,11 +9,11 @@ I have made (and will continue to make) so many voicebanks with my voice, since 
 
 ## Downloads
 
-Japanese: [JA CVVC](/placeholder/){: .btn .btn--primary} [JA VCV](/placeholder/){: .btn .btn--primary}
+Japanese: [JA CVVC 1.0](/placeholder/){: .btn .btn--inverse} [JA VCV 1.0](/placeholder/){: .btn .btn--inverse}
 
-English: [EN GreyGlish 2.0](/placeholder/){: .btn .btn--primary} [EN S-CVVC](/placeholder/){: .btn .btn--primary}  [EN C+V](/placeholder/){: .btn .btn--primary}
+English: [EN GreyGlish 1.0](/placeholder/){: .btn .btn--inverse} [EN S-CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [EN C+V 1.0](/placeholder/){: .btn .btn--inverse}
 
-Other: [DiffSinger](/placeholder/){: .btn .btn--primary} [TP CVVC](/placeholder/){: .btn .btn--primary}  [FR CVVC](/placeholder/){: .btn .btn--primary}  [ES CVVC](/placeholder/){: .btn .btn--primary}
+Other: [DiffSinger](/placeholder/){: .btn .btn--inverse} [TP CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [FR CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [ES CVVC 1.0](/placeholder/){: .btn .btn--inverse}
 
 # Character Info:
 
