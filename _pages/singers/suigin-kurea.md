@@ -4,9 +4,11 @@ permalink: /singers/suigin-kurea/
 
 ---
 
-This is a voicebank that I made with my sister. She doesn't know any Japanese, so some of the pronunciations are somewhat american sounding.
+This is a voicebank that I made with my sister. 
+She doesn't know any Japanese, so some of the pronunciations are somewhat american sounding.
 
-After recording the JA CVVC voicebank, I decided that it was low quality, so we recorded a JA VCV voicebank. Eventually, I plan to make a FR CVVC voicebank as well since she speaks that language
+After recording the JA CVVC voicebank, I decided that it was low quality, so we recorded a JA VCV voicebank. 
+Eventually, I plan to make a FR CVVC voicebank as well since she speaks that language
 
 ## Downloads
 

@@ -4,7 +4,8 @@ permalink: /singers/scrunge/
 ---
 
 ![image-right](/assets/images/singer-icons/Scrunge-Icon.png){: .align-right}
-This is a voicebank that I made with one of my other friends. She isn't especially great at Japanese pronunciation, but she has a very low tone which is very unique.
+This is a voicebank that I made with one of my other friends. 
+She isn't especially great at Japanese pronunciation, but she has a very low tone which is very unique.
 
 # Character Info **(WIP)**:
 

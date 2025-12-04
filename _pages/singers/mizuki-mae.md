@@ -3,7 +3,8 @@ title: "Mizuki Mae [美月マエ]"
 permalink: /singers/mizuki-mae/
 ---
 
-This is a voicebank that I plan to record with my friend. It will be Japanese CVVC with some extra Filipino phonemes added.
+This is a voicebank that I plan to record with my friend. 
+It will be Japanese CVVC with some extra Filipino phonemes added.
 
 ## Downloads
 

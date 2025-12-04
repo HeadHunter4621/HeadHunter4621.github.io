@@ -4,9 +4,13 @@ permalink: /singers/oil/
 ---
 
 ![image-right](/assets/images/singer-icons/Oil-Icon.png){: .align-right}
-This is a voicebank that I will record soon with my friend, Oliver. A while ago, we recorded a CVVC voicebank, but it was very low quality because I accidentally used my webcam's microphone (lol). The low quality version is not available for download (but if you're really interested you could message/email me).
+This is a voicebank that I will record soon with my friend, Oliver. 
+A while ago, we recorded a CVVC voicebank, but it was very low quality because I accidentally used my webcam's microphone (lol). 
+The low quality version is not available for download (but if you're really interested you could message/email me).
 
-We have now re-recorded the CVVC voicebank (using a 2-mora reclist since it was easier for the voice provider) and recorded 8 songs for NeoDIVA DiffSinger. They have been labeled and the audio has been submitted. I will make a post on [the homepage](/) when it is released! 
+We have now re-recorded the CVVC voicebank (using a 2-mora reclist since it was easier for the voice provider) and recorded 8 songs for NeoDIVA DiffSinger. 
+They have been labeled and the audio has been submitted. 
+I will make a post on [the homepage](/) when it is released! 
 
 ## Downloads
 
