@@ -9,7 +9,7 @@ It has a smooth tone that is great for more gentle songs, but it also works well
 
 ## Downloads
 
-[JA CVVC 1.1](https://drive.google.com/file/d/1LfGmzmgvKFHk6KcEOOmBx-bRT-r4blkl/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn}
+[JA CVVC 1.1](https://drive.google.com/file/d/1OvisHuK9cC54Q_D6F6A0jOj2kfMxhJ64/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/14UlUy-RkDtzaiQu5-xzMccNrlC_SfdaS/view?usp=sharing){: .btn}
 
 ## Character Info:
 
