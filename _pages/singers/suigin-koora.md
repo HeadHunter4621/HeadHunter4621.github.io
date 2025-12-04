@@ -12,7 +12,6 @@ I have made (and will continue to make) so many voicebanks with my voice, since 
 The 1.0 CVVC version is the first voicebank that I ever made, so it is very bad.
 I am allowing it for download mainly for archival purposes. 
 If you plan to use this voicebank for songs, I strongly recommend using the 2.0 version, unless you truly think that the 1.0 version is better for the song.
-
 Additionally, I don't recommend using the EN S-CVVC or C+V voicebanks as they are quite low quality (although some people like how C+V sounds, idk). 
 If you want an English voicebank, the GrayGlish voicebank works much better if you configure it according to GraySlate's instructions.
 
