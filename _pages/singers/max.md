@@ -12,3 +12,5 @@ This is a voicebank I will make with another of my friends eventually.
 ## JA CVVC **(WIP)**
 
 ## EN CVVC **(WIP)**
+
+Demo Song: Metronome (CircusP)

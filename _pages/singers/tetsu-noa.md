@@ -3,6 +3,7 @@ title: "Tetsu Noa [鉄 ノア]"
 permalink: /singers/tetsu-noa/
 ---
 
+![image-right](/assets/images/singer-icons/Noa-Icon.png){: .align-right}
 This is a voicebank I made with my friend, Noah. It was really fun to record. He has a very smooth voice, but pronounces the Japanese /r/ sound a bit strangely.
 
 # Character Info **(WIP)**:

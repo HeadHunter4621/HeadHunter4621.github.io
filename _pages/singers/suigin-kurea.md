@@ -10,7 +10,7 @@ After recording the JA CVVC voicebank, I decided that it was low quality, so we 
 
 ## Downloads
 
-[JA VCV](/placeholder/){: .btn .btn--inverse} [FR CVVC](/placeholder/){: .btn .btn--inverse}  [JA CVVC](/placeholder/){: .btn .btn--inverse}
+[JA VCV 1.0](/placeholder/){: .btn .btn--warning} [FR CVVC 1.0](/placeholder/){: .btn .btn--warning}  [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
 # Character Info **(WIP)**:
 
@@ -37,6 +37,6 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Koora](/singers/suigin-koora))
 
 ## JA VCV **(WIP)**
 
-Demo Song: Overload
+Demo Song: Overload (Kirisame)
 
 ## FR CVVC **(WIP)**
