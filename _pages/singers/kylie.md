@@ -12,5 +12,3 @@ This is another voicebank that I made with one of my friends.
 ## JA CVVC **(WIP)**
 
 ## ES CVVC **(WIP)**
-
-## EN C+V **(WIP)**
