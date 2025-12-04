@@ -3,7 +3,9 @@ title: "Magnesium Mari [マグネシウム マリ]"
 permalink: /singers/magnesium-mari/
 ---
 
-I made this voicebank with my friend, Marley. It was so fun! She has a uniquely soft tone which doesn't work especially well in CVVC, so eventually we will make a VCV variant.
+I made this voicebank with my friend, Marley. 
+It was so fun! She has a uniquely soft tone which doesn't work especially well in CVVC, so we re-recorded a VCV variant that is finished.
+Demo songs coming soon!
 
 # Character Info **(WIP)**:
 

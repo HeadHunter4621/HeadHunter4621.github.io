@@ -3,9 +3,11 @@ title: "Suigin Sheri (Shelly) [炭素 シェリー]"
 permalink: /singers/suigin-sherii
 ---
 
-This is a voicebank that I made with my mom! She has an american accent which really shows in the voicebank...
+This is a voicebank that I made with my mom! 
+She has an american accent which really shows in the voicebank.
 
-It was so fun to record. Eventually I will do a CVVC voicebank and also a CVVC with my dad and do some kind of duet, which should be really fun! It will be paired with [my father's voicebank](/singers/chris)
+It was so fun to record. 
+Eventually I will do a CVVC voicebank and also a CVVC with my dad and do some kind of duet, which should be really fun! It will be paired with [my father's voicebank](/singers/chris)
 
 # Character Info:
 - Name:

@@ -3,7 +3,9 @@ title: "Banjo [バンジョー]"
 permalink: /singers/banjo/
 ---
 
-This is a voicebank that I made with a friend. It is lower quality than some of my other ones, but I think it sounds good. It has a very calm tone.
+This is a voicebank that I made with a friend. 
+Since it was the second voicebank I recorded (first after mine), it is lower quality than some of my other ones, but I think it sounds good. 
+It has a very calm tone.
 
 # Character Info:
 

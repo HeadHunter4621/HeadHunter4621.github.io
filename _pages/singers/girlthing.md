@@ -3,7 +3,8 @@ title: "Girlthing [ガールシング]"
 permalink: /singers/girlthing/
 ---
 
-This is a voicebank that I made with a friend. He wanted to record a voicebank before taking testosterone to preserve his voice, which I think is very cool!
+This is a voicebank that I made with a friend. 
+He wanted to record a voicebank before taking testosterone to preserve his voice, which I think is very cool!
 
 We also made a DiffSinger voicebank, but it is relatively low quality (not very much data).
 
