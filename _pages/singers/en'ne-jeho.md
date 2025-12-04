@@ -8,7 +8,7 @@ I made this voicebank with a friend! It is now available for download. It has a 
 
 ## Downloads
 
-[JA CVVC 1.0](#https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn .btn--primary}
+[JA CVVC 1.1](https://drive.google.com/file/d/1LfGmzmgvKFHk6KcEOOmBx-bRT-r4blkl/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1s-MAlQjaEppw6gyY6kOxG1KadabSN56d/view?usp=drive_lin){: .btn}
 
 ## Character Info:
 
@@ -37,10 +37,11 @@ Demo Song: Dogs Walking (Kaguo)
     - Usage example: [で][e s][s -] [か][a -]
 
 ## Usage:
-* If/when you post a song/cover, please message Kouga! I want to see what you create!
-    * Please credit "KougaP" and/or "En'ne Jeho" (or other variations of the names) in the description when you post things
-* Commercial use: Get permission from Kouga
-* NSFW/Adult content: Not allowed (If unsure if it's too adult, contact Kouga)
-* Training AI singing models (like DiffSinger/RVC): not allowed
-* No obscene, defamatory, libelous, hateful, discriminatory, slanderous, and/or unlawful content.
+
+- If/when you post a song/cover, please message me (Kouga) (Discord: @hh462, Matrix: @hh4621:matrix.org, Email: kouga-p@proton.me)! I want to see what you create!
+    - Please credit "KougaP" and/or "En'Ne Jeho" (or other variations of the names) in the description when you post things
+- Commercial use: Get permission from Kouga
+- NSFW/Adult content: Not allowed (If unsure if it's too adult, contact Kouga)
+- Training AI singing models (like DiffSinger/RVC): not allowed
+- No obscene, defamatory, libelous, hateful, discriminatory, slanderous, and/or unlawful content.
 

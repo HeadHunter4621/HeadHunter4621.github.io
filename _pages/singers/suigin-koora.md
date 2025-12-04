@@ -3,19 +3,20 @@ title: "Siugin Koora [水銀 コーラ]"
 permalink: /singers/suigin-koora/
 ---
 
+![image-right](/assets/images/singer-icons/Koora-Icon.png){: .align-right}
 This is my flagship voicebank, Suigin Koora! It uses my voice and I think it has a very good tone and strength. It will be released eventually!
 
 I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all of the types of reclist I use before recording with friends, that way I can make any edits if needed.
 
 ## Downloads
 
-Japanese: [JA CVVC 1.0](/placeholder/){: .btn .btn--inverse} [JA VCV 1.0](/placeholder/){: .btn .btn--inverse}
+Japanese: [JA CVVC 1.0](/placeholder/){: .btn .btn--warning} [JA VCV 1.0](/placeholder/){: .btn .btn--warning}
 
-English: [EN GreyGlish 1.0](/placeholder/){: .btn .btn--inverse} [EN S-CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [EN C+V 1.0](/placeholder/){: .btn .btn--inverse}
+English: [EN GreyGlish 1.0](/placeholder/){: .btn .btn--warning} [EN S-CVVC 1.0](/placeholder/){: .btn .btn--warning}  [EN C+V 1.0](/placeholder/){: .btn .btn--warning}
 
-Other: [DiffSinger](/placeholder/){: .btn .btn--inverse} [TP CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [FR CVVC 1.0](/placeholder/){: .btn .btn--inverse}  [ES CVVC 1.0](/placeholder/){: .btn .btn--inverse}
+Other: [DiffSinger](/placeholder/){: .btn .btn--warning} [TP CVVC 1.0](/placeholder/){: .btn .btn--warning}  [FR CVVC 1.0](/placeholder/){: .btn .btn--warning}  [ES CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
-# Character Info:
+## Character Info:
 
 - Name:
     - Romaji/English (First, Last): Koora Suigin
