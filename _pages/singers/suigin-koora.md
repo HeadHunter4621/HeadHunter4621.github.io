@@ -42,6 +42,7 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Kurea](/singers/suigin-kurea))
     - Rolled R ([rら]-[rろ]) (with CV and VCs ([a rr]))
     - Standalone consonant phonemes (C -):
         - Usage example: [で][e s][s -] [か][a -]
+    - "Power" voice color recorded at G3 (phonemes suffixed with `_P`)
 
 ## EN GrayGlish CVVC **(WIP)**
 

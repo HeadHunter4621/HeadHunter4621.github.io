@@ -28,7 +28,5 @@ This is a voicebank I made with my friend, Noah. It was really fun to record. He
     - American-English R ([wら]-[wろ]) and L ([ラ]-[ロ]) (with CV and VCs ([a l], [a r]))
     - Standalone consonant phonemes (C -):
         - Usage example: [で][e s][s -] [か][a -]
-    - "Power" voice color recorded at G3 (phonemes suffixed with `_P`)
-
 
 Demo Song: Hadal Abyss Zone (Inabakumori) **(WIP)**
