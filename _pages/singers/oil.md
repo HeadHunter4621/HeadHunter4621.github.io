@@ -14,7 +14,7 @@ I will make a post on [the homepage](/) when it is released!
 
 ## Downloads
 
-[DiffSinger](/placeholder/){: .btn .btn--warning} [JA CVVC 2.0](https://drive.google.com/file/d/1bTbnmr4y3DmYpWTJP-zCeYD1athyA_EQ/view?usp=sharing){: .btn .btn--primary}
+[DiffSinger](/placeholder/){: .btn .btn--warning} [JA CVVC 2.0](https://drive.google.com/file/d/1l7wf9rvvENv4dlnE0aQwgsocrFpwQmOp/view?usp=sharing){: .btn .btn--primary}
 
 ## Character Info **(WIP)**:
 
