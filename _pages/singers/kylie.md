@@ -5,7 +5,7 @@ permalink: /singers/kylie/
 
 This is another voicebank that I made with one of my friends.
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 # Voicebank Info **(WIP)**:
 

@@ -10,7 +10,7 @@ It will be Japanese CVVC with some extra Filipino phonemes added.
 
 [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
-# Character Info:
+## Character Info:
 * Name:
   * Romaji/English (First, Last): Mae Mizuki
   * Kana: みずき まえ 

@@ -28,4 +28,5 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Suigin Sherii/Shelly (水銀 シェリ)](/singers/suigin-sheri)
 - [Tetsu Noa (鉄 ノア)](/singers/tetsu-noa)
 
-*Note: some of the private voicebanks will possibly be released in the future, and many of the public voicebanks have not yet been published*
+*Note: some private voicebanks may be available for download in the future, and many of the public voicebanks have not yet been published*
+*Additionally, many of the private voicebanks are not finished and thus have no demos*

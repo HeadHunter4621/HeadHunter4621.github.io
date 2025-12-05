@@ -8,7 +8,7 @@ This is a voicebank I made with my friend, Noah.
 It was really fun to record. 
 He has a very smooth voice, but pronounces the Japanese /r/ sound a bit strangely.
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 - Name:
   - Romaji/English (First, Last): Noa Tetsu

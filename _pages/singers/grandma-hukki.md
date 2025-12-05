@@ -5,7 +5,7 @@ permalink: /singers/grandma-hukki/
 
 This is a voicebank that I plan to record with my great grandmother!
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 # Voicebank Info **(WIP)**:
 

@@ -5,7 +5,7 @@ permalink: /singers/suigin-kurisu/
 
 This is a voicebank that I plan to record with my father, to pair with [my mother's voicebank](/singers/suigin-sherii).
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 # Voicebank Info **(WIP)**:
 

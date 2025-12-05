@@ -14,9 +14,17 @@ Eventually, I plan to make a FR CVVC voicebank as well since she speaks that lan
 
 [JA VCV 1.0](/placeholder/){: .btn .btn--warning} [FR CVVC 1.0](/placeholder/){: .btn .btn--warning}  [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 # Voicebank Info **(WIP)**:
+
+## JA VCV **(WIP)**
+
+### Info:
+- Reclist: [Salem Wasteland JA Effeciency VCV](https://wastelandutau.neocities.org/jp/vcv#eff)
+- Recorded pitch: C4 @ 120 BPM (Optimum Pitch Range: C3~F5)
+
+Demo Song: Overload (Kirisame)
 
 ## JA CVVC
 
@@ -36,9 +44,5 @@ Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Koora](/singers/suigin-koora))
     - Rolled R ([rら]-[rろ]) (with CV and VCs ([a rr]))
     - Standalone consonant phonemes (C -):
         - Usage example: [で][e s][s -] [か][a -]
-
-## JA VCV **(WIP)**
-
-Demo Song: Overload (Kirisame)
 
 ## FR CVVC **(WIP)**

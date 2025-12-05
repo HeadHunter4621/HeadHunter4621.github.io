@@ -7,7 +7,7 @@ I made this voicebank with my friend, Marley.
 It was so fun! She has a uniquely soft tone which doesn't work especially well in CVVC, so we re-recorded a VCV variant that is finished.
 Demo songs coming soon!
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 - Name:
     - Romaji/English (First, Last): Mari Maguneshiumu (Magnesium)
@@ -29,5 +29,9 @@ Demo Song: Amedama (Popeyo) **(WIP)**
 - Note: some VV phonemes have glottal stops between the syllables
 
 ## JA VCV **(WIP)**
+
+### Info:
+- Reclist: [Salem Wasteland JA Effeciency VCV](https://wastelandutau.neocities.org/jp/vcv#eff) (Modified by Kouga)
+- Recorded Pitch: F#4 @ 120 BPM (Optimum Pitch Range: C4~F#5)
 
 Demo Song: Onomatope (Maigo Hanyuu) **(WIP)**
