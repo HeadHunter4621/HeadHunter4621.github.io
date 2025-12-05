@@ -7,7 +7,7 @@ permalink: /singers/scrunge/
 This is a voicebank that I made with one of my other friends. 
 She isn't especially great at Japanese pronunciation, but she has a very low tone which is very unique.
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 - Name:
     - Romaji/English (First, Last): Scrunge

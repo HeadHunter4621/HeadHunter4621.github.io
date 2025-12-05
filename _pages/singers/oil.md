@@ -53,7 +53,7 @@ Demo Song: It Just Keeps Going (Kaguo): English Translation
   - Me and Mr Jones (Amy Winehouse)
   - *Trained alongside all other NeoDIVA data (see website for details)*
 
-## JA CVVC **(WIP)**
+## JA CVVC (2.0) **(WIP)**
 
 ### Info:
 

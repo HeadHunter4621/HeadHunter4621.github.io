@@ -18,14 +18,14 @@ It has a smooth tone that is great for more gentle songs, but it also works well
   - Kana: えんね じぇほ 
   - Kanji: 鉛音ジェホ
 
-## Voicebank Info:
+# Voicebank Info:
 
-### JA CVVC
+## JA CVVC
 
 Demo Song: Dogs Walking (Kaguo)  
 {% include video id="XPfcFAxnxN0" provider="youtube" %}
 
-#### Info:
+### Info:
 
 - Reclist: [Salem Wasteland JA CVVC 8-Mora (Expanded)](https://wastelandutau.neocities.org/jp/cvvc#8) (Modified by Kouga)	
 - Recorded Pitch: G3 @ 120 BPM (Optimum Pitch Range: G2~G5)
@@ -37,7 +37,7 @@ Demo Song: Dogs Walking (Kaguo)
   - Standalone consonant phonemes (C -):
     - Usage example: [で][e s][s -] [か][a -]
 
-## Usage:
+# Usage:
 
 - If/when you post a song/cover, please message me (Kouga) (Discord: @hh462, Matrix: @hh4621:matrix.org, Email: kouga-p@proton.me)! I want to see what you create!
     - Please credit "KougaP" and/or "En'Ne Jeho" (or other variations of the names) in the description when you post things

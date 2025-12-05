@@ -9,7 +9,7 @@ She has an american accent which really shows in the voicebank.
 It was so fun to record. 
 Eventually I will do a CVVC voicebank and also a CVVC with my dad and do some kind of duet, which should be really fun! It will be paired with [my father's voicebank](/singers/chris)
 
-# Character Info:
+## Character Info:
 - Name:
   - Romaji/English (First, Last): Sherii (aka Shelly) Suigin 
   - Kana: すいぎん しぇりい 

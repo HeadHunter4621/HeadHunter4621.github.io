@@ -10,7 +10,7 @@ We also made a DiffSinger voicebank, but it is relatively low quality (not very 
 
 He has a very light tone which works very will for slower songs.
 
-# Character Info **(WIP)**:
+## Character Info **(WIP)**:
 
 - Name:
     - Romaji/English (First, Last): Girlthing
