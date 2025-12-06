@@ -13,13 +13,13 @@ The 1.0 CVVC version is the first voicebank that I ever made, so it is very bad.
 I am allowing it for download mainly for archival purposes. 
 If you plan to use this voicebank for songs, I strongly recommend using the 2.0 version, unless you truly think that the 1.0 version is better for the song.
 Additionally, I don't recommend using the EN S-CVVC or C+V voicebanks as they are quite low quality (although some people like how C+V sounds, idk). 
-If you want an English voicebank, the GrayGlish voicebank works much better if you configure it according to GraySlate's instructions.
+If you want an English voicebank, the GrayGlish voicebank works much better if you configure it according to GraySlate's instructions (though it is currently unfinished).
 
 ## Downloads
 
-Japanese: [JA CVVC 2.0](/placeholder/){: .btn .btn--warning} [JA VCV 1.0](/placeholder/){: .btn .btn--warning} Japanese: [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
+Japanese: [JA CVVC 2.0](https://drive.google.com/file/d/1Z3iZy_bntC5hlFtWrKh8_2By74-zxbs1/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1kTIQWj6B1TB51wbyhJRLEFigabbhIVhR/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1X5rrg_ICq9LYJSmWZ7BegaIMtAS6nqmF/view?usp=sharing){: .btn .btn--primary}
 
-English: [EN GreyGlish 1.0](/placeholder/){: .btn .btn--warning} [EN S-CVVC 1.0](/placeholder/){: .btn .btn--warning}  [EN C+V 1.0](/placeholder/){: .btn .btn--warning}
+English: [EN GrayGlish 1.0](/placeholder/){: .btn .btn--warning}  [EN C+V 1.0](https://drive.google.com/file/d/1cIuawV8n_afmQ-Q-5LaDs40hMbrUjZeU/view?usp=sharing){: .btn .btn--primary} [EN S-CVVC 1.0](https://drive.google.com/file/d/1FmX18yKJEbIae4zZn3EUXqFAwXJ08mh2/view?usp=sharing){: .btn .btn--primary}
 
 Other: [DiffSinger](/placeholder/){: .btn .btn--warning} [TP CVVC 1.0](/placeholder/){: .btn .btn--warning}  [FR CVVC 1.0](/placeholder/){: .btn .btn--warning}  [ES CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
