@@ -17,7 +17,7 @@ If you want an English voicebank, the GrayGlish voicebank works much better if y
 
 ## Downloads
 
-Japanese: [JA CVVC 2.0](https://drive.google.com/file/d/1Z3iZy_bntC5hlFtWrKh8_2By74-zxbs1/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1kTIQWj6B1TB51wbyhJRLEFigabbhIVhR/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1X5rrg_ICq9LYJSmWZ7BegaIMtAS6nqmF/view?usp=sharing){: .btn .btn--primary}
+Japanese: [JA CVVC 2.0](https://drive.google.com/file/d/1Z3iZy_bntC5hlFtWrKh8_2By74-zxbs1/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1kTIQWj6B1TB51wbyhJRLEFigabbhIVhR/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1X5rrg_ICq9LYJSmWZ7BegaIMtAS6nqmF/view?usp=sharing){: .btn}
 
 English: [EN GrayGlish 1.0](/placeholder/){: .btn .btn--warning}  [EN C+V 1.0](https://drive.google.com/file/d/1cIuawV8n_afmQ-Q-5LaDs40hMbrUjZeU/view?usp=sharing){: .btn .btn--primary} [EN S-CVVC 1.0](https://drive.google.com/file/d/1FmX18yKJEbIae4zZn3EUXqFAwXJ08mh2/view?usp=sharing){: .btn .btn--primary}
 
