@@ -7,7 +7,7 @@ This is a voicebank that I plan to record soon with a friend
 
 ## Downloads
 
-[EN GreyGlish 1.0](/placeholder/){: .btn .btn--warning} [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
+[EN GrayGlish 1.0](/placeholder/){: .btn .btn--warning} [JA CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
 ## Character Info **(WIP)**:
 
