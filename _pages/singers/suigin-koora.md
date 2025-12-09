@@ -4,10 +4,12 @@ permalink: /singers/suigin-koora/
 ---
 
 ![image-right](/assets/images/singer-icons/Koora-Icon.png){: .align-right}
-This is my flagship voicebank, Suigin Koora! It uses my voice and I think it has a very good tone and strength. 
-It will be released very soon!
+This is my flagship voicebank, Suigin Koora! 
+It uses my voice and I think it has a very good tone and strength. 
+It is now available for download!
 
-I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. I use my voice to test all the types of reclist I use before recording with friends, that way I can make any edits if needed.
+I have made (and will continue to make) so many voicebanks with my voice, since (obviously) I am the most available to myself. 
+I use my voice to test all the types of reclist I use before recording with friends, that way I can make any edits if needed.
 
 The 1.0 CVVC version is the first voicebank that I ever made, so it is very bad.
 I am allowing it for download mainly for archival purposes. 
@@ -32,7 +34,7 @@ Other: [DiffSinger](/placeholder/){: .btn .btn--warning} [TP CVVC 1.0](/placehol
 
 # Voicebank Info:
 
-## JA CVVC 
+## JA CVVC (2.0)
 
 Demo Song: I~Ya I~Ya I~Ya (Neru) (with [Suigin Kurea](/singers/suigin-kurea))
 {% include video id="Q54Mj7CfqRU" provider="youtube" %}
