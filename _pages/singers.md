@@ -17,7 +17,6 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Banjo (バンジョー)](/singers/banjo)
 - [Ely](/singers/ely)
 - [Girlthing (ガールシング)](/singers/girlthing)
-- [Grandma Hukki](/singers/grandma-hukki)
 - [Haruka](/singers/haruka)
 - [Kylie](/singers/kylie)
 - [Link](/singers/link)
