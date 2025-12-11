@@ -73,9 +73,10 @@ Demo Song: It Just Keeps Going (Kaguo) **(WIP)**
 OIL
 by KougaP
 
-email - kouga-p@proton.me
-discord - @hh4621
-matrix - @hh4621:matrix.org
+Email - kouga-p@proton.me
+Discord - @hh4621
+Matrix - @hh4621:matrix.org
+Website - headhunter4621.github.io
 
 Voicebank Terms of Use
 
