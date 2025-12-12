@@ -19,9 +19,9 @@ If you want an English voicebank, the GrayGlish voicebank works much better if y
 
 ## Downloads
 
-Japanese: [JA CVVC 2.0](https://drive.google.com/file/d/1Z3iZy_bntC5hlFtWrKh8_2By74-zxbs1/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1kTIQWj6B1TB51wbyhJRLEFigabbhIVhR/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1X5rrg_ICq9LYJSmWZ7BegaIMtAS6nqmF/view?usp=sharing){: .btn}
+Japanese: [JA CVVC 2.0]https://drive.google.com/file/d/1QWUUy9W0rnexqWUgZhwjELbRRCH31EUy/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1r7-yHjlAgbqtK-FDRiJou7tOQLAwj3HV/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1U1TET9w3lZtqnoLthfV54i66n1oVK-b3/view?usp=sharing){: .btn}
 
-English: [EN GrayGlish 1.0](https://drive.google.com/file/d/1f_lXQfP5lNZkDPl8-Xtnpbt9-dvnl0vP/view?usp=sharing){: .btn .btn--primary}  [EN C+V 1.0](https://drive.google.com/file/d/1cIuawV8n_afmQ-Q-5LaDs40hMbrUjZeU/view?usp=sharing){: .btn .btn--primary} [EN S-CVVC 1.0](https://drive.google.com/file/d/1FmX18yKJEbIae4zZn3EUXqFAwXJ08mh2/view?usp=sharing){: .btn .btn--primary}
+English: [EN GrayGlish 1.0](https://drive.google.com/file/d/1JSeedBvhwzmPErlbunT7SnN8-xrpWugO/view?usp=sharing){: .btn .btn--primary}  [EN C+V 1.0](https://drive.google.com/file/d/1DwjidlY_2xjA2f7aTxYm-Ql0jrFNCMIq/view?usp=sharing){: .btn .btn--primary} [EN S-CVVC 1.0](https://drive.google.com/file/d/1E5kMp01OqbjGdhbz00qBQtHlcLdiOZca/view?usp=sharing){: .btn .btn--primary}
 
 Other: [DiffSinger](/placeholder/){: .btn .btn--warning} [TP CVVC 1.0](/placeholder/){: .btn .btn--warning}  [FR CVVC 1.0](/placeholder/){: .btn .btn--warning}  [ES CVVC 1.0](/placeholder/){: .btn .btn--warning}
 
