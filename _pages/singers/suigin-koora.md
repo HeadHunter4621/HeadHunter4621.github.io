@@ -19,7 +19,7 @@ If you want an English voicebank, the GrayGlish voicebank works much better if y
 
 ## Downloads
 
-Japanese: [JA CVVC 2.0]https://drive.google.com/file/d/1QWUUy9W0rnexqWUgZhwjELbRRCH31EUy/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1r7-yHjlAgbqtK-FDRiJou7tOQLAwj3HV/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1U1TET9w3lZtqnoLthfV54i66n1oVK-b3/view?usp=sharing){: .btn}
+Japanese: [JA CVVC 2.0](https://drive.google.com/file/d/1QWUUy9W0rnexqWUgZhwjELbRRCH31EUy/view?usp=sharing){: .btn .btn--primary} [JA VCV 1.0](https://drive.google.com/file/d/1r7-yHjlAgbqtK-FDRiJou7tOQLAwj3HV/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1U1TET9w3lZtqnoLthfV54i66n1oVK-b3/view?usp=sharing){: .btn}
 
 English: [EN GrayGlish 1.0](https://drive.google.com/file/d/1JSeedBvhwzmPErlbunT7SnN8-xrpWugO/view?usp=sharing){: .btn .btn--primary}  [EN C+V 1.0](https://drive.google.com/file/d/1DwjidlY_2xjA2f7aTxYm-Ql0jrFNCMIq/view?usp=sharing){: .btn .btn--primary} [EN S-CVVC 1.0](https://drive.google.com/file/d/1E5kMp01OqbjGdhbz00qBQtHlcLdiOZca/view?usp=sharing){: .btn .btn--primary}
 
