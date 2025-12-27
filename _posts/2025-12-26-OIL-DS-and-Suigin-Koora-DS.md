@@ -11,13 +11,14 @@ NeoDIVA did the training and pretty much everything, Oliver (my friend) recorded
 I did all the labeling.
 
 I have a demonstration of OIL's voicebank (which is also on my YouTube Channel):
-{% include embed-audio.html src="/assets/audio/oil-demo-IJKG.wav" %}
+
+{% include embed-audio.html src="/assets/audio/posts/oil-demo-IJKG.wav" %}
 
 When the final voicebank is released, we will release the English translation of this song!
 
 I also made Suigin Koora's Demonstration (which I did not upload to YouTubeyet)
 
-{% include embed-audio.html src="/assets/audio/koora-demo-snow-white-princess.wav" %}
+{% include embed-audio.html src="/assets/audio/posts/koora-demo-snow-white-princess.wav" %}
 
 Eventually, I will do *some* English demo song, but I haven't decided what to do yet.
 
