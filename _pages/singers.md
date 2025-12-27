@@ -19,7 +19,6 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Girlthing (ガールシング)](/singers/girlthing)
 - [Haruka](/singers/haruka)
 - [Kylie](/singers/kylie)
-- [Link](/singers/link)
 - [Magnesium Mari (マグネシウム マリ)](/singers/magnesium-mari)
 - [Max](/singers/max)
 - [Scrunge (スクランジ)](/singers/scrunge)
