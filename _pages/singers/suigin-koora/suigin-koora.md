@@ -55,7 +55,7 @@ If you want an English voicebank, the GrayGlish voicebank works much better if y
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-es-vccv-sample.wav" %}
 
 ### [Toki Pona CVVC](/singers/suigin-koora/tp-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-tp-cvvc-sample.wav" %}\
+{% include embed-audio.html src="/assets/audio/samples/suigin-koora-tp-cvvc-sample.wav" %}
 
 ### [Lisatopian VCV](/singers/suigin-koora/lis-vcv-2.x/){: .btn .btn--primary}
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-lis-vcv-sample.wav" %}

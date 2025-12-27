@@ -8,7 +8,7 @@ He wanted to record a voicebank before taking testosterone to preserve his voice
 
 We also made a DiffSinger voicebank, but it is relatively low quality (not very much data).
 
-He has a very light tone which works very will for slower songs.
+He has a very light tone which works very well for slower songs.
 
 ## Character Info **(WIP)**
 
