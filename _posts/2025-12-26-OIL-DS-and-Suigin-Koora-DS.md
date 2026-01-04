@@ -16,7 +16,7 @@ I have a demonstration of OIL's voicebank (which is also on my YouTube Channel):
 
 When the final voicebank is released, we will release the English translation of this song!
 
-I also made Suigin Koora's Demonstration (which I did not upload to YouTubeyet)
+I also made Suigin Koora's Demonstration (which I did not upload to YouTube yet)
 
 {% include embed-audio.html src="/assets/audio/posts/koora-demo-snow-white-princess.wav" %}
 
@@ -24,10 +24,10 @@ Eventually, I will do *some* English demo song, but I haven't decided what to do
 
 ## Mizuki Mae
 
-By friend has finally recorded for Mizuki Mae, and we are going to release the voicebank publicly!
+My friend has finally recorded for Mizuki Mae, and we are going to release the voicebank publicly!
 It will still be a while though, since we still need to finalize the OTO.
 
-We are going to do Darling (by Suda Keina) as the main demo song, and Alien Alien as another song (Tuned by a friend)!
+We are going to do Darling (by Suda Keina) as the main demo song, and Alien Alien as another song (Tuned by another friend)!
 
 ## Lisatopian Reclist Things
 

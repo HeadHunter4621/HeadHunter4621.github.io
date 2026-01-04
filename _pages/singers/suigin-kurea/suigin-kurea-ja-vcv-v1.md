@@ -1,17 +1,24 @@
 ---
-title: "Mizuki Mae [美月マエ] - Japanese  V1"
-permalink: /singers/mizuki-mae/ja-cvvc-v1/
+title: "Suigin Kurea (Claire) [水銀 クレア] - Japanese VCV V1"
+permalink: /singers/suigin-kurea/ja-vcv-v1/
 ---
 
-## Sample
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+WIP
 
-## JA CVVC
-Japanese Demo Song: Darling (Suda Keina) **(WIP)**
+## Sample
+{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-vcv-1.0-sample.wav" %}
+
+## Demo Song
+
+Overload (Kirisame) (WIP)
+
+## Info
+- Reclist: [Salem Wasteland JA Effeciency VCV](https://wastelandutau.neocities.org/jp/vcv#eff)
+- Recorded pitch: C4 @ 120 BPM (Optimum Pitch Range: C3~F5)
 
 ## Usage:
 ```
-美月マエ/Mizuki Mae
+水銀クレア/Suigin Claire
 by KougaP
 
 Email - kouga-p@proton.me
@@ -62,5 +69,4 @@ Disclaimer
 KougaP holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
 KougaP holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
-
 ```

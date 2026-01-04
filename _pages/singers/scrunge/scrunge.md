@@ -8,7 +8,6 @@ This is a voicebank that I made with one of my other friends.
 She isn't especially great at Japanese pronunciation, but she has a very low tone which is very unique.
 
 ## Character Info **(WIP)**
-
 - Name:
     - Romaji/English (First, Last): Scrunge
     - Kana: すくらんじ
@@ -16,5 +15,5 @@ She isn't especially great at Japanese pronunciation, but she has a very low ton
 
 ## Voicebanks
 
-### [Japanese CVVC](/singers/scrunge/ja-cvvc/){: .btn .btn}
-{% include embed-audio.html src="/assets/audio/samples/scrunge-ja-cvvc-sample.wav" %}
+### [Japanese CVVC V1](/singers/scrunge/ja-cvvc-v1/){: .btn .btn}
+{% include embed-audio.html src="/assets/audio/samples/scrunge-ja-cvvc-1.0-sample.wav" %}

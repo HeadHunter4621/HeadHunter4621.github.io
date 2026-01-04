@@ -11,16 +11,13 @@ We also made a DiffSinger voicebank, but it is relatively low quality (not very 
 He has a very light tone which works very well for slower songs.
 
 ## Character Info **(WIP)**
-
 - Name:
     - Romaji/English (First, Last): Girlthing
     - Kana: があるしんぐ
     - Kanji: ガールシング
 
 ## Voicebanks
-
-### [Japanese CVVC](/singers/girlthing/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/girlthing-ja-cvvc-sample.wav" %}
-
-### [English DiffSinger](/singers/girlthing/ds/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/girlthing-ds-sample.wav" %}
+### [Japanese CVVC V1](/singers/girlthing/ja-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/girlthing-ja-cvvc-1.0-sample.wav" %}
+### [English DiffSinger V1](/singers/girlthing/ds-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/girlthing-en-ds-1.0-sample.wav" %}

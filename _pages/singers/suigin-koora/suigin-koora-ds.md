@@ -3,15 +3,11 @@ title: "Suigin Koora [水銀 コーラ] - DiffSinger (NeoDIVA)"
 permalink: /singers/suigin-koora/ds/
 ---
 
-## Downloads
-WIP (I'll paste the NeoDIVA download page here once it's released)
-
-## Demo Song
-WIP
+## Samples
+{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-ds-0.1-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-ds-0.1-sample.wav" %}
 
 ## Voicebank Info
-### Info:
-
 - Trained and Distributed by [NeoDIVA](https://www.neodiva.xyz/home)
 - Languages
     - English (Native)
