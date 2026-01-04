@@ -3,12 +3,13 @@ title: "OIL - DiffSinger (NeoDIVA)"
 permalink: /singers/oil/ds/
 ---
 
-## Downloads
+## Sample
+{% include embed-audio.html src="/assets/audio/samples/oil-en-ds-0.1-sample.wav" %}
 
+## Downloads
 WIP (I will put the link to the NeoDIVA site here sometime)
 
 ## Demo Song
-
 It Just Keeps Going (Kaguo): English Translation
 
 ## Voicebank Info

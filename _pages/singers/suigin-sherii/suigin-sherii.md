@@ -4,22 +4,18 @@ permalink: /singers/suigin-sherii
 ---
 
 This is a voicebank that I made with my mom! 
-She has an American accent which really shows in the voicebank.
+She has an American accent which really shows in the Japanese voicebank.
 
 It was so fun to record. 
-Eventually I will do a CVVC voicebank and also a CVVC with my dad and do some kind of duet, which should be really fun! 
-It will be paired with [my father's voicebank](/singers/chris)
+Paired with [my father's voicebank](/singers/suigin-kurisu)
 
 ## Voicebanks
-
-### [Japanese CVVC](/singers/suigin-sherii/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-ja-cvvc-sample.wav" %}
-
-### [English C+V](/singers/suigin-sherii/en-cpv/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-en-cpv-sample.wav" %}
-
-### [Japanese CV](/singers/suigin-sherii/ja-cv/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-ja-cv-sample.wav" %}
+### [Japanese CVVC V1](/singers/suigin-sherii/ja-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-ja-cvvc-1.0-sample.wav" %}
+### [English C+V V1](/singers/suigin-sherii/en-cpv-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-en-cpv-1.0-sample.wav" %}
+### [Japanese CV V1](/singers/suigin-sherii/ja-cv-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-sherii-ja-cv-1.0-sample.wav" %}
 
 ## Character Info:
 - Name:

@@ -10,17 +10,14 @@ After recording the JA CVVC voicebank, I decided that it was low quality, so we 
 Eventually, I plan to make a FR CVVC voicebank as well since she speaks that language
 
 ## Voicebanks
-
-### [Japanese CVVC](/singers/suigin-kurea/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-cvvc-sample.wav" %}
-
-### [Japanese VCV](/singers/suigin-kurea/ja-vcv/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-vcv-sample.wav" %}
-
-## Character Info **(WIP)**:
+### [Japanese VCV V1](/singers/suigin-kurea/ja-vcv-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-vcv-1.0-sample.wav" %}
+### [French CVVC V1](/singers/suigin-kurea/fr-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-fr-cvvc-1.0-sample.wav" %}
+### [Japanese CVVC V1](/singers/suigin-kurea/ja-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-cvvc-1.0-sample.wav" %}
 
 # Usage:
-
 ```
 水銀クレア/Suigin Claire
 by KougaP

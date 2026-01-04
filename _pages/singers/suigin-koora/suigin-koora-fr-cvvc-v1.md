@@ -1,17 +1,17 @@
 ---
-title: "Mizuki Mae [美月マエ] - Japanese  V1"
-permalink: /singers/mizuki-mae/ja-cvvc-v1/
+title: "Suigin Koora [水銀 コーラ] - French CVVC V1"
+permalink: /singers/suigin-koora/fr-cvvc-v1/
 ---
 
-## Sample
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+WIP
 
-## JA CVVC
-Japanese Demo Song: Darling (Suda Keina) **(WIP)**
+## Voicebank Info
+- Reclist: [UTAUFrance Petit Mot](https://utaufrance.com/reclist-francaise-petit-mot/)
+- Recorded Pitch: C3 @ 120 BPM (Optimum Pitch Range: F2~F5)
 
-## Usage:
+## Usage
 ```
-美月マエ/Mizuki Mae
+水銀コーラ/Suigin Koora
 by KougaP
 
 Email - kouga-p@proton.me
@@ -27,7 +27,7 @@ You are required to state the name of this voicebank's author.
 When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
 
 Usage Content
-Do not create sexual content.
+Seek author permission to create sexual content.
 Do not create violent content.
 Do not create political content.
 Do not create religious content.
@@ -62,5 +62,4 @@ Disclaimer
 KougaP holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
 KougaP holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
-
 ```

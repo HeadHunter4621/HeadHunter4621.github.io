@@ -3,14 +3,10 @@ title: "Max"
 permalink: /singers/max/
 ---
 
-This is a voicebank I will make with another of my friends eventually.
+This is a voicebank that I recorded with a friend. It is only English, and has a very bright tone.
 
 ## Character Info **(WIP)**:
 
 ## Voicebanks
-
-### [Japanese CVVC](/singers/max/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/max-ja-cvvc-sample.wav" %}
-
-### [English GrayGlish](/singers/max/en-grayglish/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/max-en-grayglish-sample.wav" %}
+### [English C+V V1](/singers/max/en-cpv-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/max-en-cpv-1.0-sample.wav" %}

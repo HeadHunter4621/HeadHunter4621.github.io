@@ -8,17 +8,14 @@ It was so fun! She has a uniquely soft tone which doesn't work especially well i
 Demo songs coming soon!
 
 ## Character Info **(WIP)**
-
 - Name:
     - Romaji/English (First, Last): Mari Maguneshiumu (Magnesium)
     - Kana: まぐねしうむ まり
     - Kanji: マグネシウム マリ
 
 ## Voicebanks
-
-### [Japanese VCV](/singers/magnesium-mari/ja-vcv/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/magnesium-mari-ja-vcv-sample.wav" %}
-
-### [Japanese CVVC](/singers/magnesium-mari/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/magnesium-mari-ja-cvvc-sample.wav" %}
+### [Japanese VCV V1](/singers/magnesium-mari/ja-vcv-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/magnesium-mari-ja-vcv-1.0-sample.wav" %}
+### [Japanese CVVC V1](/singers/magnesium-mari/ja-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/magnesium-mari-ja-cvvc-1.0-sample.wav" %}
 

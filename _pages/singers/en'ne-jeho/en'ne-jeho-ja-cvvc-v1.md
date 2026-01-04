@@ -1,17 +1,32 @@
 ---
-title: "Mizuki Mae [美月マエ] - Japanese  V1"
-permalink: /singers/mizuki-mae/ja-cvvc-v1/
+title: "En'ne Jeho [鉛音ジェホ] - Japanese CVVC V1"
+permalink: /singers/en'ne-jeho/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/samples/en'ne-jeho-ja-cvvc-1.1-sample.wav" %}
 
-## JA CVVC
-Japanese Demo Song: Darling (Suda Keina) **(WIP)**
+## Downloads
+[JA CVVC 1.1](https://drive.google.com/file/d/1ku86qsQedXh_our8Un0oysIq9MRoUxK2/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1ocjoxYePRKUCzi1h27zX57qeu5FWCcuP/view?usp=sharing){: .btn}
 
-## Usage:
+## Demo Song
+Demo Song: Dogs Walking (Kaguo)  
+{% include video id="XPfcFAxnxN0" provider="youtube" %}
+
+## Voicebank Info
+- Reclist: [Salem Wasteland JA CVVC 8-Mora (Expanded)](https://wastelandutau.neocities.org/jp/cvvc#8) (Modified by Kouga)
+- Recorded Pitch: G3 @ 120 BPM (Optimum Pitch Range: G2~G5)
+- Extra Features:
+    - Breaths structured like CV's and VC's ([a IN], [OUT a], etc) (IN and OUT) (Only for vowels)
+    - Standalone breaths: [IN1]-[IN9], [OUT1]-[OUT9]
+    - Stops: VCV-formatted v'V for stop (ex: [a'い])
+    - American-English R ([wら]-[wろ]) and L ([ラ]-[ロ]) (with CV and VCs ([a l], [a r]))
+    - Standalone consonant phonemes (C -):
+        - Usage example: [で][e s][s -] [か][a -]
+
+## Usage
 ```
-美月マエ/Mizuki Mae
+鉛音ジェほ/En'ne Jeho
 by KougaP
 
 Email - kouga-p@proton.me
@@ -62,5 +77,5 @@ Disclaimer
 KougaP holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
 KougaP holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
-
 ```
+

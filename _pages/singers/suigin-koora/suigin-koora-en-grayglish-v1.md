@@ -1,17 +1,23 @@
 ---
-title: "Mizuki Mae [美月マエ] - Japanese  V1"
-permalink: /singers/mizuki-mae/ja-cvvc-v1/
+title: "Suigin Koora [水銀 コーラ] - English GrayGlish V1"
+permalink: /singers/suigin-koora/en-grayglish-v1/
 ---
 
+This English voicebank works well if you configure it according to [GraySlate's instructions](https://assbackwardsp.wixsite.com/utaubackwards/reclists) (follow instructions for GrayGlish 2.0).
+
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-grayglish-1.0-sample.wav" %}
 
-## JA CVVC
-Japanese Demo Song: Darling (Suda Keina) **(WIP)**
+## Downloads
+[EN GrayGlish 1.0](https://drive.google.com/file/d/1JSeedBvhwzmPErlbunT7SnN8-xrpWugO/view?usp=sharing){: .btn .btn--primary}
 
-## Usage:
+## Voicebank Info
+- Reclist: [GrayGlish 2.0](https://assbackwardsp.wixsite.com/utaubackwards/reclists)
+- Recorded Pitch: ~C3 (Optimum Pitch Range: F2~F5)
+
+## Usage
 ```
-美月マエ/Mizuki Mae
+水銀コーラ/Suigin Koora
 by KougaP
 
 Email - kouga-p@proton.me
@@ -27,7 +33,7 @@ You are required to state the name of this voicebank's author.
 When attributing the name or author of this voicebank, you must write the names exactly as written above. You cannot call the voicebank by any other name, nor can you attribute the voicebank to any other author.
 
 Usage Content
-Do not create sexual content.
+Seek author permission to create sexual content.
 Do not create violent content.
 Do not create political content.
 Do not create religious content.
@@ -62,5 +68,4 @@ Disclaimer
 KougaP holds no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
 KougaP holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
-
 ```

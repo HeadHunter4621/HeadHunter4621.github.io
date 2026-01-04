@@ -13,6 +13,5 @@ It will be released very soon!
   * Kanji: 美月マエ
 
 ## Voicebanks
-
-### [Japanese CVVC](/singers/mizuki-mae/ja-cvvc/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-sample.wav" %}
+### [Japanese CVVC V1](/singers/mizuki-mae/ja-cvvc-v1/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
