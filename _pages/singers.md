@@ -19,12 +19,11 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Girlthing (ガールシング)](/singers/girlthing)
 - [Haruka](/singers/haruka)
 - [Kylie](/singers/kylie)
-- [Link](/singers/link)
 - [Magnesium Mari (マグネシウム マリ)](/singers/magnesium-mari)
 - [Max](/singers/max)
 - [Scrunge (スクランジ)](/singers/scrunge)
 - [Suigin Kurisu/Chris (水銀 クリス)](/singers/suigin-kurisu)
-- [Suigin Sherii/Shelly (水銀 シェリ)](/singers/suigin-sheri)
+- [Suigin Sherii/Shelly (水銀 シェリ)](/singers/suigin-sherii)
 - [Tetsu Noa (鉄 ノア)](/singers/tetsu-noa)
 
 *Note: some private voicebanks may be available for download in the future, and many of the public voicebanks have not yet been published*
