@@ -88,6 +88,9 @@ author:
     - label: "Email"
       icon: "fa-solid fa-envelope-open"
       url: "mailto:kouga-p@proton.me"
+    - label: "Personal Site"
+      icon: "fa-solid fa-globe"
+      url: "https://Kona-4621.github.io/"
 
 footer:
   links:
