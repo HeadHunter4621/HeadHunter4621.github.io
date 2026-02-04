@@ -85,12 +85,18 @@ author:
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@KougaP"
+    - label: "Instagram"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/_kouga_p/reels/"
     - label: "Email"
       icon: "fa-solid fa-envelope-open"
       url: "mailto:kouga-p@proton.me"
+<<<<<<< HEAD
     - label: "VocaDB Artist Page"
       icon: "fa-solid fa-globe"
       url: "https://vocadb.net/Ar/176210"
+=======
+>>>>>>> cc27e3b59864804647acce9eff995a43f1255f9f
 
 footer:
   links:
