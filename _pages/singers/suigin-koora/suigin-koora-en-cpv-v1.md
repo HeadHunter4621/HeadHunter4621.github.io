@@ -3,11 +3,13 @@ title: "Suigin Koora [水銀 コーラ] - English C+V V1"
 permalink: /singers/suigin-koora/en-cpv-v1/
 ---
 
+NOTE: This is very bad. PLEASE use the [v2 C+V voicebank](/singers/suigin-koora/en-cpv-v2) instead, it is much better!
+
 ## Sample
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-cpv-1.0-sample.wav" %}
 
 ## Downloads
-[EN C+V 1.0](https://drive.google.com/file/d/1DwjidlY_2xjA2f7aTxYm-Ql0jrFNCMIq/view?usp=sharing){: .btn .btn--primary}
+[EN C+V v100](https://drive.google.com/file/d/16x8Nr9Et9PVTiBQasL3-9BKlG-SKUjLh/view?usp=drive_link){: .btn .btn--primary}
 
 ## Voicebank Info
 - Reclist: [Chevrefee EN C+V](https://chevrefee.wordpress.com/veria/)

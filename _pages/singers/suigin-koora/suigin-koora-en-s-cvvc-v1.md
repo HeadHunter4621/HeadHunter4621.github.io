@@ -11,7 +11,7 @@ Most samples were recorded at 120 BPM, but a few were recorded at 100 BPM becaus
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-s-cvvc-1.0-sample.wav" %}
 
 ## Downloads
-[EN S-CVVC 1.0](https://drive.google.com/file/d/1E5kMp01OqbjGdhbz00qBQtHlcLdiOZca/view?usp=sharing){: .btn .btn--primary}
+[EN S-CVVC v100](https://drive.google.com/file/d/1jqd8hQdYJ0pee0AGlHPPs9MFT9smX24m/view?usp=drive_link){: .btn .btn--primary}
 
 ## Voicebank Info
 - Reclist: [Salem Wasteland EN LITE](https://wastelandutau.neocities.org/en/lite)

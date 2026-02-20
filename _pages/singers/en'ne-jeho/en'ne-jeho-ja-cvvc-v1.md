@@ -7,7 +7,7 @@ permalink: /singers/en'ne-jeho/ja-cvvc-v1/
 {% include embed-audio.html src="/assets/audio/samples/en'ne-jeho-ja-cvvc-1.1-sample.wav" %}
 
 ## Downloads
-[JA CVVC 1.1](https://drive.google.com/file/d/1ku86qsQedXh_our8Un0oysIq9MRoUxK2/view?usp=sharing){: .btn .btn--primary} [JA CVVC 1.0](https://drive.google.com/file/d/1ocjoxYePRKUCzi1h27zX57qeu5FWCcuP/view?usp=sharing){: .btn}
+[JA CVVC v101](https://drive.google.com/file/d/1zzIU1dwWrK6o0UXmF4aLMGXHCdnl3yo1/view?usp=drive_link){: .btn .btn--primary} [JA CVVC v100](https://drive.google.com/file/d/1ocjoxYePRKUCzi1h27zX57qeu5FWCcuP/view?usp=drive_link){: .btn}
 
 ## Demo Song
 Demo Song: Dogs Walking (Kaguo)  
@@ -78,4 +78,3 @@ KougaP holds no responsibility to any incidents, damage, or loss by the user fro
 KougaP holds no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or voicebank character.
 These terms of use were originally generated with https://tools.tubs.wtf/vbtougen and may or may not include additional edits.
 ```
-
