@@ -1,22 +1,22 @@
 ---
-title: "Suigin Koora [水銀 コーラ] - Japanese CVVC V1"
-permalink: /singers/suigin-koora/ja-cvvc-v1/
+title: "Suigin Koora [水銀 コーラ] - Japanese CVVC V3"
+permalink: /singers/suigin-koora/ja-cvvc-v3/
 ---
 
-*This voicebank is very bad! 
-Please use [Suigin Koora CVVC V2](/singers/suigin-koora/ja-cvvc-v2/) or [Suigin Koora VCV V1](/singers/suigin-koora/ja-vcv-v1/) instead, unless (for some reason) you really think this one sounds better.
+WIP Japanese CVVX Voicebank for Suigin Koora
+(CVVX is a new system of Japanese/other-cv-structured-language voicebanks based on CVVC but much more customizeable. When this voicebank releases, I will pubish the phonemizer and much more information.)
 
-## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-cvvc-1.0-sample.wav" %}
-
-## Downloads
-[JA CVVC v100](https://drive.google.com/file/d/1U1TET9w3lZtqnoLthfV54i66n1oVK-b3/view?usp=drive_link){: .btn}
 
 ## Voicebank Info
-- Reclist: [Salem Wasteland JA CVVC 8-Mora](https://wastelandutau.neocities.org/jp/cvvc#8)
-- Recorded Pitch: B3 @ 120 BPM (Optimum Pitch Range: F2~F5)
-- Standalone consonant phonemes (C -): 
-  - Usage example: [で][e s][s -] [か][a -]
+- Reclist: Heavily-modified [Salem Wasteland JA CVVC 8-Mora](https://wastelandutau.neocities.org/jp/cvvc#8)
+- Recorded Pitch: C3 @ 120 BPM (Optimum Pitch Range: F2~F5)
+- Pitches and Colors:
+  - Normal: C3 & G3
+  - Power: G4 & C4
+  - Whisper: C3
+  - NT (recorded with plugged, less extra features): C3
+- Extra Features:
+    - WIP
 
 ## Usage
 ```

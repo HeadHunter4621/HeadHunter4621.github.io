@@ -7,7 +7,7 @@ permalink: /singers/suigin-koora/ja-vcv-v1/
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-vcv-1.0-sample.wav" %}
 
 ## Downloads
-[JA VCV 1.0](https://drive.google.com/file/d/1r7-yHjlAgbqtK-FDRiJou7tOQLAwj3HV/view?usp=sharing){: .btn .btn--primary}
+[JA VCV 100](https://drive.google.com/file/d/1zkZtpcF6BBWvwkLuqoRKbD2gA9DAXagA/view?usp=drive_link){: .btn .btn--primary}
 
 ## Info:
 - Reclist: [Salem Wasteland JA Efficiency VCV](https://wastelandutau.neocities.org/jp/vcv#eff)

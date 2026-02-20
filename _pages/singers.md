@@ -27,4 +27,7 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 - [Tetsu Noa (鉄 ノア)](/singers/tetsu-noa)
 
 *Note: some private voicebanks may be available for download in the future, and many of the public voicebanks have not yet been published*
+
+*Uses vXYZ versioning system (x=recording set, y=major update, z=minor update/fix) (Sometimes listed as kust Vx)*
+
 *Additionally, many of the private voicebanks are not finished and thus have no demos*

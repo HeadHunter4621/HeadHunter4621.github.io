@@ -1,13 +1,13 @@
 ---
-title: "Suigin Koora [水銀 コーラ] - JA  V1"
-permalink: /singers/suigin-koora/ja-dv-v1/
+title: "Suigin Koora [水銀 コーラ] - JA V1"
+permalink: /singers/suigin-koora/ja-dv-v0/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-dv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-dv-v010-sample.wav" %}
 
 ## Voicebank Info
-- Exact same samples as the [JA CVVC 2.0](/singers/suigin-koora/ja-cvvc-2.x/) voicebank, reconfigured for DeepVocal
+- Exact same samples as the [JA CVVC v200](/singers/suigin-koora/ja-cvvc-v2/) voicebank, reconfigured for DeepVocal. It wil lneed to be remade at some point, likely with its own sample audio. V0 (this one) won't be released but in the future a V1 will most likely be made and will be released.
 
 ## Usage
 ```

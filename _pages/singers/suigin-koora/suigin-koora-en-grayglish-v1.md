@@ -9,7 +9,7 @@ This English voicebank works well if you configure it according to [GraySlate's 
 {% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-grayglish-1.0-sample.wav" %}
 
 ## Downloads
-[EN GrayGlish 1.0](https://drive.google.com/file/d/1JSeedBvhwzmPErlbunT7SnN8-xrpWugO/view?usp=sharing){: .btn .btn--primary}
+[EN GrayGlish v100](https://drive.google.com/file/d/1GcrEuwkbgNn2VZ6095nNB2IJ0HqKDJNd/view?usp=drive_link){: .btn .btn--primary}
 
 ## Voicebank Info
 - Reclist: [GrayGlish 2.0](https://assbackwardsp.wixsite.com/utaubackwards/reclists)
