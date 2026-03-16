@@ -6,8 +6,9 @@ permalink: /singers/
 This is the directory where I'll host all of my UTAU voicebanks and DiffSinger models and other stuff!
 
 ## Public:
-- [Mizuki Mae (美月 マエ)](/singers/mizuki-mae)
+- [Ash (アッシュ)](/singers/ash)
 - [En'ne Jeho (鉛音 ジェホ)](/singers/en'ne-jeho)
+- [Mizuki Mae (美月 マエ)](/singers/mizuki-mae)
 - [OIL](/singers/oil)
 - [Suigin Koora (水銀 コーラ)](/singers/suigin-koora)
 - [Suigin Kurea/Claire (水銀 クレア)](/singers/suigin-kurea)
