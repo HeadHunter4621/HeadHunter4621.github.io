@@ -4,7 +4,7 @@ permalink: /singers/tetsu-noa/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/tetsu-noa-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/tetsu-noa-ja-cvvx-v1-demo.wav" %}
 
 ## Demo Song
 Hadal Abyss Zone (Inabakumori) (WIP)

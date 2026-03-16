@@ -1,4 +1,4 @@
-USe https://tools.tubs.wtf/vbtougen/# !!
+Use https://tools.tubs.wtf/vbtougen/# !!
 
 Add to start (after names and contact info):
 

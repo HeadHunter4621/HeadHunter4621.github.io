@@ -4,10 +4,10 @@ permalink: /singers/suigin-koora/ja-dv-v0/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-dv-v010-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-dv-v0-demo.wav" %}
 
 ## Voicebank Info
-- Exact same samples as the [JA CVVC v200](/singers/suigin-koora/ja-cvvc-v2/) voicebank, reconfigured for DeepVocal. It wil lneed to be remade at some point, likely with its own sample audio. V0 (this one) won't be released but in the future a V1 will most likely be made and will be released.
+- Exact same samples as the [JA CVVC v200](/singers/suigin-koora/ja-cvvc-v2/) voicebank, reconfigured for DeepVocal. It will need to be remade at some point, likely with its own sample audio. V0 (this one) won't be released but in the future a V1 will most likely be made and will be released.
 
 ## Usage
 ```

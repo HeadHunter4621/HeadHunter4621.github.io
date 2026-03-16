@@ -4,7 +4,7 @@ permalink: /singers/girlthing/ds-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/girlthing-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/girlthing-ds-v1-en-demo.wav" %}
 
 ## Demo Song
 La Vie en Rose (WIP)

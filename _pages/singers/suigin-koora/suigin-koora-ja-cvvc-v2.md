@@ -4,7 +4,7 @@ permalink: /singers/suigin-koora/ja-cvvc-v2/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-cvvc-2.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v2-demo.wav" %}
 
 ## Downloads
 [JA CVVC v200](https://drive.google.com/file/d/1Ekp-zU6G8lV2xW4CAkT-p3XtheulVVV4/view?usp=drive_link){: .btn .btn--primary}

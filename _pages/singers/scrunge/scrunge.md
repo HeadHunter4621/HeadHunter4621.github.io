@@ -15,5 +15,7 @@ She isn't especially great at Japanese pronunciation, but she has a very low ton
 
 ## Voicebanks
 
+### [Japanese CVVC V2](/singers/scrunge/ja-cvvc-v2/){: .btn .btn}
+{% include embed-audio.html src="/assets/audio/demos/scrunge-ja-cvvx-v2-demo.wav" %}
 ### [Japanese CVVC V1](/singers/scrunge/ja-cvvc-v1/){: .btn .btn}
-{% include embed-audio.html src="/assets/audio/samples/scrunge-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/scrunge-ja-cvvx-v1-demo.wav" %}

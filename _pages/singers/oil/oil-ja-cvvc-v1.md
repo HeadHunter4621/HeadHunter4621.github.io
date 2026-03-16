@@ -4,7 +4,7 @@ permalink: /singers/oil/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/oil-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v1-demo.wav" %}
 
 ## Voicebank Info
 This voicebank is very bad and not available to downlaod. 

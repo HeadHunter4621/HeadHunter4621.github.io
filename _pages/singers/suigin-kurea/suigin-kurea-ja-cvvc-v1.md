@@ -6,7 +6,7 @@ permalink: /singers/suigin-kurea/ja-cvvc-v1/
 I recommend using the [VCV version of this voicebank](/singers/suigin-kurea/ja-vcv-v1) instead, as it is much higher quality.
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-claire-ja-cvvc-v1-demo.wav" %}
 
 ## Demo Song
 I~Ya I~Ya I~Ya (Neru) (with [Suigin Koora](/singers/suigin-koora))

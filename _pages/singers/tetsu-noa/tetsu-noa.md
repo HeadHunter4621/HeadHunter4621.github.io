@@ -10,11 +10,10 @@ He has a very smooth voice, but pronounces the Japanese /r/ sound a bit strangel
 
 ## Voicebanks
 ### [Japanese CVVC V1](/singers/tetsu-noa/ja-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/tetsu-noa-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/tetsu-noa-ja-cvvx-v1-demo.wav" %}
 
 ## Character Info **(WIP)**:
 - Name:
   - Romaji/English (First, Last): Noa Tetsu
   - Hiragana: てつ のあ
   - Kanji: 鉄 ノア
-

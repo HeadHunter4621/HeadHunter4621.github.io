@@ -17,8 +17,8 @@ I will make a post on [the homepage](/) when it is released!
 
 ## Voicebanks
 ### [DiffSinger (NeoDIVA)](/singers/oil/ds/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/oil-en-ds-0.1-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ds-neodiva-w4-en-demo.wav" %}
 ### [Japanese CVVC V2](/singers/oil/ja-cvvc-v2/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/oil-ja-cvvc-2.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v2-demo.wav" %}
 ### [Japanese CVVC V1](/singers/oil/ja-cvvc-v1/){: .btn .btn}
-{% include embed-audio.html src="/assets/audio/samples/oil-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v1-demo.wav" %}

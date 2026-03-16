@@ -4,7 +4,7 @@ permalink: /singers/kobayashi-umeko/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/kobayashi-umeko-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/kobayashi-umeko-ja-cvvx-v1-demo.wav" %}
 
 ## Demo Song
 Amedama (Pepoyo)

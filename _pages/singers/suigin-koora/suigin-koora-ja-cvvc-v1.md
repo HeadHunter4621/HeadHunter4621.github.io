@@ -7,7 +7,7 @@ permalink: /singers/suigin-koora/ja-cvvc-v1/
 Please use [Suigin Koora CVVC V2](/singers/suigin-koora/ja-cvvc-v2/) or [Suigin Koora VCV V1](/singers/suigin-koora/ja-vcv-v1/) instead, unless (for some reason) you really think this one sounds better.
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v1-demo.wav" %}
 
 ## Downloads
 [JA CVVC v100](https://drive.google.com/file/d/1U1TET9w3lZtqnoLthfV54i66n1oVK-b3/view?usp=drive_link){: .btn}

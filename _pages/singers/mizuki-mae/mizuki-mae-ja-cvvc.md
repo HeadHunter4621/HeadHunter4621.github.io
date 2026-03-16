@@ -4,7 +4,7 @@ permalink: /singers/mizuki-mae/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/mizuki-mae-ja-cvvx-v1-demo.wav" %}
 
 ## JA CVVC
 Japanese Demo Song: Darling (Suda Keina) **(WIP)**

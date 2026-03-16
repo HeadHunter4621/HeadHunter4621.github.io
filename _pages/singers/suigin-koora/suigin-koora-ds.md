@@ -4,8 +4,12 @@ permalink: /singers/suigin-koora/ds/
 ---
 
 ## Samples
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-ds-0.1-sample.wav" %}
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-ds-0.1-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ds-neodiva-w4-en-demo.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ds-neodiva-w4-ja-demo.wav" %}
+
+## Demo Song
+Demo Song: Human (Flavor Foley) (Fourth/Final Section)
+{% include video id="13ZJX4AOPuA" provider="youtube" %}
 
 ## Downloads
 [DiffSinger (NeoDiva)](https://neodiva.xyz){: .btn .btn--primary}

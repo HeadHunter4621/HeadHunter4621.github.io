@@ -1,9 +1,35 @@
 ---
-title: "Suigin Koora [水銀 コーラ] - Toki Pona CVVC V1"
-permalink: /singers/suigin-koora/tp-cvvc-v1/
+title: "Suigin Koora [水銀 コーラ] - Japanese CVVX V1"
+permalink: /singers/suigin-koora/ja-cvvx-v1/
 ---
 
-Work-In-Progress Toki Pona voicebank using [Salem Wasteland's Toki Pona CVVC reclist](https://wastelandutau.neocities.org/ex/tokipona#cvvc)
+WIP Japanese CVVX Voicebank for Suigin Koora
+(CVVX is a new system of Japanese/other-cv-structured-language voicebanks based on CVVC but much more customizeable. When this voicebank releases, I will pubish the phonemizer and much more information.)
+
+## Samples
+
+Regular: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvx-v1-regular-demo.wav" %}
+
+Power: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvx-v1-power-demo.wav" %}
+
+Whisper: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvx-v1-whisper-demo.wav" %}
+
+Falsetto: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvx-v1-falsetto-demo.wav" %}
+
+NT: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvx-v1-nt-demo.wav" %}
+
+## Voicebank Info
+- Reclist: Heavily-modified [Salem Wasteland JA CVVC 8-Mora](https://wastelandutau.neocities.org/jp/cvvc#8)
+- Recorded Pitch: C3 @ 120 BPM (Optimum Pitch Range: F2~F5)
+- Pitches and Colors:
+  - Normal: C3 & G3
+  - Power: G4 & C4
+  - Whisper: C3
+  - NT (recorded with plugged nose, less extra features): C3
+- Extra Features:
+    - WIP
+
+*Note: The "falsetto" voice color was recorded with a beta 2-mora JA CVVX reclist.*
 
 ## Usage
 ```

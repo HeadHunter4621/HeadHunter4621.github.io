@@ -8,7 +8,11 @@ It is very simple to set up and use, but not especially high quality.
 Most samples were recorded at 120 BPM, but a few were recorded at 100 BPM because I struggled with the pronunciation.
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-s-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-en-s-cvvc-v1-demo.wav" %}
+
+## Demo Song
+Demo Song: Human (Flavor Foley) (Second Section)
+{% include video id="13ZJX4AOPuA" provider="youtube" %}
 
 ## Downloads
 [EN S-CVVC v100](https://drive.google.com/file/d/1jqd8hQdYJ0pee0AGlHPPs9MFT9smX24m/view?usp=drive_link){: .btn .btn--primary}
