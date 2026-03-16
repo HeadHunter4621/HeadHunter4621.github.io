@@ -4,7 +4,7 @@ permalink: /singers/mizuki-mae/
 ---
 
 This is a voicebank that I recorded with a friend.
-It will be released very soon!
+It will be released soon!
 
 ## Character Info:
 * Name:
@@ -14,4 +14,4 @@ It will be released very soon!
 
 ## Voicebanks
 ### [Japanese CVVC V1](/singers/mizuki-mae/ja-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/mizuki-mae-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/mizuki-mae-ja-cvvx-v1-demo.wav" %}

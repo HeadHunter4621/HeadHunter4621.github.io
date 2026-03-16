@@ -1,0 +1,18 @@
+---
+title: "New Voicebank (Ash), Voicebank Renamed ("Magnesuim Mari" to "Kobayashi Umeko"), and artwork!
+---
+
+Some updates! I made a new voicebank with a friend, [Ash](/singers/ash/)! it will eventually be released publically.
+
+Aditionally, I *finally* published [Kobayashi Umeko (previously known as Magnesuin Mari)](/singers/kobayashi-umeko)'s demo song. Watch it here!
+{% include video id="LlGRFp8Am6Y" provider="youtube" %}
+
+The voice provider, Mari, drew the thumbnail with her character, as well as the standing artwork, which is vidible on the character's page!
+
+Aditionally, standing artwork now exist for [En'ne Jeho](/singers/enne-jeho) and [Girlthing](/singers/girlthing)! All of this artwork is made by the voicebanks' respective voice providers, which I find very fun!
+
+Also, I'm working on a large post about CVVX/VCVX/CVX as well as a resources section. Most likely, those will all become available within this week.
+
+I also did a lot of restructuring of the site (mainly changing all of the demo songs (ow) so that they're all the same now), so there *may* be issues. Please let me know if you find any, and I will fix them ASAP!
+
+Thanks for reading!

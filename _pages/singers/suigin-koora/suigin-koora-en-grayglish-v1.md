@@ -6,7 +6,11 @@ permalink: /singers/suigin-koora/en-grayglish-v1/
 This English voicebank works well if you configure it according to [GraySlate's instructions](https://assbackwardsp.wixsite.com/utaubackwards/reclists) (follow instructions for GrayGlish 2.0).
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-grayglish-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-en-grayglish-v1-demo.wav" %}
+
+## Demo Song
+Demo Song: Human (Flavor Foley) (Third Section)
+{% include video id="13ZJX4AOPuA" provider="youtube" %}
 
 ## Downloads
 [EN GrayGlish v100](https://drive.google.com/file/d/1GcrEuwkbgNn2VZ6095nNB2IJ0HqKDJNd/view?usp=drive_link){: .btn .btn--primary}

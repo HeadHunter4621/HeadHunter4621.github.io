@@ -19,6 +19,6 @@ It was so fun! She has a uniquely soft tone which doesn't work especially well i
 
 ## Voicebanks
 ### [Japanese VCV V1](/singers/kobayashi-umeko/ja-vcv-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/kobayashi-umeko-ja-vcv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/kobayashi-umeko-ja-vcvx-v1-demo.wav" %}
 ### [Japanese CVVC V1](/singers/kobayashi-umeko/ja-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/kobayashi-umeko-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/kobayashi-umeko-ja-cvvx-v1-demo.wav" %}

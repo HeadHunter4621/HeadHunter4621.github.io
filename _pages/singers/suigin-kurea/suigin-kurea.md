@@ -11,11 +11,10 @@ Eventually, I plan to make a FR CVVC voicebank as well since she speaks that lan
 
 ## Voicebanks
 ### [Japanese VCV V1](/singers/suigin-kurea/ja-vcv-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-vcv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-claire-ja-vcvx-v1-demo.wav" %}
 ### [French CVVC V1](/singers/suigin-kurea/fr-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-fr-cvvc-1.0-sample.wav" %}
 ### [Japanese CVVC V1](/singers/suigin-kurea/ja-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-claire-ja-cvvc-v1-demo.wav" %}
 
 # Usage:
 ```

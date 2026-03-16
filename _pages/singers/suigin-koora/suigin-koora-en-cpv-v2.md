@@ -4,7 +4,11 @@ permalink: /singers/suigin-koora/en-cpv-v2/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-en-cpv-2.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-en-c+v-v2-demo.wav" %}
+
+## Demo Song
+Demo Song: Human (Flavor Foley) (First Section)
+{% include video id="13ZJX4AOPuA" provider="youtube" %}
 
 ## Voicebank Info
 - Reclist: Detraxe EN C+V

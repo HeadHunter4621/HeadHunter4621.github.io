@@ -1,4 +1,6 @@
 ---
-title: "Kylie - Japanese CVVC V1"
-permalink: /singers/kylie/ja-cvvc-v1/
+title: "Kylie - Japanese CVVX V1"
+permalink: /singers/kylie/ja-cvvx-v1/
 ---
+
+WIP

@@ -4,7 +4,7 @@ permalink: /singers/banjo/ja-cvvc-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/banjo-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/banjo-ja-cvvx-v1-demo.wav" %}
 
 ## Demo Song
 Haruni (Nilfruits)

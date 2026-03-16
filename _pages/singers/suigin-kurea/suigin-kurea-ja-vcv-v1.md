@@ -6,7 +6,7 @@ permalink: /singers/suigin-kurea/ja-vcv-v1/
 WIP
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-kurea-ja-vcv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-claire-ja-vcvx-v1-demo.wav" %}
 
 ## Demo Song
 

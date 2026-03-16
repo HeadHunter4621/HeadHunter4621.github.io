@@ -4,7 +4,7 @@ permalink: /singers/haruka/ja-cv-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/haruka-ja-cv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/haruka-ja-cvx-v1-demo.wav" %}
 
 ## Demo Song
 WIP

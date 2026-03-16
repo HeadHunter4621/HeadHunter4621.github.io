@@ -4,7 +4,7 @@ permalink: /singers/oil/ja-cvvc-v2/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/oil-ja-cvvc-2.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v2-demo.wav" %}
 
 ## Downloads
 [JA CVVC v200](https://drive.google.com/file/d/1odnz0SjHFPo4tVaKTD8fTwp49-5ru9ma/view?usp=drive_link){: .btn .btn--primary}

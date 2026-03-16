@@ -4,7 +4,7 @@ permalink: /singers/suigin-koora/ja-vcv-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/suigin-koora-ja-vcv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-vcv-v1-demo.wav" %}
 
 ## Downloads
 [JA VCV 100](https://drive.google.com/file/d/1zkZtpcF6BBWvwkLuqoRKbD2gA9DAXagA/view?usp=drive_link){: .btn .btn--primary}

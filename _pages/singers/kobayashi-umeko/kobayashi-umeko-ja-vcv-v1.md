@@ -4,7 +4,7 @@ permalink: /singers/kobayashi-umeko/ja-vcv-v1/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/kobayashi-umeko-ja-vcv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/kobayashi-umeko-ja-vcvx-v1-demo.wav" %}
 
 ## Demo Song
 Onomatope (Maigo Hanyuu) **(WIP)**

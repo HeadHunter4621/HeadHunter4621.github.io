@@ -4,7 +4,7 @@ permalink: /singers/oil/ds/
 ---
 
 ## Sample
-{% include embed-audio.html src="/assets/audio/samples/oil-en-ds-0.1-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/oil-ds-neodiva-w4-en-demo.wav" %}
 
 ## Downloads
 [DiffSinger (NeoDiva)](https://neodiva.xyz){: .btn .btn--primary}

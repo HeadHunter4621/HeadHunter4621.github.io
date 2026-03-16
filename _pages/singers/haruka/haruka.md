@@ -10,4 +10,4 @@ It is pretty low quality because we recorded it with my phone in her classroom.
 
 ## Voicebanks
 ### [Japanese CV V1](/singers/haruka/ja-cv-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/haruka-ja-cv-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/haruka-ja-cvx-v1-demo.wav" %}
