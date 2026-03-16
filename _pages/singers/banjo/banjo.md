@@ -15,4 +15,4 @@ It has a very calm tone.
 
 ## Voicebanks
 ### [Japanese CVVC V1](/singers/banjo/ja-cvvc-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/samples/banjo-ja-cvvc-1.0-sample.wav" %}
+{% include embed-audio.html src="/assets/audio/demos/banjo-ja-cvvx-v1-demo.wav" %}
