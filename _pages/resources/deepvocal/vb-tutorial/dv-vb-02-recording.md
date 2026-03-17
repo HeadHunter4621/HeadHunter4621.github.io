@@ -1,6 +1,11 @@
 ---
 title: "DeepVocal Voicebank Creation Tutorial - Recording"
 permalink: /resources/deepvocal/vb-tutorial/02/
+toc: true
+toc_label: "Table of Contents"
+toc_icon: cog
+toc_sticky: true
+classes: none
 ---
 
 Now is the part of the process where you record the audio files for your voicebank. This process is the same as with UTAU, but often done with other reclists. In fact, you can definitely just use an UTAU voicebank's recordings! This is often done as a test or a port. Just make sure the voicebank is CVVC (or CV, but that sounds worse.)
@@ -33,7 +38,7 @@ Since I'll assume you're using the above-linked reclist, this will be specific t
 
 Here is the process I go through to process audio files so that they're ready to use
 
-1. Make a new folder (named the name of your voicebank, ex. `suigin-koora-deepvocal-v1`) somewhere memorable. This will act as the voicebank folder. I have a folder of all of my voicebanks in my Music folder, but the desktop will work as well. Inside of that, make a folder named "recordings" as well as a folder named "logs".
+1. Make a new folder (named the name of your voicebank, ex. `suigin-koora-deepvocal-v1`) somewhere memorable. This will act as the voicebank folder. I have a folder of all of my voicebanks in my Music folder, but the desktop will work as well. Inside of that, make a folder named "recordings" (this tutorial will only be for monopitch voicebanks. voicebanks with multiple pitches will have subfolders in here), as well as a folder named "logs".
 2. ***COPY*** the `.wav` files from the "session" folder (`C:\Users\[User]\RecStar\sessions\[reclist name][date and time]`) to the recordings folder in your voicebank folder. Copy them so that if something messes up with the noise removal you have a backup. please copy them. i beg you.
 3. Normalize the volume levels in the files. I use Audacity for this, but I am sure there is a better way to do this (I just don't know of any). Select all of the audio files in the recordings folder and drag them into audacity. **Audacity will take a long time to load them**, it is fine, be patient. Once it loads, press `ctrl + a` to select all of the audio, then (in the upper bar) select "Effect" > "Volume and Compression" > "Normalize...". Leave everything at default, but set the peak amplitude to something between -2 and -4 dB. I personally do -2 dB, but it doesn't amtter too much. Then click "Apply". Once thats done, go to "File" > "Export Audio". In the window that shows up, set the audio options to be "Mono", "44100 Hz", and "Signed 16-Bit PCM". Set the export range to be "Multiple Files", split files based on tracks, name files "Using Label/Track Name", and make sure to check "Overwrite existing files". then click export! You can then close Audacity and there's no need to save the project.
 4. Optionally, use [UtaUtaUtau's `threaded_noise_remove.exe`](https://github.com/UtaUtaUtau/nnsvslabeling/releases/tag/builds) to remove background noise by dragging the folder with all of the `.wav` folders onto the EXE. That should be it, not sure exactly. I always run the Python version, but it's a lot more complicated.
