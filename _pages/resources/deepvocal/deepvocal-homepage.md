@@ -11,12 +11,12 @@ List of things:
 
 VB Creation Tutorial (Start with "Info"):
 * [Info](/resources/deepvocal/vb-tutorial/00/)
-* [Installing DeepVocal & DeepVocal ToolBox](/placeholder/)
-* [Recording for Voicebank](/placeholder/)
-* [Configuring & Building a Voicebank](/placeholder/)
+* [Installing DeepVocal & DeepVocal ToolBox](/resources/deepvocal/vb-tutorial/01/)
+* [Recording for Voicebank](/resources/deepvocal/vb-tutorial/02/)
+* [Configuring & Building a Voicebank](/resources/deepvocal/vb-tutorial/03/)
 * [Installing Voicebanks](/placeholder/)
 * [Using a Voicebank](/placeholder/)
-* [Editing a Voicebank](/placeholder/)]
+* [Editing a Voicebank](/placeholder/)
 
 DeepVocal Usage:
 * [Installing DeepVocal](/placeholder/)
