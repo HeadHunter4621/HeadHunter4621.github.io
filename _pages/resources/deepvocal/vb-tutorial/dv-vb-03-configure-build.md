@@ -2,8 +2,10 @@
 title: "DeepVocal Voicebank Creation Tutorial - Configuration & Building"
 permalink: /resources/deepvocal/vb-tutorial/03/
 toc: true
-toc_label: "Voicebank Configuration and Building"
-toc_icon: "cog"
+toc_label: "Table of Contents"
+toc_icon: cog
+toc_sticky: true
+classes: none
 ---
 
 This is where DeepVocal differs from UTAU the most, in my opinion. This is a very involved process, so it will be multiple parts.
@@ -12,7 +14,7 @@ This is where DeepVocal differs from UTAU the most, in my opinion. This is a ver
 
 Fistly, you have to open DeepVocal ToolBox. Just open the exe or desktop shortcut. It will be a hilariously small window, jsust a bar with some menu items.
 
-To create the voicebank file, select "File" > "New", then "File" > "Save As". Then select your voicebank folder. This will create a `.dvtb` folder, which is where information about the voicebank is stored.
+To create the voicebank file, select "File" > "New", then "File" > "Save As". Then select your voicebank folder. This will create a `.dvtb` file, which is where information about the voicebank is stored.
 
 ## Phonetic Dictionary
 
@@ -99,13 +101,130 @@ These are symbols that can be at the end of phonemes. While I do not know how ex
 
 From what I can tell, DeepVocal has one of these by default, `-`. You don't need to add it here. It is automatically placed at the end of notes that are at the end of a phrase.
 
-Once you're done making the dictionary, make sure to run the check one last time and fix any errors. If it works, it will say "OK! Pass!" which I find very funny.
+Once you're done making the dictionary, make sure to run the check one last time and fix any errors. If it works, it will say "OK! Pass!" which I find very funny. You can now close the phonetic dictionary window, and make sure to save the voicebank!
 
+## Configuration
+
+To open the voicebank configuration menu in DVTB, go to "Function" > "Build Voice Config". This will open another window which is where DVTB will show you all of the "markers" (for UTAU, these are OTO lines) and information about them. I also recommend having a file explorer window open so that you can view the voicebank's audio files, which will come in handy soon (this isn't part of DVTB, it's just helpfil).
+
+### Config Setup
+
+The first thing to do is select "Wav Location" and select the "recordings" folder that we made earlier. This tells DVTB what directory to look in. Doing this also makes a `voice.dvcfg` file, which is pretty much what `oto.ini` is in UTAU. 
+
+Once you have the directory set correctly, it's time to actually start configuring. In the file explorer window, sort the files by name, then take the first name of the first one and type it into the "Wav File Name" box of DVTB. Technically you don't need to do these in any fixed order, I just recommend going alphabetically because it makes it the easiest to pick up where you left off. In the "Pitch" box, enter the pitch of the recording. Ideally, you recorded at exactly this pitch throughout all of every sample, but that isn't humanely possible. As long as it's relatively accurate, you're fine. To my knowledge, this only really effects multi-pitch voicebanks. 
+
+Here's how I like to have my windows arranged:
+![image-right](/assets/images/resources/deepvocal/dvtb-organization.png){: .align-center}
+
+### Markers!
+
+Once you've selected the right file and entered the pitch correctly, it's time to start making the markers! These are analogous to lines in an `oto.ini` file, but a bit different to interact with. The first thing you need to do is determine the type of marker that's at the start of the audio file. Technically the order doesn't matter, but doing it in order makes it a bit simpler in my opinion.
+
+Below is a list of the types of phonemes in DeepVocal, as well as what they do and how to configure them.
+
+#### CV
+
+Same as UTAU, these are CV phonemes. This also includes standalone vowels and V and CV phonemes that start with silence (ex. `-a`, `-se`, etc.). These are configured the same as in UTAU, with some slight differences.
+
+To configure them, make sure that the type is set to "CV" and the text in the box is the CV phoneme. Select "New markers" to start placing the markers!
+
+#### VX
+
+In CVVC UTAU, these are VC, V-, and VV phonemes. They are also the tail symbols we added to the dictionary earlier, which start with vowels. While they're configured very similarly, DeepVocal is actually made for this type of phoneme (whereas UTAU is technically just made for CV), so it won't try to stretch them at all!
+
+To configure them, make sure that the type is set to "VX" and the text in the "V" box is the starting vowel and the text in the "X" box is whatever comes next. Select "New markers" to start placing the markers!
+
+#### Independent
+
+This has the same interface as the VX phonemes, but aren't connected to any other phonemes. To configure them, make sure that the type is set to "Independent" and the text in the box is the independent phoneme. Select "New markers" to start placing the markers!
+
+### Editing Markers
+
+By default, the marker editor is verry small. I recommend making it wider, but you do you. To zoom in on a sample, you can use the yellow things on th sides of the top bar of the editor to change what section of the sample can be viewed.
+
+To move markers, you can either drag them (which can *only* be done by the little labels) or click on where you want them to go (to place the playhead there) and then pres the corresponding number on your keyboard (eithet 1-2 or 1-4). I prefer the second option because it's faster.
+
+You will need to manually add every phoneme. When you are done placing the markers for a phoneme, select the red check mark in the marker window, then don't close it. Instead, scroll (by moving the upper yellow box) to roughly where the place of the next phoneme will be, then enter the information for the next phoneme and create its markers. The window will save your place for you.
+
+As you can see, DVTB makes an **astonishing** amount of noises. When you drag the markers, it plays a *very small* section of the audio to show you what phoneme is playing. You can also move the playhead and then press the sapce bar to play the audio file. Also, when making and saving markers it plays noises too. How fun!
+
+#### Marker Types
+
+There are 6 types of markers in DeepVocal: CP, PP, VSP, VEP, SP, and EP. CV phonemes have the first 4 and VX phonemes have the last 2. 
+
+For CV phonemes, the phonemes align to an OTO's parameters like this (not quite the same, but very similar). 
+
+`CP` (Offset): This stands for "Consonant Point." You place this at the very start of the consonant for stops all consonants. If it is a `-CV` phoneme, this goes right when any the sound starts.
+
+`PP` (Preutterance): This stands for "Preutterance Point." It goes right at the start of the vowel sound. For phonemes like `kya`, it goes **before** the `y` sound.
+
+`VSP` (Fixed): This stands for "Vowel Start Point." It goes at the point where the vowel is stable, marking the start of the part of the phoneme that is stretched.
+
+`VEP` (Cutoff): This stands for "Vowel End Point." It's the end of the part that's stretched and the end of the sample.
+
+For VX and Independent phonemes, there are only 2 types of marker, and in my opinion they're so much simpler
+
+`SP`: This stands for "Start Point." It marks the start of the VX phoneme. This is placed at the point of the vowel where it is no longer stable.
+
+`EP`: This stands for "End Point." It marks the end of the VX phoneme and goes at the very start of the next phoneme. For stop consonants such as, this is as soon as the silence starts. For fricatives/voiced phonemes, this is immediately at the point where the consonant sound is stable.
+
+## Configuration Examples
+
+### CV
+
+`-a`:
+![image-center](/assets/images/resources/deepvocal/example_-a.png){: .align-center}
+
+`a`:
+![image-center](/assets/images/resources/deepvocal/example_a.png){: .align-center}
+
+`-se`:
+![image-center](/assets/images/resources/deepvocal/example_-se.png){: .align-center}
+
+`to`:
+![image-center](/assets/images/resources/deepvocal/example_to.png){: .align-center}
+
+`ka`:
+![image-center](/assets/images/resources/deepvocal/example_ka.png){: .align-center}
+
+`-pyu`:
+![image-center](/assets/images/resources/deepvocal/example_-pyu.png){: .align-center}
+
+`nu`:
+![image-center](/assets/images/resources/deepvocal/example_nu.png){: .align-center}
+
+### VX
+
+`a_i`:
+![image-center](/assets/images/resources/deepvocal/example_a_i.png){: .align-center}
+
+`u_k`:
+![image-center](/assets/images/resources/deepvocal/example_u_k.png){: .align-center}
+
+`e_m`:
+![image-center](/assets/images/resources/deepvocal/example_e_m.png){: .align-center}
+
+`N_k`:
+![image-center](/assets/images/resources/deepvocal/example_n_k.png){: .align-center}
+
+`N_sh`
+![image-center](/assets/images/resources/deepvocal/example_n_sh.png){: .align-center}
+
+`a_Fr` (Tail):
+![image-center](/assets/images/resources/deepvocal/example_a_fr.png){: .align-center}
+
+### Other
+
+`Ex` (Independent, Exhale) (breaths are very quiet):
+![image-center](/assets/images/resources/deepvocal/example_ex.png){: .align-center}
 
 
 ## ***BETA*** Japanese Phonetic Dictionary for my [DeepVocal JA CVVX reclist](/resources/ja-cvvx-reclist-dv/)
+
 (This is at the bottom of the page because it's very long)
+
 Since this is in beta, it may not function properly. Please reach out to me for help if needed.
+
 (Last updated: `3-16-2026`)
 
 ### 1: Symbol List

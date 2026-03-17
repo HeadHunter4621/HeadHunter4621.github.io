@@ -59,7 +59,7 @@ defaults:
       type: posts
     values:
       layout: single
-      read_time: false
+      read_time: true
       comments: false
       share: false
       related: false
@@ -97,7 +97,7 @@ author:
 
 footer:
   links:
-    - label: "Issues? Questions? Send an email!"
+    - label: "Issues or Questions? Send an email!"
       icon: "fa-solid fa-envelope-open"
       url: "mailto:kouga-p@proton.me"
 
