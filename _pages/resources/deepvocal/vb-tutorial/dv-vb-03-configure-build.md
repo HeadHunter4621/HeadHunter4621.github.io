@@ -14,7 +14,7 @@ This is where DeepVocal differs from UTAU the most, in my opinion. This is a ver
 
 Fistly, you have to open DeepVocal ToolBox. Just open the exe or desktop shortcut. It will be a hilariously small window, jsust a bar with some menu items.
 
-To create the voicebank file, select "File" > "New", then "File" > "Save As". Then select your voicebank folder. This will create a `.dvtb` file, which is where information about the voicebank is stored.
+To create the voicebank file, select "File" > "New", then "File" > "Save As". Then select your voicebank folder. This will create a `.dvtb` file, which is where information about the voicebank is stored. To open them later, go to "File" > "Open" ,then select the `.dvtb` file.
 
 ## Phonetic Dictionary
 
@@ -93,7 +93,7 @@ Once you're done assembling lists 1 through 4, press the "Check Dictionary" butt
 
 ### 5: Independent Symbol List (Optional)
 
-This is pretty much the same as the consonant lists, but for standalone phonemes such as breaths. Call them whatever you want (the most common thing for breaths is `br1`, `br2`, etc). These phonemes are not pitched by the engine and are not needed, but cna be heplful.
+This is pretty much the same as the consonant lists, but for standalone phonemes such as breaths. Call them whatever you want (the most common thing for breaths is `br1`, `br2`, etc). These phonemes are not pitched by the engine and are not needed, but can be helpful.
 
 ### 6: Tail Symbol List (Optional)
 
@@ -154,7 +154,7 @@ For VX and Independent phonemes, there are only 2 types of marker, and in my opi
 
 * `SP`: This stands for "Start Point." It marks the start of the VX/Independent phoneme. For VX phonemes, this is placed at the point of the vowel where it is no longer stable. For independent phonemes, this is at the start of the sound.
 
-* `EP`: This stands for "End Point." It marks the end of the VX/Independent phoneme and goes at the very start of the next phoneme. For stop consonants such as `k`, this is as soon as the silence starts. For fricatives/voiced phonemes, this is immediately at the point where the consonant sound is stable (generally right when the vowel ends). For VV phonemes, this is imediately when the sound becomes the next vowel, though I may be doing this wrong (the timing for my VV phonemes is always a bit messed up).
+* `EP`: This stands for "End Point." It marks the end of the VX/Independent phoneme and goes at the very start of the next phoneme. For stop consonants such as `k`, this is as soon as the silence starts. For fricatives/voiced phonemes, this is immediately at the point where the consonant sound is stable (generally right when the vowel ends). For VV phonemes, this is imediately when the sound becomes the next vowel, though I may be doing this wrong (the timing for my VV phonemes is always a bit messed up). I'll have to do some experimentation with that. For independent phonemes, this marker goes at the end of the sound.
 
 ### Configuration Examples
 

@@ -38,7 +38,7 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 ![image-center](/assets/images/resources/mrbeast.png){: .align-center}
 (handy diagram)
 2. Under "Assets", select the applicable download. If you're on windows, most likely the correct option for you is `recstar-1.x.x-win64.zip`. Click it to download it.
-3. Extract `recstar-1.x.x-win64.zip`, then move the `recstar-1.x.x-win64` folder to somewhere memorable, sich as the desktop.
+3. Extract `recstar-1.x.x-win64.zip`, then move the `recstar-1.x.x-win64` folder to somewhere memorable, such as the desktop.
 4. Open the folder and run `RecStar.exe`.
 5. Since this is a portable application, you will not need to do any installation. All recordings, however, are saved in `C:\Users\[User]\RecStar\sessions\[reclist name][date and time]`.
 6. Done! You can close the program.
