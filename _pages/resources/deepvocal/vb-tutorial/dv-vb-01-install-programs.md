@@ -12,7 +12,7 @@ In order to start making a DeepVocal voicebank, you need 2 (deepvocal-related) p
 
 Both of these programs can be found on [DeepVocal's homepage](https://www.deep-vocal.com/#/).
 
-Additionally (while not *technically* necessary), I ***strongly*** recommend using RecStar to record the audio files, following the reclist. This can be downoaded off of [RecStar's GitHub page](https://www.deep-vocal.com/#/).
+Additionally (while not *technically* necessary), I ***strongly*** recommend using RecStar to record the audio files, following the reclist. This can be downoaded off of [RecStar's GitHub page](https://github.com/sdercolin/recstar).
 
 *Note: All of these instructions assume that you're on Windows, since that's the only platform that DV and DVTB can run on. To install RecStar on other platforms, consult its documentation.*
 
@@ -37,8 +37,8 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 1. On recStar's GitHub page, select the "releases" tab (on the right side)
 ![image-center](/assets/images/resources/mrbeast.png){: .align-center}
 (handy diagram)
-2. Under "Assets", select the applicable download. If you're on windows, most likely the correct option for you is `recstar-1.x.x-win64.zip`. Click it to download it.
-3. Extract `recstar-1.x.x-win64.zip`, then move the `recstar-1.x.x-win64` folder to somewhere memorable, such as the desktop.
+2. Under the release labelled `Latest`, click and download `recstar-x.x.x-win-64.zip` from its Assets
+3. Extract `recstar-x.x.x-win64.zip`, then move the `recstar-x.x.x-win64` folder to somewhere memorable, such as the desktop.
 4. Open the folder and run `RecStar.exe`.
 5. Since this is a portable application, you will not need to do any installation. All recordings, however, are saved in `C:\Users\[User]\RecStar\sessions\[reclist name][date and time]`.
 6. Done! You can close the program.
