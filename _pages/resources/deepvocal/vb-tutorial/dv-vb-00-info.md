@@ -13,7 +13,9 @@ DeepVocal is a discontinued product. The development team disappeared (I don't r
 
 Using DeepVocal and DeepVocal ToolBox is a challenge. Sometimes it feels like the software is fighting you, sometimes it doesn't. It is a very awkward process, but I find it very rewarding when you finaly hear your voicebank. **Both DeepVocal and DeepVocal ToolBox only run on Windows.**
 
-Also, please note that this tutorial assumes that you have (very basic) knowledge on how UTAU voicebanks are made. If you are confused by a term, please use [Salem Wasteland's UTAU Vocabulary](https://utau.felinewasteland.com/ref/vocab) page.
+Also, please note that this tutorial assumes that you have (very basic) knowledge on how UTAU voicebanks are made. If you are confused by a term, please use [Salem Wasteland's UTAU Vocabulary](https://utau.felinewasteland.com/ref/vocab) page. It also may have some typos.
+
+This is very important. **If you find any errors or need help, please email me (kouga-p@proton.me) so that I can try to help you and then update this tutorial accordingly.** I want this to be as followable as possible, and you telling me if there are inaccuracies is incredibly helpful!
 
 Next Step: 
 [Install Programs](/resources/deepvocal/vb-tutorial/01/){: .btn .btn--primary}
