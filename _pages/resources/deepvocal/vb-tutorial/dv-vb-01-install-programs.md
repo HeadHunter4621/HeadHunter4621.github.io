@@ -21,7 +21,7 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 1. Select "Download" from the website's homepage, then click the download button under "DeepVocal Editor"
 2. Extract `Setup_DeepVocal_beta_2.1.0.zip` and run `Setup_DeepVocal_beta_2.1.0.exe`
 3. Follow the installer's directions. This tutorial assumes that it is installed in the default location (`C:\Program Files (x86)\DeepVocal`), but if needed you can change it.
-4. DeepVocal will open automatically. We don't need to use it yet, but it is helpful to change the language as soon as possible to stop confusion. By default it is in Chinese. To change the language, select the third option from the left (in the top bar), then the bottom one (in the dropdown). Then, select English, then press the left button to save your changes. Some text in the UI will still be in Chinese, but it will switch to English after the software is restarted.
+4. DeepVocal will open automatically. We don't need to use it yet, but it is helpful to change the language as soon as possible to stop confusion. By default it is in Chinese. To change the language, select the third option from the left (in the top bar) ("首選項"), then the bottom one (in the dropdown) ("語言設定(language)"). Then, select English from the dropdoan menu, then press the left button ("確定") to save your changes.
 5. Done! You can now close the DeepVocal editor.
 
 ## DeepVocal ToolBox Installation
@@ -34,7 +34,7 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 
 ## RecStar Installation
 
-1. On recStar's GitHub page, select the "releases" tab (on the right side)
+1. On RecStar's GitHub page, select the "releases" tab (on the right side)
 ![image-center](/assets/images/resources/mrbeast.png){: .align-center}
 (handy diagram)
 2. Under the release labelled `Latest`, click and download `recstar-x.x.x-win-64.zip` from its Assets

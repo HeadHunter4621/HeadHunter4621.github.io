@@ -23,4 +23,4 @@ DeepVocal Usage Tutorial (WIP):
 
 Resources:
 * [Reclist & Phonetic Dictionary](/placeholder/)
-* [Video Tutorial by HitCoder (may be easier to follow, but the maker is "skimming over the basics and even making some of my own mistakes" (according to the description))](https://www.youtube.com/watch?v=vtSMaRr21AA)
+* [Video Tutorial by HitCoder (may be easier to follow, but the maker is "skimming over the basics and even making some of [their] own mistakes" (according to the description))](https://www.youtube.com/watch?v=vtSMaRr21AA)
