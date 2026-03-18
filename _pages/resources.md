@@ -20,8 +20,7 @@ This is a list of all of my resources and the tools that I use!
 
 ### Tutorials
 
-* [DeepVocal Voicebank Development](/resources/deepvocal/vb-tutorial/00/) (WIP)
-* [DeepVocal Usage](/placeholder/) (WIP)
+* [DeepVocal Voicebank Development & Usage](/resources/deepvocal/)
 
 ## Other Recources
 

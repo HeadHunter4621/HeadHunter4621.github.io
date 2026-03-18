@@ -13,3 +13,5 @@ This is different than the phonetic dictionary. It lets you convert the symbols 
 ***Note: These dictionaries are optional!***
 
 Since this page is under construction, I recommend you look at [this page](https://deepvocal.fandom.com/wiki/Dictionary) on the DeepVocal Wikia for information about them.
+
+In DeepVocal, there are 2 types of this dictionary.
