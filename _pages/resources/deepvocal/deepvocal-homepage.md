@@ -5,8 +5,6 @@ permalink: /resources/deepvocal/
 
 Tips and tutorials for using DeepVocal and making voicebanks for it!
 
-***Note: This is work-in-progress. Do not use this yet.***
-
 List of things:
 
 VB Creation Tutorial:
@@ -14,11 +12,10 @@ VB Creation Tutorial:
 * [Installing DeepVocal & DeepVocal ToolBox](/resources/deepvocal/vb-tutorial/01/)
 * [Recording for Voicebank](/resources/deepvocal/vb-tutorial/02/)
 * [Configuring & Building a Voicebank](/resources/deepvocal/vb-tutorial/03/)
-* [Installing Voicebanks](/placeholder/)
-* [Using a Voicebank](/placeholder/)
-* [Editing a Voicebank](/placeholder/)
+* [Installing & Testing Voicebanks](/resources/deepvocal/vb-tutorial/04/)
+* [Making a Singer Dictionary](/resources/deepvocal/vb-tutorial/05/) (Optional)
 
-DeepVocal Usage:
+DeepVocal Usage Tutorial (WIP):
 * [Installing DeepVocal](/placeholder/)
 * [Installing a DeepVocal Voicebank](/placeholder/)
 * [Setting Up DeepVocal](/placeholder/)
