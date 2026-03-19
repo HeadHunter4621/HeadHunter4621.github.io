@@ -3,6 +3,8 @@ main:
     url: /singers/suigin-koora/
   - title: "Singers"
     url: /singers/
+  - title: "Resources"
+    url: /resources/
   - title: "USTs"
     url: https://vocaloader.app/users/580
   - title: "About"
