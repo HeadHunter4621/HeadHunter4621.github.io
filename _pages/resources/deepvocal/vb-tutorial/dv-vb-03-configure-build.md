@@ -52,7 +52,7 @@ This is the list of phonemes that DeepVocal's editor knows that it can stretch a
 [...]
 ```
 
-For Japanese, it should always look like this (unless you have some weird stuff going on):
+Apparently, I'm one of the first people to discover how this page actually *works*. The first value gives DV the name of the vowel, which is used for stationaries (the only stretched part, apparently DV uses Articulates and Stationaries). With the way I configure voicebanks, it makes sense to be formatted the same as below, where the left and right vowel are exactly the same. However, if needed, the stationary for a vowel can come from any CV phoneme in the voicebank. In the PDF document's example, the vowel `in` in Chinese comes from the phoneme `yin`. I may not be completely accurate with this (I need to test more), but the stationary is taken form the space between the VSP and VEP markers of the chosen CV phoneme. In our case though, you can just kinda ignore this since we have an `a` phoneme. For Japanese, it should usually just look like this unless you for some reaosn need to take the vowel from another CV phoneme:
 
 ```
 a,a
@@ -62,8 +62,6 @@ e,e
 o,o
 N,N
 ```
-
-I don't know why there needs to be the comma and second vowel. My best guess is that it has to do with diphthongs, but that doesn't apply in Japanese. I will have to do research into what this does exactly.
 
 ### 3: Voiced Consonant List
 
