@@ -21,7 +21,7 @@
 title: Kouga-P's Site
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where I distibute my voicebanks, as well as host tutorials that I write!
+  Website where KougaP shares news and distributes voicebanks & reclists
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://HeadHunter4621.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: HeadHunter4621

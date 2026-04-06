@@ -9,6 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.4.1"
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem 'nokogiri'
+gem 'rack', '~> 2.2.4'
+gem 'rspec'
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'sass-embedded', '~> 1.94'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
