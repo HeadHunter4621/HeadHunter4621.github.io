@@ -3,9 +3,11 @@ name: "CVVX Phonemizer and Information"
 permalink: /resources/cvvx-info/
 ---
 
-Phonemizer (that I comissioned Cadlaxa to make) for my CVVX (and VCVX and CVX) voicebanks. CVVX is my modified system of CVVC, VCVX is my modified system/reclist for VCV, and CVX is a custom CV reclist (that I plan to write) with some specific aliases. It allows for better pronunciation variation as well as making it easier for me to define more phonetic sounds to be added. It also allows (some) ARPAbet to be typed as phonetic hints and converted to the correct phonemes.
+CVVX is my modified system of CVVC, VCVX is my modified system/reclist for VCV, and CVX is a custom CV reclist (that I plan to write) with some specific aliases. It allows for better pronunciation variation as well as making it easier for me to define more phonetic sounds to be added. It also allows (some) ARPAbet to be typed as phonetic hints and converted to the correct phonemes.
 
-Originally it was planned to be for Japanese only (hence the name "JA CVVX"), but I plan to add support for Lisatopian CVVX and VCVX as well as toki pona CVVX and VCVX.
+While CVVX is the current name, I might rename it someday since it supports other voicebank formats as well.
+
+Originally it was planned to be for Japanese only (hence the name "JA CVVX"), but I plan to add support for Lisatopian CVVX and VCVX as well as toki pona CVVX and VCVX. The phonemizer was comissioned and [Cadlaxa](https://github.com/Cadlaxa) made it.
 
 [Download Phonemizer](https://drive.google.com/file/d/1Va9iwhzwX9051gSBDI1QP-zsRvxVpwJa/view?usp=sharing){: .btn .btn--inverse}
 
