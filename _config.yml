@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website where KougaP shares news and distributes voicebanks & reclists
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://HeadHunter4621.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: HeadHunter4621
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
@@ -80,14 +79,14 @@ defaults:
 author:
   name: "Kouga-P"
   avatar: "/assets/profile-photo.png"
-  bio: "I'm an UTAU producer who makes lots of voicebanks! You can find me on Discord as @hh4621 or send me an email at [kouga-p@proton.me]()" # Note: Markdown is allowed
+  bio: "I'm an UTAU producer who makes lots of voicebanks! Email me at kouga-p@proton.me if you ahve any questions or need help!" # Note: Markdown is allowed
   links:
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@KougaP"
     - label: "Instagram"
       icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/_kouga_p/reels/"
+      url: "https://www.instagram.com/_kouga_p/"
     - label: "Email"
       icon: "fa-solid fa-envelope-open"
       url: "mailto:kouga-p@proton.me"
