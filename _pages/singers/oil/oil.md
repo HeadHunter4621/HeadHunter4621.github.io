@@ -9,8 +9,8 @@ A while ago, we recorded a CVVC voicebank, but it was very low quality because I
 The low quality version is not available for download (but if you're really interested you could message/email me).
 
 We have now re-recorded the CVVC voicebank (using a 2-mora reclist since it was easier for the voice provider) and recorded 8 songs for NeoDIVA DiffSinger. 
-They have been labeled and the audio has been submitted. 
-I will make a post on [the homepage](/) when it is released! 
+The DiffSinger is trained by NeoDiva (alongside their training data), but is not available on their website. 
+It is not yet public.
 
 ## Character Info **(WIP)**:
 - Name: OIL/Oil

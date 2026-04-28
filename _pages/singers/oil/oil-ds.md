@@ -7,7 +7,7 @@ permalink: /singers/oil/ds/
 {% include embed-audio.html src="/assets/audio/demos/oil-ds-neodiva-w4-en-demo.wav" %}
 
 ## Downloads
-[DiffSinger (NeoDiva)](https://neodiva.xyz){: .btn .btn--primary}
+WIP
 
 ## Demo Song
 It Just Keeps Going (Kaguo): English Translation
