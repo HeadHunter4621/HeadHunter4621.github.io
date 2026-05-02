@@ -23,7 +23,7 @@ From the phonemizer selector, select `JA: Japanese > [JA CVVX] Japanese CVVX Pho
 
 By downloading this phonemizer, you agree to follow these terms of use.
 
-This phonemizer may only be used for voicebanks created by Kouga-P or with created with permission from Kouga-P.
+This phonemizer may only be used for voicebanks created by Kouga-P or created with permission from Kouga-P.
 
 Creation of voicebanks with this phonemizer is not allowed, unless given direct permission from Kouga-P.
 

@@ -12,7 +12,7 @@ In order to start making a DeepVocal voicebank, you need 2 (deepvocal-related) p
 
 Both of these programs can be found on [DeepVocal's homepage](https://www.deep-vocal.com/#/).
 
-Additionally (while not *technically* necessary), I ***strongly*** recommend using RecStar to record the audio files, following the reclist. This can be downoaded off of [RecStar's GitHub page](https://github.com/sdercolin/recstar).
+Additionally (while not *technically* necessary), I ***strongly*** recommend using RecStar to record the audio files, following the reclist. This can be downloaded off of [RecStar's GitHub page](https://github.com/sdercolin/recstar).
 
 *Note: All of these instructions assume that you're on Windows, since that's the only platform that DV and DVTB can run on. To install RecStar on other platforms, consult its documentation.*
 
@@ -21,7 +21,8 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 1. Select "Download" from the website's homepage, then click the download button under "DeepVocal Editor"
 2. Extract `Setup_DeepVocal_beta_2.1.0.zip` and run `Setup_DeepVocal_beta_2.1.0.exe`
 3. Follow the installer's directions. This tutorial assumes that it is installed in the default location (`C:\Program Files (x86)\DeepVocal`), but if needed you can change it.
-4. DeepVocal will open automatically. We don't need to use it yet, but it is helpful to change the language as soon as possible to stop confusion. By default it is in Chinese. To change the language, select the third option from the left (in the top bar) ("首選項"), then the bottom one (in the dropdown) ("語言設定(language)"). Then, select English from the dropdoan menu, then press the left button ("確定") to save your changes.
+4. If the DeepVocal editor opened on its own, close it. To change hte default language from Mandarin Chinese to English, go to `C:\Program Files (x86)\DeepVocal\config` in the file explorer and open `app.cfg` in a text editor (I use Notepad++, but Windows Notepad will work fine). This is basically the application's persistent settings page. Edit the line that starts with `"langFilePath"` to say `"langFilePath" : "C:\\Program Files (x86)\\DeepVocal\\language\\English.txt",
+` (or change the path to the correct path, if you installed somewhere else). Now you can open DeepVocal and verify that the language is set correctly.
 5. Done! You can now close the DeepVocal editor.
 
 ## DeepVocal ToolBox Installation

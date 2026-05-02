@@ -12,7 +12,7 @@ This is where DeepVocal differs from UTAU the most, in my opinion. This is a ver
 
 ## Getting Started with DVTB
 
-Fistly, you have to open DeepVocal ToolBox. Just open the exe or desktop shortcut. It will be a hilariously small window, jsust a bar with some menu items.
+Firstly, you have to open DeepVocal ToolBox. Just open the exe or desktop shortcut. It will be a hilariously small window, just a bar with some menu items.
 
 To create the voicebank file (`.dvtb` file, which is where information about the voicebank is stored), select "File" > "New", then "File" > "Save As". Then select your voicebank folder. Name the file something related to the name of your voicebank, for example `suigin-koora-dv-v1.dvtb`. To open them later, go to "File" > "Open", then select the `.dvtb` file.
 
@@ -36,7 +36,7 @@ Text is entered into the text box like this:
 [...]
 ```
 
-For most phonemes, this is very simple, such as `ka,k,a` and `so,s,o`. Sometimes, this varies. For example, I recomend that `ki` is treated as having a `ky` consonant, so its like would be `ki,ky,i`. For phonemes such as `kyo`, the lines look like `kyo,ky,o` because the consonant is `ky` instead of `k`. Additionally, you'll need to make lines for vowels. These will just look like `a,a,a`. Syllabic `N` is always written with a capital N, that way it is differentiated from consonant `n`.
+For most phonemes, this is very simple, such as `ka,k,a` and `so,s,o`. Sometimes, this varies. For example, I recommend that `ki` is treated as having a `ky` consonant, so its line would be `ki,ky,i`. For phonemes such as `kyo`, the lines look like `kyo,ky,o` because the consonant is `ky` instead of `k`. Additionally, you'll need to make lines for vowels. These will just look like `a,a,a`. Syllabic `N` is always written with a capital N, that way it is differentiated from consonant `n`.
 
 You have to do every phoneme. It is very annoying, I know.
 
@@ -52,7 +52,7 @@ This is the list of phonemes that DeepVocal's editor knows that it can stretch a
 [...]
 ```
 
-Apparently, I'm one of the first people to discover how this page actually *works*. The first value gives DV the name of the vowel, which is used for stationaries (the only stretched part, apparently DV uses Articulates and Stationaries). With the way I configure voicebanks, it makes sense to be formatted the same as below, where the left and right vowel are exactly the same. However, if needed, the stationary for a vowel can come from any CV phoneme in the voicebank. In the PDF document's example, the vowel `in` in Chinese comes from the phoneme `yin`. I may not be completely accurate with this (I need to test more), but the stationary is taken form the space between the VSP and VEP markers of the chosen CV phoneme. In our case though, you can just kinda ignore this since we have an `a` phoneme. For Japanese, it should usually just look like this unless you for some reaosn need to take the vowel from another CV phoneme:
+With the way I configure voicebanks, it makes sense for it to be formatted the same as below, where the left and right vowels are exactly the same. Sometimes though, it is configured differently, and I'm not entirely sure why. In the PDF document's example, the vowel `in` in Mandarin Chinese comes from the phoneme `yin`. I may not be completely accurate about this (I need to test more), but the vowel that is used between VV phonemes (the one on the right?) is taken from the space between the VSP and VEP markers of the phoneme on the left. In our case though, you can just ignore this since we have standalone vowel phonemes. For Japanese, it should usually just look like:
 
 ```
 a,a
@@ -65,7 +65,7 @@ N,N
 
 ### 3: Voiced Consonant List
 
-The title of this section is misleading. It is not for every voiced consonant, just the ones that hold a pitch while being spoken (remember, in Japanese you also need to incude includes `Cy` consonants, such as `my`). In Japanese, these are the phonemes in this list:
+The title of this section is misleading. It is not for every voiced consonant, just the ones that hold a pitch while being spoken (remember, in Japanese you also need to include `[consonant]y` consonants, such as `my`). In Japanese, these are the phonemes in this list:
 `z`, `j`, `n`, `ny`, `m`, `my`, `y`, `w`, and `v`.
 
 Depending on pronunciation/accent, some of these (most often, `v`) may need to be removed. To do this, just remove their lines from this and add them to "4 Unvoiced Consonant List". In the engine, the consonants in the voiced consonant list have pitch-shifting applied in the same way as vowels.
@@ -92,7 +92,7 @@ Once you're done assembling lists 1 through 4, press the "Check Dictionary" butt
 
 ### 5: Independent Symbol List (Optional)
 
-This is pretty much the same as the consonant lists, but for standalone phonemes such as breaths. Call them whatever you want (the most common thing for breaths is `br1`, `br2`, etc). These phonemes are not pitched by the engine and are not necessary, but can be helpful to make the voicebank sound more realistic.
+Ignore this section of the phonetic dictionary. It is meant to be used for things like breaths, however it does not function at all in the current version of DVTB.
 
 ### 6: Tail Symbol List (Optional)
 
@@ -104,7 +104,7 @@ Once you're done making the dictionary, make sure to run the check one last time
 
 ## Configuration
 
-To open the voicebank configuration menu in DVTB, go to "Function" > "Build Voice Config". This will open another window which is where DVTB will show you all of the "markers" (for UTAU, these are OTO lines/parameters) and information about them. I also recommend having a file explorer window open so that you can view the voicebank's audio files, which will come in handy soon (this isn't part of DVTB, it's just helpfil).
+To open the voicebank configuration menu in DVTB, go to "Function" > "Build Voice Config". This will open another window which is where DVTB will show you all of the "markers" (for UTAU, these are OTO lines/parameters) and information about them. I also recommend having a file explorer window open so that you can view the voicebank's audio files, which will come in handy soon (this isn't part of DVTB, it's just helpful).
 
 ### Config Setup
 
@@ -127,11 +127,11 @@ Below is a list of the types of phonemes in DeepVocal, as well as what they do a
 
 * Independent (sometimes shortened to "INDIE") - This has the same interface as the VX phonemes, but aren't connected to any other phonemes. To configure them, make sure that the type is set to "Independent" and the text in the box is the name of the independent phoneme as listed in the phonetic dictionary. Select "New markers" to start placing the markers! See below for configuration instructions and examples.
 
-By default, the marker editor is very small. I recommend making it wider, but that's up to you. To zoom in on a sample, you can use the yellow things on th sides of the top bar of the editor to change what section of the sample can be viewed.
+By default, the marker editor is very small. I recommend making it wider, but that's up to you. To zoom in on a sample, you can use the yellow things on the sides of the top bar of the editor to change what section of the sample can be viewed.
 
-To move markers, you can either drag them (which can *only* be done by the little labels) or click on where you want them to go (to place the playhead there) and then pres the corresponding number on your keyboard (either 1-2 or 1-4). I prefer the second option because it's faster. After you move the markers to the correct places (I have explanations below of how they're supposed to be arranged, as well as examples), press the red checkmark button to save the sample. If there is an error (for example, the markers are in the wrong order), it will show you the error and you'll have to correct it. Once you save a phoneme, don't close the window; instead, scoll (by moving the upper yelow rectangle thing) to generally contain the place where the next phoneme will be, then enter the parameters for the next phoneme and make the markers. DVTB will keep the window in place and place the markers within it. Of course, the markers will still need to move, but it's helpfl to start with them in roughly the right place, especially for voicebanks with longer samples. 
+To move markers, you can either drag them (which can *only* be done by the little labels) or click on where you want them to go (to place the playhead there) and then press the corresponding number on your keyboard (either 1-2 or 1-4). I prefer the second option because it's faster. After you move the markers to the correct places (I have explanations below of how they're supposed to be arranged, as well as examples), press the red checkmark button to save the sample. If there is an error (for example, the markers are in the wrong order), it will show you the error and you'll have to correct it. Once you save a phoneme, don't close the window; instead, scroll (by moving the upper yellow rectangle thing) to generally contain the place where the next phoneme will be, then enter the parameters for the next phoneme and make the markers. DVTB will keep the window in place and place the markers within it. Of course, the markers will still need to move, but it's helpful to start with them in roughly the right place, especially for voicebanks with longer samples. 
 
-You'll need to place each phoneme in the voicebank individually. Ideally, every voicebank provider will make some sort of description of which phonemes each recording contains, but that usually isn't the case, especially it's an UTAU reclist. Later in the process (when building), DVTB will tell you if any are missing which is handy (though sometimes it's a bit strange; I'll get into that later as well)
+You'll need to place each phoneme in the voicebank individually. Ideally, every voicebank provider will make some sort of description of which phonemes each recording contains, but that usually isn't the case, especially if it's an UTAU reclist. Later in the process (when building), DVTB will tell you if any are missing which is handy (though sometimes it's a bit strange; I'll get into that later as well)
 
 As you can see, DVTB makes an **astonishing** amount of noises. When you drag the markers, it loops a *very small* section of the audio to show you what phoneme is playing, which is very handy in case you lose your place in a sample and need to know what vowel it is. You can also move the playhead and then press the space bar to play the audio file. Also, when making and saving markers it plays noises too. How fun!
 
@@ -141,7 +141,7 @@ There are 6 types of markers in DeepVocal: `CP`, `PP`, `VSP`, `VEP`, `SP`, and `
 
 For CV phonemes, the phonemes align to an OTO's parameters like this (not quite the same, but very similar). 
 
-* `CP` (Offset): This stands for "Consonant Point." You place this at the very start of the consonant for stop constants and in the middle (or start of the stable portion) of nasal/fricative consonants (these are sometimes called continuants). If it is a `-CV` phoneme, this goes right when the sound starts.
+* `CP` (Offset): This stands for "Consonant Point." You place this at the very start of the consonant for stop consonants and in the middle (or start of the stable portion) of nasal/fricative consonants (these are sometimes called continuants). If it is a `-CV` phoneme, this goes right when the sound starts.
 
 * `PP` (Preutterance): This stands for "Preutterance Point." It goes right at the end of the consonant sound start of the vowel sound. For phonemes like `kya`, it goes **before** the `y` sound.
 
@@ -153,7 +153,7 @@ For VX and Independent phonemes, there are only 2 types of marker, and in my opi
 
 * `SP`: This stands for "Start Point." It marks the start of the VX/Independent phoneme. For VX and tail phonemes, this is placed at the point of the vowel where it is no longer stable. For independent phonemes, this is at the start of the sound.
 
-* `EP`: This stands for "End Point." It marks the end of the VX/Independent phoneme and goes at the very start of the next phoneme. For stop consonants such as `k`, this is as soon as the silence starts. For fricatives/voiced phonemes (continuants), this is immediately at the point where the consonant sound is stable (generally a very short time after the vowel ends). For VV phonemes, this is imediately when the sound becomes the next vowel, though I may be doing this wrong (the timing for my VV phonemes is always a bit messed up). I'll have to do some experimentation with that. For independent and tail phonemes, this marker goes at the end of the sound.
+* `EP`: This stands for "End Point." It marks the end of the VX/Independent phoneme and goes at the very start of the next phoneme. For stop consonants such as `k`, this is as soon as the silence starts. For fricatives/voiced phonemes (continuants), this is immediately at the point where the consonant sound is stable (generally a very short time after the vowel ends). For VV phonemes, this is immediately when the sound becomes the next vowel, though I may be doing this wrong (the timing for my VV phonemes is always a bit messed up). I'll have to do some experimentation with that. For independent and tail phonemes, this marker goes at the end of the sound.
 
 Have fun configuring all of the samples! Here are some examples to how they're supposed to be configured:
 
@@ -212,7 +212,7 @@ Have fun configuring all of the samples! Here are some examples to how they're s
 
 ## Building
 
-Building is the process that DVTB does to assemble the voicebank configs and markers and stuff into the voicebank that the DV editor uses. It is composed of multiple steps. To open the window to start this process, go to "Function" > "Build Voice Bank". The voicebank-building window has quite a lot of settings in it, so please follow all of thees steps.
+Building is the process that DVTB does to assemble the voicebank configs and markers and stuff into the voicebank that the DV editor uses. It is composed of multiple steps. To open the window to start this process, go to "Function" > "Build Voice Bank". The voicebank-building window has quite a lot of settings in it, so please follow all of these steps.
 
 ### Wav Locations
 
@@ -220,16 +220,16 @@ This is where you select the folders of samples (which have the `.dvcfg` files).
 
 ### Model Symbols
 
-Models are what DeepVocal uses to make its voicebanks sound more realistic. I don't know much about how they work, but I plan to do research someday into how they're formed and what they contain. In this section, select "All setted symbols in wav locations" if this is your first time doing this. This will make the models for all of the phonemes you've already configured. If you're updating or editing a voicebank, you'd use the other option and enter the phonemes (seperated by commas) into the box (VX phonemes are formatted as `v_x`). 
+Models are what DeepVocal uses to make its voicebanks sound more realistic. I don't know much about how they work, but I plan to do research someday into how they're formed and what they contain. In this section, select "All setted symbols in wav locations" if this is your first time doing this. This will make the models for all of the phonemes you've already configured. If you're updating or editing a voicebank, you'd use the other option and enter the phonemes (separated by commas) into the box (VX phonemes are formatted as `v_x`). 
 
 ### Build the Models
 
-Once you've configured the model symbols fully, select the model file location by pressing the button, then find your voicebank folder in the window that appears. Make a new folder within your voicebank folder titled "models" and select it. Check the "overwrite existing phonemes" box if you want to remove previously-built models. Now that you've set that, you can press the "Build Voice Model Files" button. Once you do this, select your logs folder that we made at the start and name the log file something like `models_1.txt`, since you should differentiate between model and voicebank logs, as well as allowing for multiple versions (trust me, you'll need to fix things unless you were very lucky). Then save that and it'll start! This process takes a long time (usually between 10 and 30 minutes if I had to estimate, but that depends on how many samples there are and how long they are). Once says it is done, you can close the model-generation window (the one with the green text). Look through the log `.txt` file you made and find any errors. Here is the list of the possible errors listed in the official documentation along with what I think they mean and how to fix them.
+Once you've configured the model symbols fully, select the model file location by pressing the button, then find your voicebank folder in the window that appears. Make a new folder within your voicebank folder titled "models" and select it. Check the "overwrite existing phonemes" box if you want to remove previously-built models. Now that you've set that, you can press the "Build Voice Model Files" button. Once you do this, select your logs folder that we made at the start and name the log file something like `models_1.txt`, since you should differentiate between model and voicebank logs, as well as allowing for multiple versions (trust me, you'll need to fix things unless you were very lucky). Then save that and it'll start! This process takes a long time (usually between 10 and 30 minutes if I had to estimate, but that depends on how many samples there are and how long they are). Once it says it is done, you can close the model-generation window (the one with the green text). Look through the log `.txt` file you made and find any errors. Here is the list of the possible errors listed in the official documentation along with what I think they mean and how to fix them.
 
 #### Model Errors
 
 * "File create failed": DVTB was not able to create the file. Most likely, this is because your model file location is in a weird place that only administrators can access. Try moving the model file somewhere else.
-* "Markers sequence error": The markers for the lsited phoneme are not in the write order. To fix this, go back to the marker editor and place that phoneme's markers in the right order. Enter the wav location and name as well as the phoneme (and type), then press "edit markers" so that you don't have to completely remake them.
+* "Markers sequence error": The markers for the listed phoneme are not in the right order. To fix this, go back to the marker editor and place that phoneme's markers in the right order. Enter the wav location and name as well as the phoneme (and type), then press "edit markers" so that you don't have to completely remake them.
 * "Unvoiced part exists in voiced consonant": This error says that one of the voiced consonants (which we set in the phoneme dictionary) is not voiced enough for the software to pitch-shift. The first thing to do (most often this is the case if only 1 or 2 phonemes have the error) is go to the marker editor and edit the markers (following the same process as for the error above) to make sure that the space between `CP` and `PP` is the constant part of the consonant. If all of the phonemes with this consonant have this error (or if changing the markers is impossible), the consonant has been categorized incorrectly. Open the phonetic dictionary and delete the consonant from the voiced consonant list and add it to the voiceless consonant list.
 * "Unvoiced part exists in vowel": Same as the "Unvoiced part exists in voiced consonant," except with a vowel instead of a voiced consonant. This is fixed by adjusting the markers and rebuilding those phonemes.
 * "Unvoiced part exists in the start of this continuant": Continuant sounds are defined as consonants that can be stretched out, such as `z`, `m`, and `f`. This error confuses me because these phonemes are not defined differently than the normal voiced/unvoiced consonants. This error is the same as the above ones, but I don't know how to solve it, sorry. If I had to guess, this refers *only* to voiced continuants. Try messing with the markers to see if something is wrong. This consonant might also need to go into the unvoiced consonants section.
@@ -238,13 +238,13 @@ Once you've configured the model symbols fully, select the model file location b
 * "Unvoiced part exists in continuant to vowel": I am unsure what this means exactly. Try messing with the messed-up markers to see if something is amiss.
 * "Unvoiced part exists in continuant to voiced consonant": Same as above, I don't really know what would cause it. Check the markers to see if something looks wrong.
 
-Once you've fixed all of the errors, make sure to save. Then rebuild the voicebank. To do this, go to the voicebank-building window and set the model symbols to "Please input symbols [...]" and type the names of all of the phonemes that had errors into the box. Seperate them with commas, and make sure that VX phonemes are formatted like `v_x`. Then make sure to check "Overwrite existing models" and then build the voicebank again. If there are still errors, try to fix them and redo this process.
+Once you've fixed all of the errors, make sure to save. Then rebuild the voicebank. To do this, go to the voicebank-building window and set the model symbols to "Please input symbols [...]" and type the names of all of the phonemes that had errors into the box. Separate them with commas, and make sure that VX phonemes are formatted like `v_x`. Then make sure to check "Overwrite existing models" and then build the voicebank again. If there are still errors, try to fix them and redo this process.
 
 ### Build the Voicebank
 
-Finally! the part where you can build the voicebank! Congradulations on making it this far! Here is how to configure things in this section of the voicebank-building window.
+Finally! the part where you can build the voicebank! Congratulations on making it this far! Here is how to configure things in this section of the voicebank-building window.
 
-"Pitch Symbols": Enter the symbols (ex. `D4`) contained in your recordings folder. For this tutorial, htere sould only be one of them. If you're doing a multi-pitch voicebank, seperate them by commas (there are examples on the window).
+"Pitch Symbols": Enter the symbols (ex. `D4`) contained in your recordings folder. For this tutorial, there should only be one of them. If you're doing a multi-pitch voicebank, separate them by commas (there are examples on the window).
 
 "Singer Name": Enter the name of the singer. I find it very handy to have a version number. The name can contain spaces, alphanumeric characters, kana, and kanji. I am unsure what special characters are and aren't allowed, so I would recommend sticking to alphanumeric characters and spaces.
 
@@ -256,7 +256,7 @@ Press the "Build Voice Bank" button, then select your logs folder again and titl
 
 #### Voicebank Errors
 
-* "Model file not exists": The model file for this phoneme doesn't exist. This is caused either because the phoneme ahd an error in the model-building process or because the model never got created. Simetimes this error can be ignored (for example `-ka` and `ka` are very similar in Japanese so it isn't really necessary to have `-ka`, and not having that phoneme will give this error), but sometimes this happens because the voicebank is missing important phonemes. This also happens because, when configuring a phoneme's, you can forget to actually save them with the checkmark. Check to see if they actually exist, and if they don't, create them. Check through the model log to see if it had an error, fix it, then make sure to actually enter the phoneme into the box where you specify what phoenemes are modeled, then try running that agin, then build the voicebank again.
+* "Model file not exists": The model file for this phoneme doesn't exist. This is caused either because the phoneme had an error in the model-building process or because the model never got created. Sometimes this error can be ignored (for example `-ka` and `ka` are very similar in Japanese so it isn't really necessary to have `-ka`, and not having that phoneme will give this error), but sometimes this happens because the voicebank is missing important phonemes. This also happens because, when configuring phonemes, you can forget to actually save them with the checkmark. Check to see if they actually exist, and if they don't, create them. Check through the model log to see if it had an error, fix it, then make sure to actually enter the phoneme into the box where you specify what phonemes are modeled, then try running that again, then build the voicebank again.
 * "File create failed": This is caused because DVTB can't make the file. Make sure that you have the voicebank folder in a place that can be accessed by a non-admin user.
 
 To rebuild the voicebank, either make a new foder (ex. `suigin_koora_dv_v002`) and select that as the voicebank folder, or delete the `SKC`, `SKI`, and `voice.sksd` files in the `v001` folder since there isn't an option to overwrite them.
@@ -297,7 +297,7 @@ ko,k,o
 kya,ky,a
 kyu,ky,u
 kye,ky,e
-kyo,kyo
+kyo,ky,o
 ga,g,a
 gi,gy,i
 gu,g,u
@@ -474,13 +474,4 @@ ry
 
 ### 5: Independent Symbol List
 
-```
-In
-Ex
-```
-
 ### 6: Tail Symbol List
-
-```
-Fr
-```
