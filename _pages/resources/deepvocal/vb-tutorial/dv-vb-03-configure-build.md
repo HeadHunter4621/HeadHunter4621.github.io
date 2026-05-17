@@ -164,7 +164,7 @@ Have fun configuring all of the samples! Here are some examples to how they're s
 `-a`:
 ![image-center](/assets/images/resources/deepvocal/example_-a.png){: .align-center}
 
-`a`:
+`a` (In this example VSP and VEP are backwards. they should be in the opposite order, sorry!):
 ![image-center](/assets/images/resources/deepvocal/example_a.png){: .align-center}
 
 `-se`:
