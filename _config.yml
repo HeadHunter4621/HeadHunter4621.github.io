@@ -79,7 +79,7 @@ defaults:
 author:
   name: "Kouga-P"
   avatar: "/assets/profile-photo.png"
-  bio: "I'm an UTAU producer who makes lots of voicebanks! Email me at kouga-p@proton.me if you ahve any questions or need help!" # Note: Markdown is allowed
+  bio: "I'm an UTAU producer who makes lots of voicebanks! Email me at kouga-p@proton.me if you have any questions or need help!" # Note: Markdown is allowed
   links:
     - label: "YouTube"
       icon: "fa-brands fa-youtube"
