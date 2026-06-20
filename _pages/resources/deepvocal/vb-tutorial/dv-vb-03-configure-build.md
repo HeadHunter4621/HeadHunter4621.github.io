@@ -94,6 +94,8 @@ Once you're done assembling lists 1 through 4, press the "Check Dictionary" butt
 
 Ignore this section of the phonetic dictionary. It is meant to be used for things like breaths, however it does not function at all in the current version of DVTB.
 
+***Note: Voicebanks made with DeepVocal ToolBox v2.1.0 will not support these phonemes, they will just play silence. I am working on finding a workaround, but it's very unlikely that it's possible to use anymore.*** shoutouts to discontinued software 💖 don't waste your time on them
+
 ### 6: Tail Symbol List (Optional)
 
 These are symbols that can be at the end of phonemes. While I do not know how exactly to use them in the editor yet, I know that this file is formatted the same as the consonant and independent files. This is used for the list of things such as ending breaths and vocal fry.
@@ -206,6 +208,9 @@ Have fun configuring all of the samples! Here are some examples to how they're s
 ![image-center](/assets/images/resources/deepvocal/example_o_-.png){: .align-center}
 
 #### Independent
+
+***Note: Voicebanks made with DeepVocal ToolBox v2.1.0 will not support these phonemes, they will just play silence. I am working on finding a workaround, but it's very unlikely that it's possible to use anymore.*** shoutouts to discontinued software 💖 don't waste your time on them
+
 
 `Ex` (Exhale) (It's very dim because breaths are quiet):
 ![image-center](/assets/images/resources/deepvocal/example_ex.png){: .align-center}
