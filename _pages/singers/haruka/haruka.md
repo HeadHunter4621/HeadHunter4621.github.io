@@ -6,8 +6,7 @@ permalink: /singers/haruka/
 This is a voicebank that I made with my Japanese teacher. 
 It is pretty low quality because we recorded it with my phone in her classroom.
 
-## Character Info **(WIP)**
+## Samples & Songs
 
-## Voicebanks
-### [Japanese CV V1](/singers/haruka/ja-cv-v1/){: .btn .btn--primary}
+### Japanese CV Sample
 {% include embed-audio.html src="/assets/audio/demos/haruka-ja-cvx-v1-demo.wav" %}

@@ -1,12 +1,11 @@
 ---
-title: "Ely"
+title: "Ely [イーライ]"
 permalink: /singers/ely
 ---
 
-This is a voicebank that I plan to record with one of my friends.
+This is a simple, CV-VV voicebank that I recorded with one of my friends. Originally recorded as CVVX, I was unsatisfied with the audio quality and pronunciation (vowels, specifically), so it has since been converted to CV-VV.
 
-## Character Info **(WIP)**
+## Samples & Songs
 
-## Voicebanks
-### [Japanese CVVX V1](/singers/ely/ja-cvvx-v1/){: .btn .btn--primary}
-{% include embed-audio.html src="/assets/audio/demos/ely-ja-cvvx-v1-demo.wav" %}
+### Japanese CV-VV Sample
+{% include embed-audio.html src="/assets/audio/demos/ely-ja-cvvv-demo.wav" %}

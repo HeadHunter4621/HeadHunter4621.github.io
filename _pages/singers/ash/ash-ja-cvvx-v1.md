@@ -1,5 +1,5 @@
 ---
-title: "Ash [アッシュ] - Japanese CVVX"
+title: "ASH - Japanese CVVX"
 permalink: /singers/ash/ja-cvvx-v1/
 ---
 

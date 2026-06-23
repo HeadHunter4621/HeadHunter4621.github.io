@@ -5,8 +5,7 @@ permalink: /singers/max/
 
 This is a voicebank that I recorded with a friend. It is only English and has a very bright tone.
 
-## Character Info **(WIP)**:
+## Songs & Samples
 
-## Voicebanks
-### [English C+V V1](/singers/max/en-cpv-v1/){: .btn .btn--primary}
+### English C+V Sample
 {% include embed-audio.html src="/assets/audio/demos/max-en-c+v-v1-demo.wav" %}

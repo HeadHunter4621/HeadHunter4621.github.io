@@ -1,21 +1,12 @@
 ---
-title: "Scrunge　[スクランじ]"
+title: "Scrunge　[スクランジ]"
 permalink: /singers/scrunge/
 ---
 
 ![image-right](/assets/images/singer-icons/Scrunge-Icon.png){: .align-right}
-This is a voicebank that I made with one of my other friends. 
-She isn't especially great at Japanese pronunciation, but she has a very low tone which is very unique.
+This is a voicebank that I made with one of my friends. The voicebank has a unique, low tone.
 
-## Character Info **(WIP)**
-- Name:
-    - Romaji/English (First, Last): Scrunge
-    - Kana: すくらんじ
-    - Kanji: スクランジ
+## Samples & Songs
 
-## Voicebanks
-
-### [Japanese CVVC V2](/singers/scrunge/ja-cvvc-v2/){: .btn .btn}
+### Japanese CVVC Sample
 {% include embed-audio.html src="/assets/audio/demos/scrunge-ja-cvvx-v2-demo.wav" %}
-### [Japanese CVVC V1](/singers/scrunge/ja-cvvc-v1/){: .btn .btn}
-{% include embed-audio.html src="/assets/audio/demos/scrunge-ja-cvvx-v1-demo.wav" %}
