@@ -8,7 +8,7 @@ toc_sticky: true
 classes: none
 ---
 
-In order to start making a DeepVocal voicebank, you need 2 (deepvocal-related) programs. DeepVocal (DV), and DeepVocal ToolBox (DVTB). DV is for using/testing voicebanks, DVTB is for making and configuring them.
+In order to start making a DeepVocal voicebank, you need 2 (deepvocal-related) programs. DeepVocal (DV), and DeepVocal ToolBox (DVTB). DV is for using/testing voicebanks, DVTB is for making and configuring them. They are only available on Windows.
 
 Both of these programs can be found on [DeepVocal's homepage](https://www.deep-vocal.com/#/).
 
