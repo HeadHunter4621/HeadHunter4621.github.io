@@ -11,8 +11,6 @@ WIP
 by KougaP
 
 Email - kouga-p@proton.me
-Discord - @hh4621
-Matrix - @hh4621:matrix.org
 Website - headhunter4621.github.io
 
 Voicebank Terms of Use
