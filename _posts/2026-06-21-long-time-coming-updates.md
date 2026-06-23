@@ -10,27 +10,35 @@ A lot of things have changed about my voicebanks recently, so here is a long lis
 
 ### Suigin Koora CVVX becomes VCVX
 
-While I will continue to use my CVVX system, my own newest voicebank will use a separate thing called VCVX. It's basically VCV, but with extra CVVC phonemes and ending VCs and some other stuff, which will be detailed once that voicebank comes out. While I did record Suigin Koora CVVX in the pitches/tones I specified before, I determined that the recordings were low quality and I wanted to prioritize pronunciation quality over pitch range. The demo song is already on youtube! It's linked at the bottom of this post.
+While I will continue to use my [CVVX system](/resources/cvvx-info/), my own newest voicebank will use a separate thing called VCVX. It's basically VCV, but with extra CVVC phonemes and ending VCs and some other stuff, which will be detailed once that voicebank comes out. While I did record Suigin Koora CVVX in the pitches/tones I specified before, I determined that the recordings were low quality and I wanted to prioritize pronunciation quality over pitch range. The demo song is already on youtube! It's linked at the bottom of this post.
 
 ### Suigin Koora DiffSinger Updates
 
-Suigin Koora's DiffSinger voicebank now has much, much more data. After labeling all of the recordings from the aforementioned CVVX and VCVX voicebanks, its pronunciation, tone, and range are much more representative of how my voice actually sounds. Additionally, I labeled all of the data from its S-CVVC FULL voicebank (mentioned later), so it has much more accurate data for consonants (vowels were generally fine before, but they're more clear and specific now). Demo song coming soon!
+[Suigin Koora's DiffSinger](/singers/suigin-koora/ds/) voicebank now has much, much more data. After labeling all of the recordings from the aforementioned CVVX and VCVX voicebanks, its pronunciation, tone, and range are much more representative of how my voice actually sounds. Additionally, I labeled all of the data from its S-CVVC FULL voicebank (mentioned later), so it has much more accurate data for consonants (vowels were generally fine before, but they're more clear and specific now). Demo song coming soon!
 
 ### OIL No Longer NeoDiva FEATURE Vocalist
 
-Due to a the way that NeoDiva FEATURE vocalists work, OIL is no longer listed as a NeoDiva Feature. He is still trained monthly (and soon will have more data), but will only be downloadable from my website and I am in charge of marketing, which I'm totally content with. The demo song is undecided right now, so if you have any suggestions please let me know!
+Due to a the way that NeoDiva FEATURE vocalists work, [OIL](/singers/oil/ds/) is no longer listed as a [NeoDiva](https://neodiva.xyz/) Feature. He is still trained monthly (and soon will have more data), but will only be downloadable from my website and I am in charge of marketing, which I'm totally content with. The demo song is undecided right now, so if you have any suggestions please let me know!
 
 ### Suigin Koora's New English UTAU Voicebank
 
-After I was dissatisfied with the audio quality and pronunciation of Suigin Koora's GrayGlish voicebank, I decided that I wanted a new UTAU voicebank. This new one is recorded using [Salem Wasteland's English "FULL"](https://utau.felinewasteland.com/en/full_ga) reclist. The recordings are much higher quality, and it has a bunch of extra phonemes compared to the old english voicebanks. 
+After I was dissatisfied with the audio quality and pronunciation of [Suigin Koora's GrayGlish voicebank](/singers/suigin-koora/en-grayglish-v1/), I decided that I wanted a new UTAU voicebank. This new one is recorded using [Salem Wasteland's English "FULL"](https://utau.felinewasteland.com/en/full_ga) reclist. The recordings are much higher quality, and it has a bunch of extra phonemes compared to the old english voicebanks. 
 
-### Ely CVVC Becomes CV-VV
+### Ely CVVX Becomes CV-VV
 
-Since Ely CVVC was quite low-quality (partially due to the recording environment being noisy and partially because if the way the voice provider pronounced the vowels), I experimented with making it CV-VV, and I think it sounds much better now!
+Since [Ely](/singers/ely/) CVVX was quite low-quality (partially due to the recording environment being noisy and partially because of the way the voice provider pronounced the vowels), I experimented with making it CV-VV, and I think it sounds much better now!
 
 ### MANY New Voicebanks!
 
-Since I recorded OIL CVVC (v2), I have recorded with 4 other people! One of these voicebanks is Mizuki Mae, but the rest don't have names yet. There is a Japanese CVVX voicebank with a focus on english capabilities, another JA CVVX voicebank focused on optimizing the reclist, and a third, CV-VV voicebank that I recorded with someone for fun. Additionally, I am going to record with another friend soon to make a CV-VV voicebank with between 3 and 5 pitches.
+Since I recorded OIL CVVC (v2), I have recorded with 4 other people! Here are short descriptions:
+
+[Mizuki Mae](), a soft feminine vocal with a low range. Mono-pitch Japanese CVVX voicebank. 
+
+[ASH](), a more neutral feminine vocal with a more breathy tone. Mono-pitch Japanese CVVX voicebank.
+
+[CHAR](), an androgynous vocal with an American accent. Mono-pitch CV 
+
+Unnamed CVVX voicebank with an androgynous tone. Mono-pitch CVVX
 
 ## Songs
 
