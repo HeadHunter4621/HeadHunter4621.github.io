@@ -1,13 +1,8 @@
 ---
 title: "Long-Overdue Updates"
-toc: true
-toc_label: "Table of Contents"
-toc_icon: cog
-toc_sticky: true
-classes: none
 ---
 
-Apologies for not updating anything at all for so long. I have been very busy the past few months, but I have more free time now so I will be able to actually update things! This is a very long post that has lots of information about things that have happened recently and things that will happen soon. This is so long that I thought it was appropriate to include a table of contents.
+Apologies for not updating anything at all for so long. I have been very busy the past few months, but I have more free time now so I will be able to actually update things! This is a very long post that has lots of information about things that have happened recently and things that will happen soon.
 
 ## Voicebank Announcements
 
@@ -68,6 +63,8 @@ I am working on a DeepVocal collaboration album. Sign-ups are closed (sorry!), a
 Something I've been thinking about a lot lately is voicebank distribution. Right now, I upload them to Google drive when I feel like they're "good enough," which works *fine* but isn't really optimal. I'm going to change this to something else (I'm working on a piece of software that should make it easier), and I'll make an update when the new system is in place.
 
 Another part of distribution that's difficult is explaining to people how to use CVVX/VCVX. It's a long process to install and use, so I found a `presamp.ini` file (which will be included with those voicebanks) that makes them function properly with the `JA VCV & CVVC Presamp` phonemizer (without a lot of CVVX/VCVX's special abilities) as a sort of compatibility mode.
+
+None of these changes are happening right now, and when they are made I will make a post about them.
 
 ## Videos I've Uploaded
 
