@@ -3,7 +3,7 @@ title: "CHAR"
 permalink: /singers/char/
 ---
 
-WIP vocal that I recorded with a friend. 
+WIP vocal that I recorded with a friend. It will eventually be public, but not yet.
 
 ## Samples & Songs
 

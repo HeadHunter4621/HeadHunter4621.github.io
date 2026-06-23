@@ -1,8 +1,13 @@
 ---
 title: "Long-Overdue Updates"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: cog
+toc_sticky: true
+classes: none
 ---
 
-Apologies for not updating anything at all for so long. I have been very busy the past few months, but I have more free time now so I will be able to actually update things! This is a very long post that has lots of information about things that have happened recently and things that will happen soon.
+Apologies for not updating anything at all for so long. I have been very busy the past few months, but I have more free time now so I will be able to actually update things! This is a very long post that has lots of information about things that have happened recently and things that will happen soon. This is so long that I thought it was appropriate to include a table of contents.
 
 ## Voicebank Announcements
 
@@ -30,13 +35,13 @@ Since [Ely](/singers/ely/) CVVX was quite low-quality (partially due to the reco
 
 ### MANY New Voicebanks!
 
-Since I recorded OIL CVVC (v2), I have recorded with 4 other people! Here are short descriptions:
+Since I recorded [OIL CVVC (V2)](/singers/oil/ja-cvvc-v2/), I have recorded with 4 other people! Here are short descriptions:
 
-[Mizuki Mae](), a soft feminine vocal with a low range. Mono-pitch Japanese CVVX voicebank. 
+[Mizuki Mae](/singers/mizuki-mae/), a soft feminine vocal with a low range. Mono-pitch Japanese CVVX voicebank. 
 
-[ASH](), a more neutral feminine vocal with a more breathy tone. Mono-pitch Japanese CVVX voicebank.
+[ASH](/singers/ash/), a neutral feminine vocal with a breathy tone. Mono-pitch Japanese CVVX voicebank.
 
-[CHAR](), an androgynous vocal with an American accent. Mono-pitch CV 
+[CHAR](/singers/char/), an androgynous vocal with an American accent. Mono-pitch CV 
 
 Unnamed CVVX voicebank with an androgynous tone. Mono-pitch CVVX
 
@@ -44,11 +49,11 @@ Unnamed CVVX voicebank with an androgynous tone. Mono-pitch CVVX
 
 ### So. Many. Demo. Songs.
 
-I currently have 6 demo songs on my YouTube channel, but I have a total of 18 different singers. They will all get demo songs eventually, although some will likely be quite short. We will have to see. The main ones I'm working on right now are Suigin Koora EN S-CVVC and Kobayashi Umeko VCVX's demos, but I currently have 20 demo song song projects in my songs folder. I will try to do a better job of posting blog updates once I upload them!
+I currently have 6 demo songs on my YouTube channel, but I have a total of 18 different singers. They will all get demo songs eventually, although some will likely be quite short. We will have to see. The main ones I'm working on right now are Suigin Koora EN S-CVVC and [Kobayashi Umeko VCVX](/singers/kobayashi-umeko/ja-vcv-v1/)'s demos, but I currently have 20 demo song song projects in my songs folder. I will try to do a better job of posting blog updates once I upload them!
 
 ## Site
 
-### Simplified singer pages (WIP)
+### Simplified singer pages
 
 Since a lot of my voicebanks are private, I am going to simplify their pages. The public voicebanks will still have lots of information, but the ones that aren't public will just have a short summary, a sample audio, and a demonstration song if applicable.
 
@@ -58,9 +63,11 @@ Since a lot of my voicebanks are private, I am going to simplify their pages. Th
 
 I am working on a DeepVocal collaboration album. Sign-ups are closed (sorry!), and more info will come when more things are decided. Stay tuned!
 
-## Voicebank Distribution
+### Voicebank Distribution
 
-Something I've been thinking about a lot lately is voicebank distribution. Currently, I just kinda upload them whenever I feel like they're "finished enough." While this works *fine*, it is annoying to need to manage them all like this, when they're all in different states of functionality. Another large thing that is changing this is my usage of the CVVX/VCVX system/phonemizer, which (when configured properly) uses romaji-encoded voicebanks, which don't work well with the normal Presamp phonemizer (although, there is a presamp.ini file that makes them work, but they have less of the specific features of CVVX/VCVX). Currently, my plan going forward is to continue making the public voicebanks public, but change the way that I update them so that it's more uniform (using an application that I'm making), and distribute them with the presamp.ini that allows them to be used as a sort of fallback. Voicebank downloads will be slightly changed so that users will need to learn about CVVX/VCVX in order to download them. That could be ignored, but the main point of the voicebanks is to function with the custom phonemizer, so I want people to use it. No changes are happening now, but when things to change eventually I will explain what changes.
+Something I've been thinking about a lot lately is voicebank distribution. Right now, I upload them to Google drive when I feel like they're "good enough," which works *fine* but isn't really optimal. I'm going to change this to something else (I'm working on a piece of software that should make it easier), and I'll make an update when the new system is in place.
+
+Another part of distribution that's difficult is explaining to people how to use CVVX/VCVX. It's a long process to install and use, so I found a `presamp.ini` file (which will be included with those voicebanks) that makes them function properly with the `JA VCV & CVVC Presamp` phonemizer (without a lot of CVVX/VCVX's special abilities) as a sort of compatibility mode.
 
 ## Videos I've Uploaded
 

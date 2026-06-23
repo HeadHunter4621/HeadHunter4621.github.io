@@ -24,8 +24,6 @@ Please use [Suigin Koora CVVC V2](/singers/suigin-koora/ja-cvvc-v2/) or [Suigin 
 by KougaP
 
 Email - kouga-p@proton.me
-Discord - @hh4621
-Matrix - @hh4621:matrix.org
 Website - headhunter4621.github.io
 
 Voicebank Terms of Use
