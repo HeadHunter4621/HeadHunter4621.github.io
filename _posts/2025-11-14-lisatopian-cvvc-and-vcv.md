@@ -12,4 +12,4 @@ This is the song I plan to cover once I make my voicebank:
 {% include video id="Lcsluv17qNU" provider="youtube" %}
 I'm very excited! L4MPLIGHT seems somewhat interested in it too, and I think that when I finish this I will give them the resources to create their own voicebank as well!
 
-Also tonight I am going to record a GrayGlish VB for Suigin Koora, pray for me...
+Also tonight I am going to record a GrayGlish VB for Suigin Koora.

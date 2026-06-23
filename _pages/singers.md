@@ -6,7 +6,7 @@ permalink: /singers/
 This is the directory where I'll host all of my UTAU voicebanks and DiffSinger models and other stuff!
 
 ## Public:
-- [Ash (アッシュ)](/singers/ash)
+- [ASH](/singers/ash)
 - [En'ne Jeho (鉛音 ジェホ)](/singers/en'ne-jeho)
 - [Mizuki Mae (美月 マエ)](/singers/mizuki-mae)
 - [OIL](/singers/oil)
@@ -16,11 +16,10 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 
 ## Private:
 - [Banjo (バンジョー)](/singers/banjo)
-- [Ely](/singers/ely)
+- [Ely (イーライ)](/singers/ely)
 - [Girlthing (ガールシング)](/singers/girlthing)
 - [Haruka](/singers/haruka)
 - [Kobayashi Umeko (小林 梅子)](/singers/kobayashi-umeko)
-- [Kylie](/singers/kylie)
 - [Max](/singers/max)
 - [Scrunge (スクランジ)](/singers/scrunge)
 - [Suigin Kurisu/Chris (水銀 クリス)](/singers/suigin-kurisu)
@@ -29,6 +28,6 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 
 *Note: some private voicebanks may be available for download in the future, and many of the public voicebanks have not yet been published*
 
-*Uses vXYZ versioning system (x=recording set, y=major update, z=minor update/fix) (Sometimes listed as kust Vx)*
+*Uses vXYZ versioning system (x=recording set, y=major update, z=minor update/fix) (Sometimes listed as just Vx)*
 
 *Additionally, many of the private voicebanks are not finished and thus have no demos*

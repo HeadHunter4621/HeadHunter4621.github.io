@@ -4,16 +4,12 @@ permalink: /singers/tetsu-noa/
 ---
 
 ![image-right](/assets/images/singer-icons/Noa-Icon.png){: .align-right}
-This is a voicebank I made with my friend, Noah. 
-It was really fun to record. 
-He has a very smooth voice, but pronounces the Japanese /r/ sound a bit strangely.
+This is a voicebank I made with my friend, Noah. It was really fun to record. He has a very smooth voice, but pronounces the Japanese /r/ sound a bit strangely.
 
-## Voicebanks
-### [Japanese CVVC V1](/singers/tetsu-noa/ja-cvvc-v1/){: .btn .btn--primary}
+## Samples & Songs
+
+### Japanese CVVC Sample
 {% include embed-audio.html src="/assets/audio/demos/tetsu-noa-ja-cvvx-v1-demo.wav" %}
 
-## Character Info **(WIP)**:
-- Name:
-  - Romaji/English (First, Last): Noa Tetsu
-  - Hiragana: てつ のあ
-  - Kanji: 鉄 ノア
+### Demo Song: Hadal Abyss Zone (Inabakumori)
+{% include video id="oP5tHBmX3NoA" provider="youtube" %}
