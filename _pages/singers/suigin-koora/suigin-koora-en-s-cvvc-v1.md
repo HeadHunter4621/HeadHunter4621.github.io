@@ -15,7 +15,7 @@ Demo Song: Human (Flavor Foley) (Second Section)
 {% include video id="13ZJX4AOPuA" provider="youtube" %}
 
 ## Downloads
-[EN S-CVVC v100](https://drive.google.com/file/d/1jqd8hQdYJ0pee0AGlHPPs9MFT9smX24m/view?usp=drive_link){: .btn .btn--primary}
+[EN S-CVVC v100](https://bowlroll.net/file/355440){: .btn .btn--primary}
 
 ## Voicebank Info
 - Reclist: [Salem Wasteland EN LITE](https://wastelandutau.neocities.org/en/lite)

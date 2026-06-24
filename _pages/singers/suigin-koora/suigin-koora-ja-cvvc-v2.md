@@ -7,7 +7,7 @@ permalink: /singers/suigin-koora/ja-cvvc-v2/
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v2-demo.wav" %}
 
 ## Downloads
-[JA CVVC v200](https://drive.google.com/file/d/1Ekp-zU6G8lV2xW4CAkT-p3XtheulVVV4/view?usp=drive_link){: .btn .btn--primary}
+[JA CVVC v200](https://bowlroll.net/file/355442){: .btn .btn--primary}
 
 ## Demo Song
 I~Ya I~Ya I~Ya (Neru) (with [Suigin Kurea](/singers/suigin-kurea))

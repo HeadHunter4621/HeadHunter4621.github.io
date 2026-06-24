@@ -7,7 +7,7 @@ permalink: /singers/oil/ja-cvvc-v2/
 {% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v2-demo.wav" %}
 
 ## Downloads
-[JA CVVC v200](https://drive.google.com/file/d/1odnz0SjHFPo4tVaKTD8fTwp49-5ru9ma/view?usp=drive_link){: .btn .btn--primary}
+[JA CVVC v200](https://bowlroll.net/file/355443){: .btn .btn--primary}
 
 ## Demo Song
 It Just Keeps Going (Kaguo) **(WIP)**

@@ -7,7 +7,7 @@ permalink: /singers/en'ne-jeho/ja-cvvc-v1/
 {% include embed-audio.html src="/assets/audio/demos/en'ne-jeho-ja-cvvx-v1-demo.wav" %}
 
 ## Downloads
-[JA CVVC v101](https://drive.google.com/file/d/1zzIU1dwWrK6o0UXmF4aLMGXHCdnl3yo1/view?usp=drive_link){: .btn .btn--primary} [JA CVVC v100](https://drive.google.com/file/d/1ocjoxYePRKUCzi1h27zX57qeu5FWCcuP/view?usp=drive_link){: .btn}
+[JA CVVC v101](https://bowlroll.net/file/355444){: .btn .btn--primary}
 
 ## Demo Song
 Demo Song: Dogs Walking (Kaguo)  
