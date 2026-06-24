@@ -3,8 +3,7 @@ title: "Mizuki Mae [美月マエ]"
 permalink: /singers/mizuki-mae/
 ---
 
-This is a voicebank that I recorded with a friend.
-It will be released soon!
+This is a voicebank that I recorded with a friend. It will be released soon!
 
 ## Character Info:
 * Name:

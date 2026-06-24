@@ -6,8 +6,7 @@ permalink: /singers/en'ne-jeho/
 ![image-right](/assets/images/standing-images/Jeho-Standing.png){: .align-right}
 
 ![image-right](/assets/images/singer-icons/Jeho-Icon.png){: .align-right}
-I made this voicebank with a friend! It is now available for download. 
-It has a smooth tone that is great for more gentle songs, but it also works well with faster songs if tuned correctly.
+I made this voicebank with a friend! It is now available for download. It has a smooth tone that is great for more gentle songs, but it also works well with faster songs if tuned correctly.
 
 (Standing art by Wikoymi)
 
