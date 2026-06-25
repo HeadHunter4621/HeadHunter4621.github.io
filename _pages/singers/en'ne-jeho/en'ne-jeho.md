@@ -17,5 +17,5 @@ I made this voicebank with a friend! It is now available for download. It has a 
   - Kanji: 鉛音ジェホ
 
 ## Voicebanks
-### [Japanese CVVC V1](/singers/en'ne-jeho/ja-cvvc-v1/){: .btn .btn--primary}
+### [Japanese CVVX V1](/singers/en'ne-jeho/ja-cvvx-v1/){: .btn .btn--primary}
 {% include embed-audio.html src="/assets/audio/demos/en'ne-jeho-ja-cvvx-v1-demo.wav" %}

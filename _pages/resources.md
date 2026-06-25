@@ -15,8 +15,6 @@ This is a list of all of my resources and the tools that I use!
 ### Development
 
 * [UTAU CVVX Info/Phonemizer](/resources/cvvx-info/) (WIP)
-* [Custom UTAU Reclists](/resources/reclists/utau/) (WIP)
-* [Custom DeepVocal Reclists](/resources/reclists/deepvocal/) (WIP)
 
 ### Tutorials
 
