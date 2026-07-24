@@ -9,7 +9,7 @@ Originally it was planned to be for Japanese only (hence the name "JA CVVX"), bu
 
 [Download Phonemizer](https://bowlroll.net/file/355508){: .btn .btn--inverse}
 
-If you want to make a voicebank with it, you ***must*** contact me (at my email, kouga-p@proton.me) for permission and instructions. **You may not develop a voicebank for it without permission.** It is not intended for use with normal JA CVVC/VCV/CV voicebanks and CVVX/VCVX/CVX will not work with the CVVX phonemizer..
+If you want to make a voicebank with it, you ***must*** contact me (at my email, kouga-p@proton.me) for permission and instructions. **You may not develop a voicebank for it without permission.** This phonemizer isn't intended to work with standard voicebanks, only CVVX and VCVX ones. CVVX/VCVX voicebanks include a fallback `presamp.ini` file so that they can be used with the presamp phonemizer, but functionality is limited.
 
 ## Installation instructions
 
