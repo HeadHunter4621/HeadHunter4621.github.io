@@ -44,7 +44,7 @@ I'm starting with this since I think it's pretty important. It's where you chang
 	* `MUSIC SCORE MODE`: Selected to edit notes, tracks, and pretty much everything
 	* `PARAMETER EDITOR MODE`: Selected to edit a track's parameters (in the note editor, see below)
 * `Tool Selector` (Section)
-	* `Select Tool`: Select notes and tracks
+	* `Arrow Tool`: Select notes and tracks
 	* `Pencil Tool`: Create notes and tracks
 	* `Line Tool`: Create lines in the note editor when using the `PARAMETER EDITOR MODE`
 	* `Eraser Tool`: Delete notes and tracks
@@ -71,7 +71,7 @@ To import audio files (such as instrumentals, singing, or effect sounds), flick 
 
 ### Selecting singers
 
-Select a part by left-clicking it while using the `Pencil Tool` or the `Select Tool`, then right-click it and hover over `singer`, then select the singer for that part.
+Select a part by left-clicking it while using the `Pencil Tool` or the `Arrow Tool`, then right-click it and hover over `singer`, then select the singer for that part.
 
 ## Note Area
 
@@ -83,11 +83,11 @@ Make sure that your `QUANTIZE` and `LENGTH` values are set to things that make s
 
 ### Lyrics
 
-To edit lyrics, double-click the note and type, same as with pretty much every editor., but there are some DV-specific behaviors.
+To edit lyrics, double-click the note and type, same as with pretty much every editor, but there are some DV-specific behaviors.
 
 #### Special note: `0`
 
-When you have a note with the lyric "`0`" (the number), it acts as silence. This is needed often, as for some reason DeepVocal connects notes that are close to each other without pausing. I try ot keep them at a pitch that's lower than the rest of the song so that they're visually separated, but that's just a preference thing. This is also useful as an extra phoneme, like a glottal stop. This also happens if you use phonemes that aren't in the voicebank.
+When you have a note with the lyric "`0`" (the number), it acts as silence. This is needed often, as for some reason DeepVocal connects notes that are close to each other without pausing. I try to keep them at a pitch that's lower than the rest of the song so that they're visually separated, but that's just a preference thing. This is also useful as an extra phoneme, like a glottal stop. This also happens if you use phonemes that aren't in the voicebank.
 
 #### Special note: `-`
 
@@ -107,7 +107,7 @@ While I haven't made anything that uses this feature, according to the [DeepVoca
 
 ##### Aliasing Behavior
 
-For an example with a hiragana dictionary, if you enter `か` into the note, the dictionary would convert it to `ka` and the note would display `か[ka]` to show that it converted.
+For an example with a hiragana dictionary, if you enter `か` into the note, the dictionary would convert it to `ka` and the note would display `か[ka]` to show what it converted to.
 
 ### Parameters
 
@@ -126,10 +126,33 @@ Here's a list of the different parameters and what they do, to my understanding:
 
 To edit them, use the `Pencil Tool` to draw curves or the `Line Tool` to draw perfect lines. use the `Eraser Tool` and select an area in order to reset the section.
 
-In addition to these parameters, you're able to edit each note's attack and vibrato by clicking the wedge-shaped and flat/sine-wave-shaped lines under each note à la Vocaloid.
+In addition to these parameters, you're able to edit each note's attack and vibrato by clicking the wedge-shaped and flat/sine-wave-shaped lines under each note à la Vocaloid. These just act as predefined curves to the `Pitch` parameter, but are handy. The names of the default ones are only in Chinese.
 
 ## Option Bar
+
+The option bar (orange, in my diagram) is pretty self-explanatory. Here's a list of the functions in case anyone needs it:
+
+* `File`: `New File`, `Open File`, `Save`, `Save As`, `Import MIDI`, `Import Instrumental`, `Export` (`Mixdown to file`, `Export each track`)
+* `Edit`: `Undo`, `Redo`, `Switch edit mode`, `Switch edit/view parameter`, `Arrow tool`, `Pencil tool`, `Line tool`, `Eraser tool`
+* `Preferences`: `Vibrato preferences`, `Portamento preferences`, `Set default symbol`, `Auto backup settings`, `Grid line`, `Return playhead to play position to start position on stop`, `Language setting`
+* `Help`: `About DeepVocal`
+
+These are all pretty easy to understand, but here are some that I think need extra notes
+
+* `Export`:
+	* `Mixdown to file` can export `.wav` files and `.mp3` files, very handy for sending them to people since `.mp3`s are smaller. `Export each track` can only export `.wav` files.
+* `Edit`
+	* `Switch edit mode` does the same thing as switching between `MUSIC SCORE MODE` and `PARAMETER EDITOR MODE`
+	
+### Editing Preferences
+
+DeepVocal's GUI has issues with its preferences. Due to it installing to `Program Files (x86)` by default, it can't write to the config file, so you need to edit it manually **or** run `DeepVocal.exe` as administrator. When running it as administrator, just change the settings (language settings requires the program to be restarted). I find that process annoying, so the next page of the tutorial is specifically about modifying the config files (the tables aren't here due to my site not allowing a table of contents and wide page at the same time).
 
 # Making a Project file
 
 As soon as you open DeepVocal, save the file to wherever you want it to be. Without doing this, you won't be able to use backup files if the editor crashes, so do it before you even make tracks!
+
+Have fun with DeepVocal! Make sure to save often, this software crashes quite frequently.
+
+Next Step: 
+[Editing Preferences](/resources/deepvocal/dv-tutorial/04/){: .btn .btn--primary}
