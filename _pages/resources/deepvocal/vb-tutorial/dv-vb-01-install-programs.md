@@ -21,8 +21,8 @@ Additionally (while not *technically* necessary), I ***strongly*** recommend usi
 1. Select "Download" from the website's homepage, then click the download button under "DeepVocal Editor"
 2. Extract `Setup_DeepVocal_beta_2.1.0.zip` and run `Setup_DeepVocal_beta_2.1.0.exe`
 3. Follow the installer's directions. This tutorial assumes that it is installed in the default location (`C:\Program Files (x86)\DeepVocal`), but if needed you can change it.
-4. If the DeepVocal editor opened on its own, close it. To change hte default language from Mandarin Chinese to English, go to `C:\Program Files (x86)\DeepVocal\config` in the file explorer and open `app.cfg` in a text editor (I use Notepad++, but Windows Notepad will work fine). This is basically the application's persistent settings page. Edit the line that starts with `"langFilePath"` to say `"langFilePath" : "C:\\Program Files (x86)\\DeepVocal\\language\\English.txt",
-` (or change the path to the correct path, if you installed somewhere else). Now you can open DeepVocal and verify that the language is set correctly.
+4. If the DeepVocal editor opened on its own, close it. To change the default language from Chinese to English, go to `C:\Program Files (x86)\DeepVocal\config` in the file explorer and open `app.cfg` in a text editor (I use Notepad++, but Windows Notepad will work fine). This is basically the application's persistent settings page. Edit the line that starts with `"langFilePath"` to say `"langFilePath" : "C:\\Program Files (x86)\\DeepVocal\\language\\English.txt",
+` (or change the path to the correct path, if you installed somewhere else). Make sure to save the file, then you can open DeepVocal and verify that the language is set correctly.
 5. Done! You can now close the DeepVocal editor.
 
 ## DeepVocal ToolBox Installation

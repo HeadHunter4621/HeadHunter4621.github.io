@@ -115,7 +115,7 @@ The first thing to do is select "Wav Location" and select the "recordings" folde
 Once you have the directory set correctly, it's time to actually start configuring. In the file explorer window, sort the files by name, then take the first name of the first one and type it into the "Wav File Name" box of DVTB. Technically you don't need to do these in any fixed order, I just recommend going alphabetically because it makes it the easiest to pick up where you left off. In the "Pitch" box, enter the pitch of the recording. Ideally, you recorded at exactly this pitch throughout all of every sample, but that isn't humanely possible. As long as it's relatively accurate, you're fine. To my knowledge, this only really effects multi-pitch voicebanks. 
 
 Here's how I like to have my windows arranged:
-![image-right](/assets/images/resources/deepvocal/dvtb-organization.png){: .align-center}
+![image-right](/assets/images/resources/deepvocal-vb-tutorial/dvtb-organization.png){: .align-center}
 
 ### Markers!
 
@@ -164,56 +164,56 @@ Have fun configuring all of the samples! Here are some examples to how they're s
 #### CV
 
 `-a`:
-![image-center](/assets/images/resources/deepvocal/example_-a.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_-a.png){: .align-center}
 
 `a` (In this example VSP and VEP are backwards. they should be in the opposite order, sorry!):
-![image-center](/assets/images/resources/deepvocal/example_a.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_a.png){: .align-center}
 
 `-se`:
-![image-center](/assets/images/resources/deepvocal/example_-se.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_-se.png){: .align-center}
 
 `-pyu`:
-![image-center](/assets/images/resources/deepvocal/example_-pyu.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_-pyu.png){: .align-center}
 
 `to`:
-![image-center](/assets/images/resources/deepvocal/example_to.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_to.png){: .align-center}
 
 `ka`:
-![image-center](/assets/images/resources/deepvocal/example_ka.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_ka.png){: .align-center}
 
 `nu`:
-![image-center](/assets/images/resources/deepvocal/example_nu.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_nu.png){: .align-center}
 
 #### VX
 
 `a_i`:
-![image-center](/assets/images/resources/deepvocal/example_a_i.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_a_i.png){: .align-center}
 
 `u_k`:
-![image-center](/assets/images/resources/deepvocal/example_u_k.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_u_k.png){: .align-center}
 
 `e_m`:
-![image-center](/assets/images/resources/deepvocal/example_e_m.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_e_m.png){: .align-center}
 
 `N_k`:
-![image-center](/assets/images/resources/deepvocal/example_n_k.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_n_k.png){: .align-center}
 
 `N_sh`:
-![image-center](/assets/images/resources/deepvocal/example_n_sh.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_n_sh.png){: .align-center}
 
 `a_Fr` (Tail):
-![image-center](/assets/images/resources/deepvocal/example_a_fr.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_a_fr.png){: .align-center}
 
 `o_-` (Tail):
-![image-center](/assets/images/resources/deepvocal/example_o_-.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_o_-.png){: .align-center}
 
 #### Independent
 
-***Note: Voicebanks made with DeepVocal ToolBox v2.1.0 will not support these phonemes, they will just play silence. I am working on finding a workaround, but it's very unlikely that it's possible to use anymore.*** shoutouts to discontinued software 💖 don't waste your time on them
+***Note: Voicebanks made with DeepVocal ToolBox v2.1.0 will not support these phonemes, they will just play silence. I am working on finding a workaround, but it's very unlikely that it's possible to use anymore.***
 
 
 `Ex` (Exhale) (It's very dim because breaths are quiet):
-![image-center](/assets/images/resources/deepvocal/example_ex.png){: .align-center}
+![image-center](/assets/images/resources/deepvocal-vb-tutorial/example_ex.png){: .align-center}
 
 ## Building
 
@@ -480,3 +480,6 @@ ry
 ### 5: Independent Symbol List
 
 ### 6: Tail Symbol List
+
+Next Step: 
+[Installing and Testing](/resources/deepvocal/vb-tutorial/04/){: .btn .btn--primary}
