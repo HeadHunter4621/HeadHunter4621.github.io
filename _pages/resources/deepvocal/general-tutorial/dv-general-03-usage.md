@@ -152,7 +152,7 @@ DeepVocal's GUI has issues with its preferences. Due to it installing to `Progra
 
 As soon as you open DeepVocal, save the file to wherever you want it to be. Without doing this, you won't be able to use backup files if the editor crashes, so do it before you even make tracks!
 
-Have fun with DeepVocal! Make sure to save often, this software crashes quite frequently.
+**That's the end of the tutorial, have fun with DeepVocal! Make sure to save often, this software crashes quite frequently.**
 
 Next Step: 
-[Editing Preferences](/resources/deepvocal/dv-tutorial/04/){: .btn .btn--primary}
+[Editing Preferences](/resources/deepvocal/dv-tutorial/04/){: .btn .btn--primary} (Optional)
