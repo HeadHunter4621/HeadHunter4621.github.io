@@ -15,4 +15,4 @@ VB Creation Tutorial:
 
 Resources:
 * [Video Tutorial by HitCoder](https://www.youtube.com/watch?v=vtSMaRr21AA) (may be easier to follow, but the maker is "skimming over the basics and even making some of [their] own mistakes" (according to the description))
-* [DeepVocal Discord Server](https://discord.gg/4rtuvz2twt) (Please ask any questions here!)
+* [DeepVocal Discord Server](https://discord.gg/rTebv92) (Please ask any questions here!)

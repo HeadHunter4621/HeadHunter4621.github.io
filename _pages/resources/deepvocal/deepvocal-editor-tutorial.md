@@ -12,4 +12,4 @@ DeepVocal Usage Tutorial:
 4. [Editing DeepVocal's Preferences](/resources/deepvocal/dv-tutorial/04/)
 
 Resources:
-* [DeepVocal Discord Server](https://discord.gg/4rtuvz2twt) (Please ask any questions here!)
+* [DeepVocal Discord Server](https://discord.gg/rTebv92) (Please ask any questions here!)
