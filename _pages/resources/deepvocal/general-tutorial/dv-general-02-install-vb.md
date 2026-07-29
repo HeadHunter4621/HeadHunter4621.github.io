@@ -17,7 +17,7 @@ Downloading voicebanks for DeepVocal is about the same as UTAU. They're just dis
 * Japanese - [Tsukuyomi-Chan](https://shikuon.weebly.com/tsukuyomi-chan.html) (soft voice, good quality voicebank and easy to start with!)
 * English & Japanese available - [Bunny](https://yinyangp.weebly.com/bunny-dv.html) (Neutral-tone voice. Haven't used it, but it's popular and sounds high-quality in the demos.)
 
-Also, I recommend looking at [VocaDB's DeepVocal tag](https://vocadb.net/T/7191/deepvocal), especially the "top artists", to find other popular voicebanks.
+You can also find voicebanks by looking at [DeepVocal Wikia's Vocals Page](https://deepvocal.fandom.com/wiki/Category:DeepVocal_vocals) and [VocaDB's DeepVocal tag](https://vocadb.net/T/7191/deepvocal) (especially the "top artists")!
 
 If you're using English (and other-language) voicebanks, please make sure you understand DeepVocal's quirks before that. You need to use them more like UTAU (entering the phonemes directly), and the phonetic systems aren't really standardized. If you use an English voicebank, please read the voicebank's documentation thoroughly.
 

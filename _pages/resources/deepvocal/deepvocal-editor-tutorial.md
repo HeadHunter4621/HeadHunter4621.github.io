@@ -13,3 +13,4 @@ DeepVocal Usage Tutorial:
 
 Resources:
 * [DeepVocal Discord Server](https://discord.gg/rTebv92) (Please ask any questions here!)
+* [DeepVocal Wikia](https://deepvocal.fandom.com/wiki/DeepVocal_Wikia)
