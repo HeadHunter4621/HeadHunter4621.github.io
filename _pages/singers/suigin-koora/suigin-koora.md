@@ -10,7 +10,7 @@ I have made (and will continue to make) many voicebanks with my voice, since (ob
 
 If you would like to use one of my older voicebanks, please email me.
 
-**NOTES ABOUT CVVX & VCVX** Suigin Koora CVVX has been cancelled in favor of Suigin Koora VCVX. When that voicebank is released, I will have more information about it (same with the DeepVocal voicebanks, which are unfinished right now).
+**NOTES ABOUT CVVX & VCVX** Suigin Koora CVVX has been cancelled in favor of Suigin Koora VCVX. This voicebank is now available for download and contains a `presamp.ini` file so that it'll work with the Japanese presamp phonemizer (if the lyrics are entered in romaji), and there are downloads and information on the CVVX phonemizer [here](/resources/cvvx-info/), and I recommend using that instead because it has more features.
 
 ## Character Info:
 - Name:
@@ -19,6 +19,9 @@ If you would like to use one of my older voicebanks, please email me.
     - Kanji: 水銀コーラ
 
 ## Voicebanks:
+
+### [Japanese VCVX](/singers/suigin-koora/ja-vcvx/){: .btn .btn--primary}
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-vcvx-demo.wav" %}
 
 ### [Japanese CVVC V2](/singers/suigin-koora/ja-cvvc-v2/){: .btn .btn--primary} (Soon to be replaced)
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v2-demo.wav" %}
