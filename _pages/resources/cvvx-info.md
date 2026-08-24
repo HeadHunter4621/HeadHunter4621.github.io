@@ -9,7 +9,7 @@ While CVVX is the current name, I might rename it someday since it supports othe
 
 Originally it was planned to be for Japanese only (hence the name "JA CVVX"), but I plan to add support for Lisatopian CVVX and VCVX as well as toki pona CVVX and VCVX. The phonemizer was commissioned and [Cadlaxa](https://github.com/Cadlaxa) made it.
 
-[Download Phonemizer](https://drive.google.com/file/d/1Va9iwhzwX9051gSBDI1QP-zsRvxVpwJa/view?usp=sharing){: .btn .btn--inverse}
+[Download Phonemizer](https://bowlroll.net/file/355508){: .btn .btn--inverse}
 
 If you want to make a voicebank with it, you ***must*** contact me (at my email, kouga-p@proton.me) for permission and instructions. **You may not develop a voicebank for it without permission.** It is not intended for use with normal JA CVVC/VCV/CV voicebanks and CVVX/VCVX/CVX will not work with the CVVX phonemizer..
 
