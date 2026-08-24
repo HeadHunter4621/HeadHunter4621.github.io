@@ -17,7 +17,7 @@ If you want to make a voicebank with it, you ***must*** contact me (at my email,
 
 Download and extract the `.zip` file
 
-Put the `.dll` file in OpenUtau's Plugins folder (`C:\[User]\Documents\OpenUtau\Plugins\`, if installed with the installer)
+Put the `.dll` file in OpenUtau's Plugins folder (`C:\[User]\Documents\OpenUtau\Plugins\`, if installed to the default path)
 
 Restart OpenUtau if it's open
 
