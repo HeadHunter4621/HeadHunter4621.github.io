@@ -10,6 +10,7 @@ This is a voicebank that I recorded with a friend. It will be released soon!
   * Romaji/English (First, Last): Mae Mizuki
   * Kana: みずき まえ
   * Kanji: 美月マエ
+* Pronouns: She/They
 
 ## Voicebanks
 ### [Japanese CVVC V1](/singers/mizuki-mae/ja-cvvc-v1/){: .btn .btn--primary}

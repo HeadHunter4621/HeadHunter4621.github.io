@@ -7,6 +7,7 @@ WIP Japanese CVVX voicebank that I made with a friend
 
 ## Character Info
 - Name: ASH
+- Pronouns: 
 
 ## Voicebanks
 ### [Japanese CVVX V1](/singers/ash/ja-cvvx-v1/){: .btn .btn--primary}

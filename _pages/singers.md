@@ -7,22 +7,20 @@ This is the directory where I'll host all of my UTAU voicebanks and DiffSinger m
 
 ## Public:
 - [Suigin Koora (水銀 コーラ)](/singers/suigin-koora)
-- [ASH](/singers/ash)
-- [CHAR](/singers/char)
 - [En'ne Jeho (鉛音 ジェホ)](/singers/en'ne-jeho)
 - [Mizuki Mae (美月 マエ)](/singers/mizuki-mae)
-- [OIL](/singers/oil)
-- [Suigin Kurea/Claire (水銀 クレア)](/singers/suigin-kurea)
 
 
 ## Private:
+- [ASH](/singers/ash)
 - [Banjo (バンジョー)](/singers/banjo)
 - [Ely (イーライ)](/singers/ely)
 - [Girlthing (ガールシング)](/singers/girlthing)
 - [Haruka](/singers/haruka)
 - [Kobayashi Umeko (小林 梅子)](/singers/kobayashi-umeko)
-- [Max](/singers/max)
+- [OIL](/singers/oil)
 - [Scrunge (スクランジ)](/singers/scrunge)
+- [Suigin Kurea/Claire (水銀 クレア)](/singers/suigin-kurea)
 - [Suigin Kurisu/Chris (水銀 クリス)](/singers/suigin-kurisu)
 - [Suigin Sherii/Shelly (水銀 シェリ)](/singers/suigin-sherii)
 - [Tetsu Noa (鉄 ノア)](/singers/tetsu-noa)
