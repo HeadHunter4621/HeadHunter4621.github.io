@@ -1,5 +1,5 @@
 ---
-title: "Suigin Koora [水銀 コーラ] - DiffSinger (NeoDIVA)"
+title: "Suigin Koora [水銀 コーラ] - DiffSinger (NeoDiva)"
 permalink: /singers/suigin-koora/ds/
 ---
 
@@ -15,10 +15,11 @@ Demo Song: Human (Flavor Foley) (Fourth/Final Section)
 [DiffSinger (NeoDiva)](https://neodiva.xyz){: .btn .btn--primary}
 
 ## Voicebank Info
-- Trained and Distributed by [NeoDIVA](https://www.neodiva.xyz/home)
+- Trained and Distributed by [NeoDiva](https://www.neodiva.xyz/home)
 - Languages
-    - English (Native)
-    - Japanese (Secondary)
+    - English [Native]
+    - Japanese [Secondary]
+    - Toki Pona [Fluent]
     - Thai
     - Korean
     - Italian
@@ -29,13 +30,14 @@ Demo Song: Human (Flavor Foley) (Fourth/Final Section)
     - Romanian
     - Polish
     - French
-- Songs Used in Data:
-    - English:
+- Songs Used in Data (1 hour 50 minutes total):
+    - English (48 minutes):
         - Metronome (Circus-P)
         - Static (Flavor Foley)
         - Weathergirl (Flavor Foley)
+        - 0ne (Staircatte)
         - Suigin Koora's English UTAU Voicebank Data
-    - Japanese
+    - Japanese (55 minutes):
         - Be a Flower (Ryokuoushoku Shakai)
         - Brain (Kanaria)
         - Bunny Girl (Akasaki)
@@ -47,4 +49,6 @@ Demo Song: Human (Flavor Foley) (Fourth/Final Section)
         - Senbonzakura (Kurousa-P)
         - Young Girl A (Shiina Mota)
         - Suigin Koora's Japanese UTAU Voicebank Data
-    - *Trained alongside all other NeoDIVA data (see website for details)*
+      - Toki Pona (6 minutes):
+        - ~6 minutes of randomly-generated toki pona words
+    - *Trained alongside all other NeoDiva data (see NeoDiva website for details)*

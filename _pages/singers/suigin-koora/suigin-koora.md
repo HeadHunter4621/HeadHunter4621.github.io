@@ -14,19 +14,17 @@ If you would like to use one of my older voicebanks, please email me.
 
 ## Character Info:
 - Name:
-    - Romaji/English (First, Last): Koora Suigin
-    - Kana: すいぎん こおら
-    - Kanji: 水銀コーラ
+  - Romaji/English (First, Last): Koora Suigin
+  - Kana: すいぎん こおら
+  - Kanji: 水銀コーラ
+- Pronouns: It/They
 
 ## Voicebanks:
 
 ### [Japanese VCVX](/singers/suigin-koora/ja-vcvx/){: .btn .btn--primary}
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-vcvx-demo.wav" %}
 
-### [Japanese CVVC V2](/singers/suigin-koora/ja-cvvc-v2/){: .btn .btn--primary} (Soon to be replaced)
-{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v2-demo.wav" %}
-
-### [DiffSinger (NeoDIVA)](/singers/suigin-koora/ds/){: .btn .btn--primary}
+### [DiffSinger (NeoDiva)](/singers/suigin-koora/ds/){: .btn .btn--primary}
 
 English: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ds-neodiva-w4-en-demo.wav" %}
 
@@ -40,6 +38,9 @@ Japanese: {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ds-n
 
 
 ## Obsolete & Testing Voicebanks
+
+### Japanese CVVC V2
+{% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-cvvc-v2-demo.wav" %}
 
 ### Japanese VCV V1
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-vcv-v1-demo.wav" %}

@@ -15,6 +15,7 @@ I made this voicebank with a friend! It is now available for download. It has a 
   - Romaji/English (First, Last): Jeho En'ne 
   - Kana: えんね じぇほ 
   - Kanji: 鉛音ジェホ
+- Pronouns: She/Her
 
 ## Voicebanks
 ### [Japanese CVVC V1](/singers/en'ne-jeho/ja-cvvc-v1/){: .btn .btn--primary}

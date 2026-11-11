@@ -7,6 +7,8 @@ English UTAU voicebank recorded/configured using Salem Wasteland EN LITE reclist
 It is very simple to set up and use, but not especially high quality.
 Most samples were recorded at 120 BPM, but a few were recorded at 100 BPM because I struggled with the pronunciation.
 
+I have recorded a new voicebank with the "FULL" reclist, but it isn't public yet because I am still working on the demo song.
+
 ## Sample
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-en-s-cvvc-v1-demo.wav" %}
 
