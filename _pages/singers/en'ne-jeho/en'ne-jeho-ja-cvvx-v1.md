@@ -6,7 +6,7 @@ permalink: /singers/en'ne-jeho/ja-cvvx-v1/
 ## Sample
 {% include embed-audio.html src="/assets/audio/demos/en'ne-jeho-ja-cvvx-v1-demo.wav" %}
 
-## Downloads
+## Downloads (BowlRoll Password : `jeho`)
 [JA CVVX v110](https://bowlroll.net/file/355509){: .btn .btn--primary}
 
 ## Demo Song

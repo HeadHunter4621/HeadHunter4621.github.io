@@ -6,7 +6,7 @@ permalink: /singers/oil/ja-cvvc-v2/
 ## Sample
 {% include embed-audio.html src="/assets/audio/demos/oil-ja-cvvc-v2-demo.wav" %}
 
-## Downloads
+## Downloads (BowlRoll Password : `oil`)
 [JA CVVC v200](https://bowlroll.net/file/355443){: .btn .btn--primary}
 
 ## Demo Song

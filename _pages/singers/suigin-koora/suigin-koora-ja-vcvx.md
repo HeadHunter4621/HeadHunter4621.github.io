@@ -10,7 +10,7 @@ An update will come soon, which will add CV and VC aliases, but they are not add
 ## Sample
 {% include embed-audio.html src="/assets/audio/demos/suigin-koora-ja-vcvx-demo.wav" %}
 
-## Download
+## Download (BowlRoll Password : `koora`)
 [JA VCVX v100](https://bowlroll.net/file/358188){: .btn .btn--primary}
 
 ## Demo Song

@@ -14,7 +14,7 @@ Most samples were recorded at 120 BPM, but a few were recorded at 100 BPM becaus
 Demo Song: Human (Flavor Foley) (Second Section)
 {% include video id="13ZJX4AOPuA" provider="youtube" %}
 
-## Downloads
+## Downloads (BowlRoll Password : `koora`)
 [EN S-CVVC v100](https://bowlroll.net/file/355440){: .btn .btn--primary}
 
 ## Voicebank Info
